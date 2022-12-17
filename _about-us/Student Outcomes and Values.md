@@ -44,3 +44,5 @@ _Are self-directed and curious, and display humility and a love for learning_
 _To undertake learning as a lifelong endeavour requiring effort, critical questioning and creative solutions and to have an attitude of humility and excellence in all that is undertaken._
 
 <h6 style="color:red">TECK WHYEAN</h6><b>CHAMPS EXCEL</b>
+
+![](/images/kids.png)
