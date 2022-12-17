@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our achievements/2018 Achievement.md
       - Our achievements/2017 Achievement.md
       - Our achievements/.keep
       - Mission, Vision and Motto.md
