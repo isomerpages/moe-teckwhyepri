@@ -42,4 +42,4 @@ _Are self-directed and curious, and display humility and a love for learning_
 **L**EARN WITH RESILIENCE  
 _To undertake learning as a lifelong endeavour requiring effort, critical questioning and creative solutions and to have an attitude of humility and excellence in all that is undertaken._
 
-TECK WHYEAN **CHAMPS EXCEL**
+<h6 style="color:red">TECK WHYEAN</h6><b>CHAMPS EXCEL</b>
