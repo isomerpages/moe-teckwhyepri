@@ -1,0 +1,4 @@
+collections:
+  parents-hub:
+    output: true
+    order: []
