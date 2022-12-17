@@ -4,7 +4,7 @@ title: Title
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
       title: Hero title
@@ -22,12 +22,10 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+  - infopic:
+      title: TWPS e-OPEN HOUSE
+      button: explore our stories
+      url: https://sites.google.com/twps.edu.sg/e-open-house/home
+      image: /images/HEADER_edit_homepage.png
+      alt: Image alt text
 ---
-
-
