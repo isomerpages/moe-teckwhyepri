@@ -1,6 +1,12 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: about us
+    collection: about-us
+  - title: our family
+    collection: our-family
+  - title: our level experiences
+    collection: our-level-experiences
+  - title: our cca
+    collection: our-cca
+  - title: parents hub
+    collection: parents-hub
