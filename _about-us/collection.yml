@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our achievements/.keep
       - Mission, Vision and Motto.md
       - Student Outcomes and Values.md
       - Our Crest.md
