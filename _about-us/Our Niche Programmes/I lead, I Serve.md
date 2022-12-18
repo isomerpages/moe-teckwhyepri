@@ -4,7 +4,6 @@ permalink: /about-us/our-niche-programmes/i-lead-i-serve/
 description: ""
 third_nav_title: Our Niche Programmes
 ---
-
 <img src="/images/I-Lead-Picture-1.jpg" 
          style="width:500px"
 	/>
@@ -25,3 +24,5 @@ As part of student leadership development, a broad range of experiences will be 
 
 Some of the key school programmes and events that have explicit integration of the leadership elements are Form-teacher Guidance Period (FTGP), Co-Curricular Activities (CCA), Values in Action (VIA), P4 Adventure Camp and P5 Internationalisation Trips. Other leadership opportunities given to the students include leadership roles that are class based, level based or school based.  
 With the heart to serve other, students will become true leaders who will contribute and serve those around them.
+
+![](/images/kids.png)
