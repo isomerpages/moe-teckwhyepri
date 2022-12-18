@@ -2,4 +2,5 @@ collections:
   our-level-experiences:
     output: true
     order:
+      - Primary 5.md
       - Primary 6.md
