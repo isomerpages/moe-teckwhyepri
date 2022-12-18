@@ -2,9 +2,9 @@ collections:
   about-us:
     output: true
     order:
-      - Our niche programmes/Media Whiz Kids.md
-      - Our niche programmes/I lead, I Serve.md
-      - Our niche programmes/.keep
+      - Our Niche Programmes/Media Whiz Kids.md
+      - Our Niche Programmes/I lead, I Serve.md
+      - Our Niche Programmes/.keep
       - Our achievements/2020 EAGLES AWARD.md
       - Our achievements/2019 Achievements.md
       - Our achievements/2018 Achievements.md
