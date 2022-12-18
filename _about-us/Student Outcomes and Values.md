@@ -3,7 +3,7 @@ title: Student Outcomes and Values
 permalink: /about-us/student-outvomes-and-values/
 description: ""
 ---
-<h6 style="color:navyblue">TECK WHYE PRIMARY SCHOOL<br>  STUDENT OUTCOMES AND VALUES IN ACTION</h6>
+<h4 style="color:navyblue">TECK WHYE PRIMARY SCHOOL<br>  STUDENT OUTCOMES AND VALUES IN ACTION</h4>
 
 
 
