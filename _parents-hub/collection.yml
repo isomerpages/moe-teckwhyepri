@@ -1,4 +1,5 @@
 collections:
   parents-hub:
     output: true
-    order: []
+    order:
+      - Announcements.md
