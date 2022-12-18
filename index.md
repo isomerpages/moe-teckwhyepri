@@ -2,7 +2,7 @@
 layout: homepage
 title: Title
 description: An Isomer site of the Singapore Government
-image: /images/isomer-logo.svg
+image: /images/TWPS-School-Logo-with-shadow.png
 permalink: /
 notification: ""
 sections:
@@ -29,3 +29,4 @@ sections:
       image: /images/HEADER_edit_homepage.png
       alt: Image alt text
 ---
+
