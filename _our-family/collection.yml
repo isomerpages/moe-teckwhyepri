@@ -2,5 +2,6 @@ collections:
   our-family:
     output: true
     order:
+      - Our Staff.md
       - Our SAC.md
       - Our PSG.md
