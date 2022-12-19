@@ -2,6 +2,7 @@ collections:
   parents-hub:
     output: true
     order:
+      - Service Providers.md
       - Useful External Links.md
       - Parents Portal.md
       - Announcements.md
