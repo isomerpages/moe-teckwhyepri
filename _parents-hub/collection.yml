@@ -2,6 +2,7 @@ collections:
   parents-hub:
     output: true
     order:
+      - Big Heart Student Care.md
       - Family Matters @ School.md
       - Service Providers.md
       - Useful External Links.md
