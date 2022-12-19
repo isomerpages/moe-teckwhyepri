@@ -19,3 +19,5 @@ Pupils also discover that there is more to English and Mother Tongue languages t
 **Learning Journeys**
 
 Besides these, pupils will also embark on an educational journey to discover NEWater, Singapore’s Third National Tap. They will learn about the importance of water sustainability to Singapore’s independence and better appreciate the efforts that have been invested into developing NEWater to strengthen our water security and drought resilience.
+
+![](/images/kids.png)
