@@ -19,14 +19,14 @@ Please refer to list of items to bring during the Admin Day:
 8) Bank account number (for GIRO application)  
 9) Latest payslip, IRAS Notice of Assessment (NOA) & 12 months’ CPF contribution history of all adult household members below 63 years old (if applying for financial assistance)
 
-P1 Orientation for 2023 Cohort
-------------------------------
+## P1 Orientation for 2023 Cohort
+
 
 [1\. P1 Booklist 2023](https://teckwhyepri.moe.edu.sg/wp-content/uploads/2022/11/TWPS-2023-Booklist-P1.pdf)
 
 [2\. P1 Uniform Order Form 2023](https://teckwhyepri.moe.edu.sg/wp-content/uploads/2022/11/TWPS-2023_uniform-order-form.pdf)
 
-[3\. GIRO & Edusave Schemes 2023](https://teckwhyepri.moe.edu.sg/wp-content/uploads/2020/10/2.-GIRO-Edusave-Schemes-2021.pdf)
+[3\. GIRO & Edusave Schemes 2023](/files/GIRO-Edusave-Schemes-2021.pdf)
 
 [4\. GIRO Form 2023](https://teckwhyepri.moe.edu.sg/wp-content/uploads/2021/10/3_GIRO-Application-Form.pdf)
 
