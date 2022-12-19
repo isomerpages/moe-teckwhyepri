@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      subtitle: Teck Why Primary School
+      subtitle: Teck Whye Primary School
       background: /images/twpshome.gif
       key_highlights:
         - title: Announcements
