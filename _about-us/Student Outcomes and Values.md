@@ -7,10 +7,10 @@ description: ""
 
 
 
-**STUDENT OUTCOMES**  
+#### STUDENT OUTCOMES  
 **(BE TECK WHYEAN CHAMPs)**_The use of CHAMPs connotes the idea of personal excellence and the broad domains outlined below show the range of areas in which one might excel in._
 
-**VALUES in ACTION**  
+#### VALUES in ACTION
 **(TECK WHYEAN CHAMPSEXCEL)**_The values are phrased to capture the related actions so as to give life to these values.  These values are equally applicable to all the staff as they approach their work._
 
 **C**ONFIDENT COMMUNICATORS  
