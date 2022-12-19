@@ -43,3 +43,6 @@ Email: [HPB\_Dental\_Counter@hpb.gov.sg](mailto:HPB_Dental_Counter@hpb.gov.sg)
 Address: Level 4, Health Promotion Board  
 3 Second Hospital Avenue  
 Singapore 168937
+
+
+![](/images/kids.png)
