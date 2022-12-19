@@ -43,3 +43,5 @@ Please refer to list of items to bring during the Admin Day:
 [8c. NEUPC FibreBroadband Application Form](/files/7c_NEUPC-FibreBroadband-Application-Form.pdf)
 
 [9\. School Bus Application Form](/files/8_School-Bus-Application-Form.pdf)
+
+![](/images/kids.png)
