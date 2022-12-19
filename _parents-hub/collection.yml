@@ -2,6 +2,7 @@ collections:
   parents-hub:
     output: true
     order:
+      - Useful Information.md
       - P1 Orientation & Admin Day.md
       - Parents Gateway.md
       - Big Heart Student Care.md
