@@ -2,5 +2,6 @@ collections:
   our-cca:
     output: true
     order:
+      - Our Clubs & Societies.md
       - Our Uniformed Group.md
       - Our Service to School.md
