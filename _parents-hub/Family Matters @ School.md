@@ -38,3 +38,5 @@ For a list of our upcoming Family Matters@School programmes in Teck Whye Primary
 **Who to Contact?**  
 If you are interested to join our upcoming Family Matters@School (FMS) programmes, please feel free to call us at 6769 1012 and leave a message for  
 our FMS coordinator, Mrs Begum, or email her directly at [twps.sfe.begum@gmail.com](mailto:twps.sfe.begum@gmail.com)
+
+![](/images/kids.png)
