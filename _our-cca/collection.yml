@@ -2,4 +2,5 @@ collections:
   our-cca:
     output: true
     order:
+      - Our Uniformed Group.md
       - Our Service to School.md
