@@ -17,7 +17,7 @@ description: ""
 
 *   [P1 Registration](https://www.moe.gov.sg/admissions/primary-one-registration)
 
-*   [Subject Based Banding](https://www.moe.gov.sg/docs/default-source/document/education/primary/files/moe_sbb_eng_2018.pdf)
+*   [Subject Based Banding]pdf not found(https://www.moe.gov.sg/docs/default-source/document/education/primary/files/moe_sbb_eng_2018.pdf)
 
 *   [Secondary One Posting Exercise](https://www.moe.gov.sg/admissions/secondary-one-posting-exercise)
 
