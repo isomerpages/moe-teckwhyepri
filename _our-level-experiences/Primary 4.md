@@ -27,3 +27,5 @@ Our P4 passionate learners completed the Foundation Ukulele module with pride an
 The E2K Science programme aims to develop scientific inquiry process skills where pupils learn Science by going through the same process that scientists use to generate knowledge. 
 
 The E2K Mathematics programme aims to develop pupils’ mathematical reasoning skills and deepen their conceptual understanding through an inquiry approach. Pupils will have opportunities to collaborate with their peers and engage in mathematical thinking through resources such as puzzles, games and mathematics explorations which are specially designed for the programme. The rich learning experiences offered by the programmes serve to help pupils to develop the habits, attitudes and dispositions scientists and mathematicians possess, as well as to gain important 21st century competencies such as critical and inventive thinking and effective communication skills.
+
+![](/images/kids.png)
