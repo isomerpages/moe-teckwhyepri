@@ -24,3 +24,5 @@ To encourage pupils to be more environmentally aware, the Primary 6 pupils will 
 **Theatre productions & Mother Tongue Fortnight**
 
 To promote a greater appreciation of the Arts, P6 pupils attend Percussion enrichment lessons, watch theatre productions and have an in-depth study of a chosen literature text. The pupils will also gain a deeper appreciation of Mother Tongue through the various activities carried out during Mother Tongue Fortnight.
+
+![](/images/kids.png)
