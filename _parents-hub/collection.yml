@@ -2,4 +2,5 @@ collections:
   parents-hub:
     output: true
     order:
+      - Parents Portal.md
       - Announcements.md
