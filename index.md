@@ -10,15 +10,15 @@ sections:
       subtitle: Teck Why Primary School
       background: /images/twpshome.gif
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+        - title: Announcements
+          description: ""
+          url: /parents-hub/announcements/
+        - title: TWPS in the News
+          description: ""
+          url: /about-us/twps-in-the-news/
+        - title: e-newslater 2022
+          description: ""
+          url: /parents-hub/announcements/#enewsletter
   - infopic:
       title: TWPS e-OPEN HOUSE
       button: explore our stories
