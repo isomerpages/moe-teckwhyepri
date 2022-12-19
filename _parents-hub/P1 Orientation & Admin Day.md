@@ -22,24 +22,24 @@ Please refer to list of items to bring during the Admin Day:
 ## P1 Orientation for 2023 Cohort
 
 
-[1\. P1 Booklist 2023](https://teckwhyepri.moe.edu.sg/wp-content/uploads/2022/11/TWPS-2023-Booklist-P1.pdf)
+[1\. P1 Booklist 2023](files/TWPS-2023-Booklist-P1.pdf)
 
-[2\. P1 Uniform Order Form 2023](https://teckwhyepri.moe.edu.sg/wp-content/uploads/2022/11/TWPS-2023_uniform-order-form.pdf)
+[2\. P1 Uniform Order Form 2023](/files/TWPS-2023_uniform-order-form.pdf)
 
 [3\. GIRO & Edusave Schemes 2023](/files/GIRO-Edusave-Schemes-2021.pdf)
 
-[4\. GIRO Form 2023](https://teckwhyepri.moe.edu.sg/wp-content/uploads/2021/10/3_GIRO-Application-Form.pdf)
+[4\. GIRO Form 2023](/files/3_GIRO-Application-Form.pdf)
 
-[5\. Edusave Form 2023 (For Singapore Citizens)](https://teckwhyepri.moe.edu.sg/wp-content/uploads/2021/10/4_Edusave-Application-Form.pdf)
+[5\. Edusave Form 2023 (For Singapore Citizens)](/files/4_Edusave-Application-Form.pdf)
 
-[6\. MOE FAS Pamphlet 2023](https://teckwhyepri.moe.edu.sg/wp-content/uploads/2022/10/MOE-FAS-Pamphlet-for-schools-2023.pdf)
+[6\. MOE FAS Pamphlet 2023](/files/MOE-FAS-Pamphlet-for-schools-2023.pdf)
 
-[7\. MOE FAS Application Form 2023](https://teckwhyepri.moe.edu.sg/wp-content/uploads/2022/10/MOE-FAS-Application-Form-2023.pdf)
+[7\. MOE FAS Application Form 2023](/files/MOE-FAS-Application-Form-2023.pdf)
 
-[8a. NEUPC Application Form for MOE FAS](https://teckwhyepri.moe.edu.sg/wp-content/uploads/2022/11/NPP-Application-Form-v5.6-1-January-22-for-MOE-SPED-FAS.pdf)
+[8a. NEUPC Application Form for MOE FAS](/files/NPP-Application-Form-v56-1-January-22-for-MOE-SPED-FAS.pdf)
 
-[8b. NEUPC Application Form for NON MOE FAS](https://teckwhyepri.moe.edu.sg/wp-content/uploads/2022/11/NPP-Application-Form-v12.6-1-January-22-for-NON-MOE-SPED-FAS.pdf)
+[8b. NEUPC Application Form for NON MOE FAS](/files/NPP-Application-Form-v126-1-January-22-for-NON-MOE-SPED-FAS.pdf)
 
-[8c. NEUPC FibreBroadband Application Form](https://teckwhyepri.moe.edu.sg/wp-content/uploads/2021/10/7c_NEUPC-FibreBroadband-Application-Form.pdf)
+[8c. NEUPC FibreBroadband Application Form](/files/7c_NEUPC-FibreBroadband-Application-Form.pdf)
 
-[9\. School Bus Application Form](https://teckwhyepri.moe.edu.sg/wp-content/uploads/2021/10/8_School-Bus-Application-Form.pdf)
+[9\. School Bus Application Form](/files/8_School-Bus-Application-Form.pdf)
