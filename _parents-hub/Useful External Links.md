@@ -30,3 +30,5 @@ description: ""
 *   [Self-swab Antigen Rapid Test (ART) for children above 7 year old](https://youtu.be/Q2e65QPf52k)
 
 *   [Self-swab Antigen Rapid Test (ART) for children below 7 years old](https://youtu.be/MggmzHkKxto)
+
+![](/images/kids.png)
