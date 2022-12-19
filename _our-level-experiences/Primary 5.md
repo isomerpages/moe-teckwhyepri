@@ -19,3 +19,5 @@ Another highlight for a P5 pupil is the **National Education (NE) Show** which
 **Maritime Experiential Museum**
 
 As part of the Social Studies syllabus, Primary 5 pupils will set off on an exciting voyage to learn about maritime history and its significance in Singapore at the **Maritime Experiential Museum**. They will also get to find out more about the nautical achievements and the lives of people in ancient China and India. Pupils will be transported through time in 15 thematic galleries, journey in the tailwinds of renowned seafarers, and even flee pirate invaders aboard a burning ship. Pupils will also get to view the “Jewel of Muscat” – the actual ship that made a five-month, 5 000km trip along an ancient trade route from Oman to Singapore in 2010, using only sailing techniques available in the 9th century.
+
+![](/images/kids.png)
