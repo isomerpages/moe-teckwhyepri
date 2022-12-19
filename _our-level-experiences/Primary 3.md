@@ -28,3 +28,5 @@ P3 pupils taking Chinese as their Mother Tongue Language will participate in the
 **PAL**
 
 P3 pupils will also undergo  4 PAL (Programme for Active Learning) Drama lessons during their FTGP lessons. Through dramatisation techniques and role-playing, they will learn how to appreciate and acknowledge the differences between themselves and their peers, being respectful of each other’s space and showing compassion to people in need.
+
+![](/images/kids.png)
