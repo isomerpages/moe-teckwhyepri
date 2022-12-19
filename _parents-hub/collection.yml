@@ -2,5 +2,6 @@ collections:
   parents-hub:
     output: true
     order:
+      - Useful External Links.md
       - Parents Portal.md
       - Announcements.md
