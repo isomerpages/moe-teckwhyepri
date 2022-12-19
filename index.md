@@ -34,4 +34,8 @@ sections:
         allowfullscreen></iframe>
       button: For facebook, click here
       url: https://www.facebook.com/TWPSSG/
+  - resources:
+      title: Resources Section Title
+      subtitle: Resources Section Subtitle
+      button: Resources Button Name
 ---
