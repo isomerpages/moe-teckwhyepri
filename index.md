@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Title
+title: Teck Whye Primary School
 description: An Isomer site of the Singapore Government
 image: /images/TWPS-School-Logo-with-shadow.png
 permalink: /
@@ -38,3 +38,4 @@ sections:
       title: Our Stories
       subtitle: family of twps
 ---
+
