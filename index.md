@@ -35,7 +35,6 @@ sections:
       button: For facebook, click here
       url: https://www.facebook.com/TWPSSG/
   - resources:
-      title: Resources Section Title
-      subtitle: Resources Section Subtitle
-      button: Resources Button Name
+      title: Our Stories
+      subtitle: family of twps
 ---
