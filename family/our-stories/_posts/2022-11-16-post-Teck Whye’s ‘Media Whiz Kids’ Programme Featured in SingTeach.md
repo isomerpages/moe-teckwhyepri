@@ -16,7 +16,7 @@ image: ""
 </table>
 
 
-[SingTeach](https://singteach.nie.edu.sg/), a publication by the Office of Education Research, National Institute of Education (Singapore), featured Teck Whye Primary School’s '[Media Whiz Kids](https://teckwhyepri.moe.edu.sg/our-niche-programmes/media-whiz-kids/)' programme.
+[SingTeach](https://singteach.nie.edu.sg/), a publication by the Office of Education Research, National Institute of Education (Singapore), featured Teck Whye Primary School’s '[Media Whiz Kids](/about-us/our-niche-programmes/media-whiz-kids/)' programme.
 
 In this featured writeup (“Nurturing Future-Ready Digital Learners through Media-Making”), Miss Gan Yeh Li (Subject Head / Information and Communications Technology) and Mdm Nurul Huda (Senior Teacher / English Language) shared about the “Media Whiz Kids” programme and how it is used to teach our students media literacy and critical thinking skills.
 
