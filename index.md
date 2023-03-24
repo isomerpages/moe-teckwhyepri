@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      subtitle: Teck Whye Primary School
       background: /images/twpshome.gif
       key_highlights:
         - title: Announcements
@@ -38,4 +37,3 @@ sections:
       title: Our Stories
       subtitle: family of twps
 ---
-
