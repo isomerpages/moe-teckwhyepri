@@ -20,10 +20,13 @@ sections:
           url: /parents-hub/announcements/#enewsletter
   - infopic:
       title: TWPS e-OPEN HOUSE
-      button: explore our stories
+      button: explore our school
       url: https://sites.google.com/twps.edu.sg/e-open-house/home
       image: /images/HEADER_edit_homepage.png
-      alt: Image alt text
+      alt: e-Open House
+      description: Come and discover our exciting and vibrant school and find out more
+        about life in TWPS for your child! At TWPS, we strongly believe in Every
+        Child, Our Child.
   - infobar:
       subtitle: Social media
       description: <iframe width="560" height="315"
