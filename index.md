@@ -12,6 +12,9 @@ sections:
         - title: Student's Work
           description: TWPS Youtube Channel
           url: https://www.youtube.com/channel/UC8Oab8_uKsYOWYdA6KUi-RA
+        - title: TWPS Highlights
+          description: Minister's Visit
+          url: ""
         - title: TWPS in the News
           description: News Highlights
           url: ITN
