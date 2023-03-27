@@ -9,12 +9,12 @@ sections:
   - hero:
       background: /images/twpshome.gif
       key_highlights:
+        - title: EVENTS & PHOTOS
+          description: TWPS Facebook Page
+          url: https://www.facebook.com/TWPSSG
         - title: Student's Work
           description: TWPS Youtube Channel
           url: https://www.youtube.com/channel/UC8Oab8_uKsYOWYdA6KUi-RA
-        - title: TWPS Highlights
-          description: Minister's Visit
-          url: ""
         - title: TWPS in the News
           description: News Highlights
           url: ITN
@@ -30,13 +30,6 @@ sections:
       description: Come and discover our exciting and vibrant school and find out more
         about life in TWPS for your child! At TWPS, we strongly believe in Every
         Child, Our Child.
-  - infobar:
-      description: <iframe
-        src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FTWPSSG&tabs&width=500&height=130&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=false&appId"
-        width="500" height="130" style="border:none;overflow:hidden"
-        scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay;
-        clipboard-write; encrypted-media; picture-in-picture;
-        web-share"></iframe>
   - resources:
       title: Announcement
 ---
