@@ -10,14 +10,17 @@ sections:
       background: /images/twpshome.gif
       key_highlights:
         - title: Events & Photos
-          description: ""
+          description: TWPS Facebook Page
           url: https://www.facebook.com/TWPSSG/
+        - title: Student's Work
+          description: TWPS Youtube Channel
+          url: https://www.youtube.com/channel/UC8Oab8_uKsYOWYdA6KUi-RA
         - title: TWPS in the News
-          description: ""
-          url: /about-us/twps-in-the-news/
-        - title: e-newslater 2022
-          description: ""
-          url: /parents-hub/announcements/#enewsletter
+          description: News Highlights
+          url: ITN
+        - title: TWPS Newsletter
+          description: Digital Newsletter
+          url: ""
   - infopic:
       title: TWPS e-OPEN HOUSE
       button: explore our school
