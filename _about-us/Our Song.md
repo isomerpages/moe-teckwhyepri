@@ -3,7 +3,7 @@ title: Our Song
 permalink: /about-us/our-song/
 description: ""
 ---
-<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/cJzeG2lXYew" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cJzeG2lXYew" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 With heads held high  
 Our flag we fly  
@@ -23,4 +23,5 @@ To win a name for Teck Whye Primary
 For Teck Whye Primary
 
 ![](/images/kids.png)
-<strong></strong></p>
+
+
