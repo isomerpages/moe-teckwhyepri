@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/twpshome.gif
       key_highlights:
-        - title: Announcements
+        - title: Events & Photos
           description: ""
-          url: /parents-hub/announcements/
+          url: https://www.facebook.com/TWPSSG/
         - title: TWPS in the News
           description: ""
           url: /about-us/twps-in-the-news/
