@@ -9,11 +9,8 @@ locations:
       - Singapore 688261
       - ""
     operating_hours:
-      - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
+      - days: Monday to Thursday
+        time: 7.00am - 5.00pm
         description: ""
     maps_link: ""
     title: Teck Whye Primary School
