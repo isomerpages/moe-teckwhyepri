@@ -12,17 +12,18 @@ locations:
       - days: Monday to Thursday
         time: 7.00am - 5.00pm
         description: ""
+      - days: Friday
+        time: 7.00am - 4.30pm
+        description: ""
+      - days: Eve of Public Holiday
+        time: 7.00am - 12.00pm
+        description: Closed on Saturday, Sunday and Public Holiday.
     maps_link: ""
     title: Teck Whye Primary School
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
-    title: General Enquiries & Feedback
-  - content:
-      - phone: ""
-      - email: careers@abc.gov.sg
+      - phone: +65 6769 1025
+      - email: twps@moe.edu.sg
       - other: ""
-    title: Careers
+    title: General Enquiries & Feedback
 ---
