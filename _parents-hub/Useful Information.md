@@ -16,7 +16,7 @@ description: ""
 	<li><a href="#attendance">Attendance & Punctuality</a></li><li><a href="#schooltransport">School Transport for After-School Activities</a></li>
 </ol>
 <hr>
-<h2 id="schoolhours">School Hours</h3>
+<h2 id="schoolhours">School Hours</h2>
 The details of the curricular hours are shown in the table below.
 
 Primary 1 to Primary 6
