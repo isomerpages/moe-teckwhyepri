@@ -164,9 +164,7 @@ description: ""
   </tr>
 </tbody>
 </table>
-<br>
 <h4>Teacher Leaders</h4>
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -494,7 +492,6 @@ description: ""
 </table>
 <br>
 <b>Primary 4</b>
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -704,9 +701,7 @@ description: ""
   </tr>
 </tbody>
 </table>
-<br>
 <h4>Other Teaching Staff</h4>
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -802,9 +797,7 @@ description: ""
   </tr>
 </tbody>
 </table>
-<br>
 <h4>Non-Teaching Staff</h4>
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
