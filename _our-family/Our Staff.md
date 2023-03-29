@@ -319,7 +319,7 @@ description: ""
   </tr>
 </tbody>
 </table>
-
+<br>
 <b>Primary 2</b>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -415,7 +415,6 @@ description: ""
 </table>
 <br>
 <b>Primary 3</b>
-  
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -448,7 +447,7 @@ description: ""
     <td class="tg-06je"><span style="font-weight:inherit;font-style:inherit">tan_ching_yin@moe.edu.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-06je" rowspan="3"><span style="font-weight:inherit;font-style:inherit">P3 – 2</span></td>
+    <td class="tg-06je" rowspan="4"><span style="font-weight:inherit;font-style:inherit">P3 – 2</span></td>
     <td class="tg-06je"><span style="font-weight:inherit;font-style:inherit">Miss Nur Shabrina</span></td>
     <td class="tg-06je"><span style="font-weight:inherit;font-style:inherit">nur_shabrina_mohd_afendi@moe.edu.sg</span></td>
   </tr>
@@ -461,7 +460,6 @@ description: ""
     <td class="tg-06je"><span style="font-weight:inherit;font-style:inherit">arockiamary_a@moe.edu.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-06je"></td>
     <td class="tg-06je"><span style="font-weight:inherit;font-style:inherit">Mdm Chamayne Yang</span></td>
     <td class="tg-06je"><span style="font-weight:inherit;font-style:inherit">yang_jialing_chamayne@moe.edu.sg</span></td>
   </tr>
