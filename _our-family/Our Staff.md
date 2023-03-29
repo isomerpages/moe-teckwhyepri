@@ -261,7 +261,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-dox4" rowspan="2"><span style="font-weight:inherit;font-style:inherit">P1 – 3</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mdm Elaine Yong Wei Ying</span><br><br><span style="font-weight:inherit;font-style:inherit">(Mrs Lee)</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mdm Elaine Yong Wei Ying (Mrs Lee)</span></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">yong_wei_ying@moe.edu.sg</span></td>
   </tr>
   <tr>
@@ -319,8 +319,8 @@ description: ""
   </tr>
 </tbody>
 </table>
-<b>Primary 2</b>
 
+<b>Primary 2</b>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
