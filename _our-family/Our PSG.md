@@ -14,3 +14,5 @@ The PSG are also actively involved in the school’s events. They significantly 
 Parent Volunteers accompany pupils on learning journeys and competitions. They are always ready and willing to lend a hand.
 
 We deeply appreciate the time and effort put in by the PSG and we welcome more parents to come on board.
+
+![](/images/kids.png)
