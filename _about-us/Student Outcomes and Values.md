@@ -3,9 +3,9 @@ title: Student Outcomes and Values
 permalink: /about-us/student-outvomes-and-values/
 description: ""
 ---
-<h4 style="color:navyblue">TECK WHYE PRIMARY SCHOOL<br>  STUDENT OUTCOMES AND VALUES IN ACTION</h4>
-
-
+<h4 style="color:navyblue">TECK WHYE PRIMARY SCHOOL
+<br> 
+STUDENT OUTCOMES AND VALUES IN ACTION</h4>
 
 #### STUDENT OUTCOMES  
 **(BE TECK WHYEAN CHAMPs)**_The use of CHAMPs connotes the idea of personal excellence and the broad domains outlined below show the range of areas in which one might excel in._
