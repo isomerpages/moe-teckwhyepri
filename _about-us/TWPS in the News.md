@@ -290,6 +290,5 @@ TWPS in the News
   line-height:normal" align="center" class="MsoNormal"><span style="font-size:11.5pt;font-family:&quot;Lato&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
   color:#1A202C">18 July 2016</span></p></td></tr></tbody></table>
-	
-	
-	![](/images/kids.png)
+
+![](/images/kids.png)
