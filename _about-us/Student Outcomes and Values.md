@@ -3,11 +3,10 @@ title: Student Outcomes and Values
 permalink: /about-us/student-outvomes-and-values/
 description: ""
 ---
-<table style="width:100%; border: 1px solid; border-collapse: collapse;">
+<table style="width:645px; border: 1px solid; border-collapse: collapse;">
   <tbody>
     <tr style="text-align: center;">
-      <td colspan="2" style="border: 1px solid;"><h4>TECK WHYE PRIMARY SCHOOL
-STUDENT OUTCOMES AND VALUES IN ACTION</h4></td>
+      <td colspan="2" style="border: 1px solid;"><h4>TECK WHYE PRIMARY SCHOOL<br>STUDENT OUTCOMES AND VALUES IN ACTION</h4></td>
     </tr>
     <tr style="text-align: center;">
       <td style="border: 1px solid;"><h6 style="margin-bottom: 0; margin-top: 0;">STUDENT OUTCOMES</h6>
