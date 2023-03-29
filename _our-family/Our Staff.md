@@ -251,12 +251,11 @@ description: ""
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">chng_bee_ling@moe.edu.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">P1 – 2</span></td>
+    <td class="tg-dox4" rowspan="2"><span style="font-weight:inherit;font-style:inherit">P1 – 2</span></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mdm Abigail Teng</span></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">teng_yen-jin_abigail@moe.edu.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-dox4"></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mdm Sapiah</span></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">sapiah_samsudin@moe.edu.sg</span></td>
   </tr>
