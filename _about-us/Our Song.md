@@ -23,5 +23,3 @@ To win a name for Teck Whye Primary
 For Teck Whye Primary
 
 ![](/images/kids.png)
-
-
