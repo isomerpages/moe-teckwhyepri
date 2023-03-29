@@ -22,3 +22,5 @@ Miss Yeo Hwee Pey</td>
     </tr>
   </tbody>
 </table>
+
+![](/images/kids.png)
