@@ -20,7 +20,7 @@ sections:
           url: ITN
         - title: TWPS Newsletter
           description: Digital Newsletter
-          url: ""
+          url: /e-newsletter
   - infopic:
       title: TWPS e-OPEN HOUSE
       button: explore our school
