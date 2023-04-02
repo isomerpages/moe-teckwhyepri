@@ -17,7 +17,7 @@ sections:
           url: https://www.youtube.com/channel/UC8Oab8_uKsYOWYdA6KUi-RA
         - title: TWPS in the News
           description: News Highlights
-          url: ITN
+          url: /about-us/twps-in-the-news/
         - title: TWPS Newsletter
           description: Digital Newsletter
           url: /e-newsletter
