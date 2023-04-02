@@ -1,5 +1,4 @@
 collections:
   e-newsletter:
     output: true
-    order:
-      - 2022.md
+    order: []
