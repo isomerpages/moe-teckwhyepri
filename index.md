@@ -31,5 +31,5 @@ sections:
         about life in TWPS for your child! At TWPS, we strongly believe in Every
         Child, Our Child.
   - resources:
-      title: Announcement
+      title: Our Stories
 ---
