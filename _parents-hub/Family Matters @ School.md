@@ -14,23 +14,23 @@ Marriage Convention and Parenting Congress.
 Our monthly Parenting Talks are usually held on a weekday evening or Saturday morning, so that parents will be available to join us for the talks.  
 Here are some examples of the parenting talks that we have organized in Teck Whye Primary School:
 
-*   • Helping my child cope with exam stress
-*   • Communicating with my child
-*   • Raising motivated children
-*   • AQ & EQ for your child
-*   • Cybersafety for my child
-*   • Transition to secondary school
-*   • The five love languages
-*   • The DISC Profiles of Parenting
-*   • Honey, where is the $?” – Financial. Time. Stress Management
+*   Helping my child cope with exam stress
+*   Communicating with my child
+*   Raising motivated children
+*   AQ & EQ for your child
+*   Cybersafety for my child
+*   Transition to secondary school
+*   The five love languages
+*   The DISC Profiles of Parenting
+*   Honey, where is the $?” – Financial. Time. Stress Management
 
 **Parent-Child Bonding Workshops**  
 Besides parenting talks, Parent-Child Bonding Workshops are also held during the school holidays for parents to spend meaningful time with their children.  
 Previous workshops include:
 
-*   • Communication through Sandwich Making
-*   • Innovate Sculpey
-*   • Formula One – The Drive to Family Success
+*   Communication through Sandwich Making
+*   Innovate Sculpey
+*   Formula One – The Drive to Family Success
 
 **Upcoming Family Matters @ School Programmes**  
 For a list of our upcoming Family Matters@School programmes in Teck Whye Primary School, please click here.
