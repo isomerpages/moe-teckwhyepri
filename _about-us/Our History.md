@@ -10,4 +10,6 @@ In 1996, the school relocated to the school building, which was once occupied by
 The shift to the current building at 11 Teck Whye Walk took place in mid-December 2001. The school was officially opened on 28 Jun 2002, by Prof Low Seow Chay, then Member of Parliament for Chua Chu Kang.
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j78D_fNr6fY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j78D_fNr6fY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+![](/images/kids.png)
