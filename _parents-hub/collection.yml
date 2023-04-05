@@ -2,6 +2,7 @@ collections:
   parents-hub:
     output: true
     order:
+      - Student Administrations/Application Forms.md
       - Student Administrations/P1 Orientation & Admin Day.md
       - Student Administrations/.keep
       - Useful Information.md
