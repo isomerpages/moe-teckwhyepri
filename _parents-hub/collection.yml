@@ -2,14 +2,14 @@ collections:
   parents-hub:
     output: true
     order:
-      - ICT Resources.md
       - Useful Information.md
       - Parents Gateway.md
       - Student Administrations/.keep
       - Student Administrations/Application Forms.md
       - Student Administrations/P1 Admin Day.md
-      - Big Heart Student Care.md
+      - ICT Resources.md
       - Family Matters @ School.md
+      - Big Heart Student Care.md
       - Service Providers.md
       - Useful External Links.md
       - Parents Portal.md
