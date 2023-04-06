@@ -5,11 +5,8 @@ description: ""
 third_nav_title: Student Administrations
 ---
 ### P1 Admin Day for 2023 Cohort
+##### Please refer to list of items to bring during the Admin Day: 
 
-
-Dear parent / guardian,
-
-Please refer to list of items to bring during the Admin Day:  
 1) Original copy of Child’s birth certificate  
 2) Child’s Singapore Citizenship Certificate (if not a Singapore Citizen at time of birth)  
 3) Child’s and both parents’ entry/re-entry permits (for PRs only)  
