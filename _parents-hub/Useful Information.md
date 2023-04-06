@@ -10,10 +10,10 @@ description: ""
 	<li><a href="#schoolfees">Payment of School Fees</a></li>
 	<li><a href="#bookshop">Opening of Bookshop Hours</a></li>
 	<li><a href="#schoolsecurity">School Security</a></li>
-	<li><a href="#healthsafety">Health & Safety</a></li><li><a href="#overseas">Local Address for Students Who Commute to School from Overseas</a></li>
+	<li><a href="#healthsafety">Health &amp; Safety</a></li><li><a href="#overseas">Local Address for Students Who Commute to School from Overseas</a></li>
 	<li><a href="#handingitems">Handing of Items to School Staff</a></li>
 	<li><a href="#snack">Snack Break</a></li>
-	<li><a href="#attendance">Attendance & Punctuality</a></li><li><a href="#schooltransport">School Transport for After-School Activities</a></li>
+	<li><a href="#attendance">Attendance &amp; Punctuality</a></li><li><a href="#schooltransport">School Transport for After-School Activities</a></li>
 </ol>
 <hr>
 <h3 id="schoolhours">School Hours</h3>
@@ -33,11 +33,15 @@ Primary 1 to Primary 6
 <hr>
 <h3 id="GO">General Office Opening Hours</h3>
 
-<table style="box-sizing: border-box; border-width: 1px 0px 0px 1px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; font-size: 15px; font-style: normal; font-weight: 400; margin: 0px 0px 1.5em; outline: 0px; padding: 0px; vertical-align: baseline; border-collapse: separate; border-spacing: 0px; width: 865.5px; color: rgb(58, 58, 58); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &quot;Helvetica Neue&quot;, sans-serif; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody style="box-sizing: border-box; border: 0px; font-size: 15px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"><tr style="box-sizing: border-box; border: 0px; font-size: 15px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"><td width="300" style="box-sizing: border-box; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; font-size: 15px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: baseline; text-align: left;"><strong style="box-sizing: border-box; border: 0px; font-size: 15px; font-style: inherit; font-weight: bold; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;">Day</strong></td><td width="318" style="box-sizing: border-box; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; font-size: 15px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: baseline; text-align: left;"><strong style="box-sizing: border-box; border: 0px; font-size: 15px; font-style: inherit; font-weight: bold; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;">Opening Hours</strong></td></tr><tr style="box-sizing: border-box; border: 0px; font-size: 15px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"><td width="300" style="box-sizing: border-box; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; font-size: 15px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: baseline; text-align: left;">Monday to Thursday</td><td width="318" style="box-sizing: border-box; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; font-size: 15px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: baseline; text-align: left;">7am-5.00pm</td></tr><tr style="box-sizing: border-box; border: 0px; font-size: 15px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"><td width="300" style="box-sizing: border-box; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; font-size: 15px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: baseline; text-align: left;">Friday</td><td width="318" style="box-sizing: border-box; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; font-size: 15px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: baseline; text-align: left;">7am- 4:30pm</td></tr><tr style="box-sizing: border-box; border: 0px; font-size: 15px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"><td width="300" style="box-sizing: border-box; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; font-size: 15px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: baseline; text-align: left;">Saturday, Sunday and Public Holidays</td><td width="318" style="box-sizing: border-box; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; font-size: 15px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: baseline; text-align: left;">Closed</td></tr><tr style="box-sizing: border-box; border: 0px; font-size: 15px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"><td width="300" style="box-sizing: border-box; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; font-size: 15px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: baseline; text-align: left;">Eve of Public Holiday</td><td width="318" style="box-sizing: border-box; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; font-size: 15px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: baseline; text-align: left;">7am-12pm</td></tr></tbody></table>
+| Day | Opening Hours | 
+| -------- | -------- | 
+| Monday to Thursday    | 7.00am - 5.00pm    | 
+| Friday     | 7.00am - 4.30pm    | 
+| Saturday, Sunday and Public Holidays     | Closed     | 
+| Eve of Public Holiday   | 7.00am - 12.00pm     | 
 
 <a href="#up">back to top of the page</a>
 <h3 id="schoolfees">Payment of School Fees</h3>
-
 
 Parents are strongly encouraged to pay fees through the students' Edusave or via GIRO. Alternatively, parents may also make payment via Singpost or SAM Payment Channels.
 
@@ -60,7 +64,7 @@ Mon to Fri: 1.50pm – 3.00pm
 <a href="#up">back to top of the page</a>
 <h3 id="healthsafety">Health and Safety</h3>
 
-<b>Home Address & Contact Number</b>
+<b>Home Address &amp; Contact Number</b>
 
 Please notify the school at once of any change of home address or contact numbers. The school must be able to contact a relative of your child in the event of an emergency.
 
