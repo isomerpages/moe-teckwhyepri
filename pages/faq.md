@@ -12,3 +12,10 @@ permalink: /faq/
 
 **3. How many vacancies are available at Teck Whye Primary School?**
 <br>The number of Primary One vacancies each school will offer for the Primary One Registration Exercise will be made available in June before the registration begins. Parents can refer to&nbsp;[Primary Schools Vacancies by Phases](https://www.moe.gov.sg/primary/p1-registration/vacancies-and-balloting)&nbsp;for information on vacancies.
+
+<br>
+
+<br>
+<br>
+
+*Last update: 06/04/2023*
