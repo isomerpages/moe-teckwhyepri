@@ -6,7 +6,7 @@ third_nav_title: Student Administrations
 ---
 ### General Forms
 
-[1\. GIRO & Edusave Schemes 2023](/files/GIRO-Edusave-Schemes-2021.pdf)
+[1\. GIRO &amp; Edusave Schemes 2023](/files/GIRO-Edusave-Schemes-2021.pdf)
 
 [2\. GIRO Form 2023](/files/3_GIRO-Application-Form.pdf)
 
@@ -23,6 +23,8 @@ third_nav_title: Student Administrations
 [6c. NEUPC FibreBroadband Application Form](/files/7c_NEUPC-FibreBroadband-Application-Form.pdf)
 
 [7\. School Bus Application Form](/files/8_School-Bus-Application-Form.pdf)
+
+<hr>
 
 ### P1 Forms
 [1\. P1 Booklist 2023](files/TWPS-2023-Booklist-P1.pdf)
