@@ -33,7 +33,7 @@ sections:
   - infobar:
       title: Our Stories
       button: More
-      url: /ourstories
+      url: /family/our-stories/
   - resources:
       title: Latest Happenings
 ---
