@@ -10,11 +10,11 @@ image: ""
 
 9 November 2022 was an exciting day for everyone in Teck Whye Primary! Minister for Education, Mr Chan Chun Sing, visited our school on that day. The students had the opportunity to get to know Minister Chan better through their interactions with him. As the visit coincided with the Science and Tech Week, Minister Chan had the opportunity to try out the games and experiments that were prepared by the students. It was indeed a memorable day!
 
-Fun fact: Most of the photos featured were taken by our student photographers.
+Fun fact: All of the photos featured were taken by our student photographers.
 
 Way to go CHAMP photographers!
 
-Click on the image below to read the post on Minister Chan's visit on the TWPS Facebook page.
+Click [here](https://www.facebook.com/100023919427833/posts/pfbid0Rb4833S19nxqStpaZhteF9sma9sVUpRUt5hQpYNpAFt8g4YL4VQnDp1Nwh8mUwHml/?mibextid=cr9u03) to read the post on Minister Chan's visit on the TWPS Facebook page.
 
 ![](/images/fb_snippet.png)
 
