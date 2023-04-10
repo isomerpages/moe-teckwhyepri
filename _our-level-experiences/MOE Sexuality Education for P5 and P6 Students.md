@@ -44,7 +44,7 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more informa
 
 ##### At Teck Whye Primary School, the following Sexuality Education lessons will be taught in 2023:
 
-![](https://teckwhyepri-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2023/01/Picture1-300x254.jpg)
+<img height="150" width="150" src="/images/moe%20img.jpg">
 
 <h5 style="text-align:center"> 2023 Sexuality Education Lessons in CCE 2021 </h5>
 
