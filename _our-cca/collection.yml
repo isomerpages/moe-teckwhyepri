@@ -1,0 +1,9 @@
+collections:
+  our-cca:
+    output: true
+    order:
+      - Our Sports.md
+      - Our Performing Arts.md
+      - Our Clubs & Societies.md
+      - Our Uniform Groups.md
+      - Service to School.md
