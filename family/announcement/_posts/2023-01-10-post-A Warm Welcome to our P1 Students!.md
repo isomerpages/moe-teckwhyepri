@@ -10,4 +10,5 @@ image: ""
 
 We are very proud of all our P1 students who have settled in happily. We are also very grateful to all the parents of P1 students who had prepared their children well.
 
-[Click here to view a video on P1 students' first day in school.](https://youtu.be/4Y_ljDev0BA)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4Y_ljDev0BA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
