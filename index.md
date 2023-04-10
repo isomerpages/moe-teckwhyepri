@@ -12,8 +12,8 @@ sections:
         - title: EVENTS & PHOTOS
           description: TWPS Facebook Page
           url: https://www.facebook.com/TWPSSG
-        - title: Our Stories
-          description: TWPS ______
+        - title: Student's Work
+          description: TWPS Youtube Channel
           url: https://www.youtube.com/channel/UC8Oab8_uKsYOWYdA6KUi-RA
         - title: TWPS in the News
           description: News Highlights
