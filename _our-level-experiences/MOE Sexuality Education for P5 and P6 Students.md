@@ -46,7 +46,7 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more informa
 
 <img height="150" width="150" src="/images/moe%20img.jpg">
 
-<h5 style="text-align:center"> 2023 Sexuality Education Lessons in CCE 2021 </h5>
+<h5 style="text-align:center"> 2023 Sexuality Education Lessons in CCE </h5>
 
 <h3 style="text-align:center"> Primary 5 </h3>
 
@@ -77,22 +77,43 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more informa
   </tbody>
 </table>
 
-![](https://teckwhyepri-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2023/01/Picture1-300x254.jpg)
+<h3 style="text-align:center"> Primary 6 </h3>
 
-**2023 Sexuality Education Lessons in CCE 2021**
-
-**Primary 6**
-
-<table cellpadding="0" cellspacing="0"><tbody><tr><td valign="top" style="text-align: center; vertical-align: middle;"><p align="center"><span style="color: #000000; font-family: Arial; font-size: medium;"><b>CCE(FTGP) THEME</b></span></p></td><td valign="top" style="text-align: center; vertical-align: middle;"><p align="center"><span style="color: #000000; font-family: Arial; font-size: medium;"><b>LESSON TITLE / DURATION</b></span></p></td><td valign="top" style="text-align: center; vertical-align: middle;"><p align="center"><span style="color: #000000; font-family: Arial; font-size: medium;"><b>Lesson Overview</b></span></p></td><td valign="middle" style="text-align: center; vertical-align: middle;"><p align="center"><span style="color: #000000; font-family: Arial; font-size: medium;"><b>TIME PERIOD</b></span></p></td></tr><tr><td valign="middle" rowspan="3" style="text-align: center; vertical-align: middle;"><p align="center"><span style="color: #000000; font-family: Arial; font-size: medium;">Growing Years</span></p></td><td valign="middle" style="text-align: center; vertical-align: middle;"><p align="center"><span style="color: #000000; font-family: Arial; font-size: medium;">Are We More than Friends?</span></p><p align="center"><span style="color: #000000; font-family: Arial; font-size: medium;">Lesson 1</span></p><p align="center"><span style="color: #000000; font-family: Arial; font-size: medium;">(60 min)</span></p></td><td valign="middle"><p align="justify"><span style="color: #000000; font-family: Arial; font-size: medium;">In this lesson, students will learn to distinguish between the characteristics of love and infatuation and identify the strong emotions that may arise from experiencing the feelings of infatuation. They will recognise that experiencing feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends.</span></p></td><td valign="middle" style="text-align: center; vertical-align: middle;"><p align="center"><span style="color: #000000; font-family: Arial; font-size: medium;">Term 2</span></p></td></tr><tr><td valign="middle" style="text-align: center; vertical-align: middle;"><p align="center"><span style="color: #000000; font-family: Arial; font-size: medium;">Are We More than Friends?</span></p><p align="center"><span style="color: #000000; font-family: Arial; font-size: medium;">Lesson 2</span></p><p align="center"><span style="color: #000000; font-family: Arial; font-size: medium;">(60 min)</span></p></td><td valign="middle"><p align="justify"><span style="color: #000000; font-family: Arial; font-size: medium;">In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship. They will also recognise the negative impact of teasing their peers who may be experiencing feelings of infatuation and learn to behave maturely towards each other.</span></p></td><td valign="middle" style="text-align: center; vertical-align: middle;"><p align="center"><span style="color: #000000; font-family: Arial; font-size: medium;">Term 2</span></p></td></tr><tr><td valign="middle" style="text-align: center; vertical-align: middle;"><p align="center"><span style="color: #000000; font-family: Arial; font-size: medium;">Did You Know? *</span></p><p align="center"><span style="color: #000000; font-family: Arial; font-size: medium;">(60 min)</span></p></td><td valign="middle"><p align="justify"><span style="color: #000000; font-family: Arial; font-size: medium;">This lesson focuses on helping students to know what pornography is and how it can affect themselves and others. Students will learn the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘<b>Stop-Think-Do’.</b></span></p><p align="justify"><span style="color: #000000; font-family: Arial; font-size: medium;">This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</span></p></td><td valign="middle" style="text-align: center; vertical-align: middle;"><p align="center"><span style="color: #000000; font-family: Arial; font-size: medium;">Term 3</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0" border="1" width="100%">
+  <tbody>
+    <tr>
+      <th scope="col">CCE(FTGP) THEME</th>
+      <th scope="col">LESSON TITLE / DURATION</th>
+      <th scope="col">Lesson OVERVIEW</th>
+      <th scope="col">TIME PERIOD</th>
+    </tr>
+    <tr>
+      <th valign="middle" align="center" rowspan="3" scope="row">Growing Years</th>
+      <td valign="middle" align="center">Are We More than Friends?<br>Lesson 1<br>(60 min)</td>
+      <td><p>In this lesson, students will learn to distinguish between the characteristics of love and infatuation and identify the strong emotions that may arise from experiencing the feelings of infatuation. They will recognise that experiencing feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends.</p></td>
+      <td valign="middle" align="center">Term 2</td>
+    </tr>
+    <tr>
+      <td valign="middle" align="center">Are We More than Friends?<br>Lesson 2<br>(60 min)</td>
+      <td><p>In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship. They will also recognise the negative impact of teasing their peers who may be experiencing feelings of infatuation and learn to behave maturely towards each other.</p></td>
+      <td valign="middle" align="center">Term 2</td>
+    </tr>
+    <tr>
+      <td valign="middle" align="center">Did You Know?*<br>(60 min)</td>
+      <td><p>This lesson focuses on helping students to know what pornography is and how it can affect themselves and others. Students will learn the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘Stop-Think-Do’.</p><p>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</p></td>
+      <td valign="middle" align="center">Term 3</td>
+    </tr>
+  </tbody>
+</table>
 
 **Please Note:  
-****\*****For** **2023****, the Primary 5 lesson “_Did You Know_?” will also be conducted for the Primary 6 cohort.**
+\*For 2023, the Primary 5 lesson “_Did You Know_?” will also be conducted for the Primary 6 cohort.**
 
-**  
-Information for Parents**
 
-8\. Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.
+##### Information for Parents
 
-9\. Parents who wish to opt their children out of the **Sexuality Education lessons**&nbsp;need to complete an opt-out form. Please click [here](https://go.gov.sg/twpssedform) to fill out and submit the opt-out form by Friday, 10 February 2023.
+8. Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.
 
-10\. Parents can contact the school at 67691025 for discussion or to seek clarification about the school’s Sexuality Education programme.
+9. Parents who wish to opt their children out of the **Sexuality Education lessons**&nbsp;need to complete an opt-out form. Please click [here](https://go.gov.sg/twpssedform) to fill out and submit the opt-out form by Friday, 10 February 2023.
+
+10. Parents can contact the school at 67691025 for discussion or to seek clarification about the school’s Sexuality Education programme.
