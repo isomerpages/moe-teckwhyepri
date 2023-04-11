@@ -9,7 +9,7 @@ The file above contains the following resources:
 * Our School Rules
 * Our School Uniform
 * School Calendar
-*Canteen Stall Menu and Prices
+* Canteen Stall Menu and Prices
 
 <hr>
 
