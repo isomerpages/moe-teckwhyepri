@@ -3,9 +3,10 @@ title: Parents Portal
 permalink: /parents-hub/parents-portal/
 description: ""
 ---
-Parents Portal (Document will be uploaded soon)
 
-The file above contains the following resources:
+#### [Parents Portal](/files/Parents%20Portal/parents%20portal.pdf) 
+
+Click on the above for the following resources:
 * Our School Rules
 * Our School Uniform
 * School Calendar
