@@ -8,11 +8,11 @@ third_nav_title: Student Administrations
 
 [1\. GIRO &amp; Edusave Schemes 2023](/files/GIRO-Edusave-Schemes-2021.pdf)
 
-[3\. MOE FAS Pamphlet 2023](/files/MOE-FAS-Pamphlet-for-schools-2023.pdf)
+[2\. MOE FAS Pamphlet 2023](/files/MOE-FAS-Pamphlet-for-schools-2023.pdf)
 
-[4\. MOE FAS Application Form 2023](/files/MOE-FAS-Application-Form-2023.pdf)
+[3\. MOE FAS Application Form 2023](/files/MOE-FAS-Application-Form-2023.pdf)
 
-[5\. School Bus Application Form](/files/8_School-Bus-Application-Form.pdf)
+[4\. School Bus Application Form](/files/8_School-Bus-Application-Form.pdf)
 
 <hr>
 
