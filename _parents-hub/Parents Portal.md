@@ -3,7 +3,6 @@ title: Parents Portal
 permalink: /parents-hub/parents-portal/
 description: ""
 ---
-
 #### [Parents Portal](/files/Parents%20Portal/parents%20portal.pdf) 
 
 Click on the above for the following resources:
