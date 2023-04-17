@@ -31,7 +31,7 @@ For name tags with spelling error:
 
 #### School Dental Clinic
 
-**The dental clinic will be closed from Friday 23rd September 2022 onwards till further notice. During this time, parents can contact buddy clinics at nearby schools for dental treatment (fillings, cleaning and extractions) -see list:**
+The dental clinic will be closed from Friday 23rd September 2022 onwards till further notice. During this time, parents can contact buddy clinics at nearby schools for dental treatment (fillings, cleaning and extractions) -see list:
 
 **Before going to a clinic, please ensure that the dental staff is on duty.**
 

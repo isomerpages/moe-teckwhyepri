@@ -3,7 +3,6 @@ title: Parents Portal
 permalink: /parents-hub/parents-portal/
 description: ""
 ---
-
 #### [Parents Portal](/files/Parents%20Portal/parents%20portal.pdf) 
 
 Click on the above for the following resources:
@@ -26,4 +25,4 @@ Click on the above for the following resources:
 <hr>
 
 ##### Other contents:
-1. [Principal’s Engagement with P1 Parents 2023](/files/Parents%20Portal/2023-ps-engagement-with-p1-parents-6-jan-2023-for-parents-portal.pdf) (6 January 2023)
+1. [Principal’s Engagement with P1 Parents 2023](/files/Parents%20Portal/Others/2023-ps-engagement-with-p1-parents.pdf) (6 January 2023)
