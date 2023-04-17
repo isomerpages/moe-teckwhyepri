@@ -16,4 +16,8 @@ third_nav_title: Student Administrations
 
 ### School Booklist
 1. [P1 Booklist 2023](/files/Student%20Administrations/TWPS-2023-Booklist-P1.pdf)
-
+2. P2 Booklist 2023
+3. P3 Booklist 2023
+4. P4 Booklist 2023
+5. P5 Booklist 2023
+6. P6 Booklist 2023
