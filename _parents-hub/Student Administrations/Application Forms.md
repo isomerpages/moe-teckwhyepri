@@ -21,3 +21,5 @@ third_nav_title: Student Administrations
 4. P4 Booklist 2023
 5. P5 Booklist 2023
 6. P6 Booklist 2023
+
+![](/images/kids.png)
