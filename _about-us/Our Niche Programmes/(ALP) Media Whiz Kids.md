@@ -8,7 +8,9 @@ The 'Media Whiz Kids' (MWK) programme is our school's unique Applied Learning Pr
 
 Language lessons in school help students learn about media concepts and media literacy skills, so they become critical media consumers. When they see or hear a piece of media, they will be able to think critically about the larger picture, consider the purpose and points of views of the author, and finally, evaluate it and make their own decisions accordingly. Through this process, students also grow to become creative media producers. Each year, they get opportunities to create their own media productions. These productions take various forms, such as speech and drama, e-Journalism, and videography.
 
+
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/_qdWPcjZH3Y" height="315" width="560"></iframe>
+
 
 This video showcases the P1 and P2 Media Whiz Kids! projects done in 2022.
 
