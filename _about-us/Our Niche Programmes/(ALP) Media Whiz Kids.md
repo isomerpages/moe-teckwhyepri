@@ -10,4 +10,6 @@ Language lessons in school help students learn about media concepts and media li
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/_qdWPcjZH3Y" height="315" width="560"></iframe>
 
+This video showcases the P1 and P2 Media Whiz Kids! projects done in 2022.
+
 ![](/images/kids.png)
