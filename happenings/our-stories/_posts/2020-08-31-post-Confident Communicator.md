@@ -1,14 +1,12 @@
 ---
 title: Confident Communicator
-permalink: /family/our-stories/aditya/
+permalink: /happenings/our-stories/aditya/
 date: 2020-08-31
 layout: post
 description: ""
 image: ""
 ---
-<img src="/images/aditya.jpg" 
-         style="width:200px"
-	/>
+<img src="/images/aditya.jpg" style="width:200px">
 <br>
 
 

@@ -1,6 +1,6 @@
 ---
 title: A Year after the First Day of School
-permalink: /family/our-stories/a-year-after-the-first-day-of-school/
+permalink: /happenings/our-stories/a-year-after-the-first-day-of-school/
 date: 2020-07-13
 layout: post
 description: ""
@@ -8,14 +8,10 @@ image: ""
 ---
 ## First Day of School
 
-<img src="/images/abhi.jpg" 
-         style="width:500px"
-	/>
+<img src="/images/abhi.jpg" style="width:500px">
 	
 ## One Year after my first day of school
-<img src="/images/ndp.jpg" 
-         style="width:500px"
-	/>
+<img src="/images/ndp.jpg" style="width:500px">
 <p style="text-align: center"><strong>Far from the jittery girl she was in P1, Abhinayya (middle) loves being in school with her friends!</strong></p>
 
 Now that I have been a student of Teck Whye Primary School for one year, I would like to share about my amazing experience in Primary One!
@@ -42,7 +38,7 @@ During my year in Primary 1, I experienced Speech and Drama as well as Show and 
 
 Our class getting ready for the Speech and drama performance!
 
-## Adapting and Growing in Primary School
+## Adapting and Growing in&nbsp;Primary School
 
 One challenge I faced last year was having to wake up much earlier than when I was in kindergarten. It took me a few weeks to get used to the new schedule. After I entered Teck Whye Primary School, I think I became more independent and motivated. I was no longer afraid to approach my teachers for help whenever I needed it.
 
@@ -64,7 +60,7 @@ __Teck Whye Primary School_
 
 #### A note from Abhi’s Mom, Ms Menaka
 
-I was very happy when Abhi adapted to the new school very quickly. She enjoyed, and in fact, still enjoys every day of school. I could also see her confidence build and she gradually became more outspoken. It was an amazing growth owing to the wonderful teachers in school.
+I was very happy when Abhi adapted to the new school very quickly. She enjoyed, and in fact,&nbsp;still enjoys every day of school. I could also see her confidence build and she gradually became more outspoken. It was an amazing growth owing to the wonderful teachers in school.
 
 We are very happy that Teck Whye Primary School nurtures their students to build life skills as well. Abhi started to strictly adhere to the rules and display values taught in school. As a parent volunteer, I was also very impressed by the great efforts the school takes to ensure that all the kids are doing well emotionally, physically and mentally.
 

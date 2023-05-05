@@ -1,14 +1,12 @@
 ---
 title: Adaptive Leader
-permalink: /family/our-stories/zer-jynn/
+permalink: /happenings/our-stories/zer-jynn/
 date: 2020-08-31
 layout: post
 description: ""
 image: ""
 ---
-<img src="/images/zerjynn.jpeg" 
-         style="width:300px"
-	/>
+<img src="/images/zerjynn.jpeg" style="width:300px">
 <br>
 
 
@@ -18,7 +16,7 @@ One of the many experiences was being part of the EXCO of the Student Council. W
 
 In addition, I learnt how to collaborate with my peers through the many programmes the teachers organised for us to learn, for instance, the 5 practices of exemplary leadership. Our collaboration skill was definitely tested every year during our yearly fundraising project for SPD. Once again, this skill helped me during my DSA camp when I applied to my secondary school. Now, as a class chairperson for my class, I feel that these leadership skills from the programme helped me enormously with leading the class.
 
-Apart from Student Council, I also joined the iDesign & Visual Arts Club where I was given many hands-on activities and projects to participate in. In the making of our products, we always go through the Design Thinking process and brainstorming. The skills I learnt improved my creativity and innovation skills which, once again, helped me in one of my major projects in secondary school.
+Apart from Student Council, I also joined the iDesign &amp; Visual Arts Club where I was given many hands-on activities and projects to participate in. In the making of our products, we always go through the Design Thinking process and brainstorming. The skills I learnt improved my creativity and innovation skills which, once again, helped me in one of my major projects in secondary school.
 
 Being in Teck Whye Primary School allowed me to grow as a person, giving me valuable experiences that can be applied later in life. I am truly grateful for all the opportunities offered by my teachers, and all the time and effort the teachers put into planning lessons and organising events that always leave a positive impact on us.
 

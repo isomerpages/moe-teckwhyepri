@@ -1,12 +1,11 @@
 ---
 title: Outstanding CHAMP Teachers!
-permalink: /family/our-stories/outstanding-champ-teachers/
+permalink: /happenings/our-stories/outstanding-champ-teachers/
 date: 2022-11-16
 layout: post
 description: ""
 image: ""
 ---
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -45,8 +44,8 @@ The President’s Award for Teachers (PAT) recognises excellent educators for th
 Mr Nasrun is an inspirational figure to both teachers and students as he constantly strives to create better learning experiences for everyone. During the pandemic, he leveraged on the power of collaboration and created a platform to share teaching resources with PE teachers around Singapore. His contribution to the teaching fraternity as well as his willingness to develop his students to their fullest potential certainly makes him deserving of the award.
 
 Read more about Mr Nasrun and his contribution to the teaching fraternity from the following URL links:  
-[Nurse-turned-ITE lecturer among 8 recipients of President's Award for Teachers](https://www.straitstimes.com/singapore/nurse-turned-ite-lecturer-among-8-winners-of-presidents-award-for-teachers#:~:text=Min%20Daily%20News-,Nurse%2Dturned%2DITE%20lecturer%20among%208%20recipients,of%20President's%20Award%20for%20Teachers&text=SINGAPORE%20%2D%20Ms%20Pauline%20Hu%2C%2050,that%20she%20could%20help%20others) \- The Straits Times  
-[Nasrun Mizzy antara 8 Pemenang Anugerah Presiden bagi Guru 2022](https://berita.mediacorp.sg/singapura/nasrun-mizzy-antara-8-pemenang-anugerah-presiden-bagi-guru-2022-687276) \- BERITA Mediacorp
+[Nurse-turned-ITE lecturer among 8 recipients of President's Award for Teachers](https://www.straitstimes.com/singapore/nurse-turned-ite-lecturer-among-8-winners-of-presidents-award-for-teachers#:~:text=Min%20Daily%20News-,Nurse%2Dturned%2DITE%20lecturer%20among%208%20recipients,of%20President's%20Award%20for%20Teachers&amp;text=SINGAPORE%20%2D%20Ms%20Pauline%20Hu%2C%2050,that%20she%20could%20help%20others)&nbsp;\- The Straits Times  
+[Nasrun Mizzy antara 8 Pemenang Anugerah Presiden bagi Guru 2022](https://berita.mediacorp.sg/singapura/nasrun-mizzy-antara-8-pemenang-anugerah-presiden-bagi-guru-2022-687276)&nbsp;\- BERITA Mediacorp
 
 **Caring Teacher Awards 2022**
 

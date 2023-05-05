@@ -1,6 +1,6 @@
 ---
 title: Adaptive Leaders
-permalink: /family/our-stories/adaptive-leaders/
+permalink: /happenings/our-stories/adaptive-leaders/
 date: 2020-01-01
 layout: post
 description: ""
