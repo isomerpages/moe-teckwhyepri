@@ -6,8 +6,8 @@ description: ""
 #### School Bus Service
 
 Tong Wei Bus Service  
-Mr Zhou (9326 5386)
-
+Mr Zhou (9326 5386)<br>
+[School Bus Fare](/files/School%20Bus%20Services/twps_nte_price_schbus.pdf)
 <hr>
 
 #### School Bookshop &amp; Uniform
