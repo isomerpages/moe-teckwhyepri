@@ -1,6 +1,6 @@
 title: Teck Whye Primary School
 url: https://teckwhyepri.moe.edu.sg
-favicon: /images/TWPS LOGO HIGH DEFINITION.png
+favicon: /images/twps_logo_bg.jpg
 colors:
   primary-color: "#e0243b"
   secondary-color: "#0546ae"
@@ -57,3 +57,4 @@ facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
 resources_name: happenings
+google_analytics_ga4: ""
