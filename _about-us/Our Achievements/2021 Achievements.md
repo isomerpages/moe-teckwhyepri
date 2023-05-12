@@ -1571,4 +1571,5 @@ The school adopts a stringent process in the selection of the award recipients b
   mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin;color:black">Leadership</span><span style="font-size:12.0pt;font-family:&quot;Calibri Light&quot;,sans-serif;mso-ascii-theme-font:
   major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin"></span></p></td></tr></tbody></table>
 	
-	![](/images/kids.png)
+	
+![](/images/kids.png)
