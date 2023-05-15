@@ -125,3 +125,5 @@ The departure timing from school for After-School Activities are as follows. Ple
 | Friday     | 4.15pm (Hall)    | 
 
 <a href="#up">back to top of the page</a>
+
+![](/images/kids.png)
