@@ -71,3 +71,5 @@ Thank you,Teck Whye Primary!
 ![](/images/abhiandmum.jpg)
 
 Abhi and her mother, who was a volunteer at her class’ Speech and Drama programme
+
+![](/images/kids.png)
