@@ -13,3 +13,5 @@ Well done to all our five Junior CD Lionhearters!
 ![](/images/SCDF-JUNIOR-LIONHEARTERS.jpg)
 
 ![](/images/twpsscdf.png)
+
+![](/images/kids.png)
