@@ -4,6 +4,8 @@ permalink: /about-us/our-achievements/2020-achievements/
 description: ""
 third_nav_title: Our Achievements
 ---
+## EAGLES AWARD
+
 The Edusave Award for Achievement, Good Leadership and Service (EAGLES) is given by the government annually to Singaporean pupils to recognize pupils’ leadership qualities, service rendered to the school and the community, and excellence in non-academic activities. Up to 10% of students from each school selected will receive an award amounting to $250 from MOE.
 
 The school adopts a stringent process in the selection of award recipients based on teachers’ recommendations and the pupils’ CCA records (Achievement, Leadership or Service). In addition, these pupils will have to pass their school examinations and attain a conduct grade of ‘Good’ or better to qualify.  
