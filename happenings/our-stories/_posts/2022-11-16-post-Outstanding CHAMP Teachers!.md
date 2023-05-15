@@ -16,22 +16,22 @@ image: ""
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 <table class="tg">
-<thead>
-  <tr>
-    <th class="tg-0pky"><img src="/images/MdmYeoMuiPohLynn.jpg" style="width:400px"></th>
-    <th class="tg-0pky"><img src="/images/MissJovitaWongWanJin.jpg" style="width:400px"></th>
-    <th class="tg-0lax"><img src="/images/MdmJoyceLiew1.jpg" style="width:400px"></th>
-    <th class="tg-0lax"><img src="/images/MdmNurshirahBteAdnan1.jpg" style="width:400px"></th>
-  </tr>
-</thead>
 <tbody>
   <tr>
+    <td class="tg-0pky"><img src="/images/MdmYeoMuiPohLynn.jpg" style="width:400px"></td>
+    <td class="tg-0pky"><img src="/images/MissJovitaWongWanJin.jpg" style="width:400px"></td>
+    <td class="tg-0lax"><img src="/images/MdmJoyceLiew1.jpg" style="width:400px"></td>
+  </tr>
+	<tr>
     <td class="tg-0pky"><img src="/images/MdmTanWanFoon1.jpg" style="width:400px"></td>
     <td class="tg-0pky"><img src="/images/MdmAzlinaBteHassan.jpg" style="width:400px"></td>
     <td class="tg-0lax"><img src="/images/MissTanXiuYingEileen.jpg" style="width:400px"></td>
-    <td class="tg-0lax"><img src="/images/MrNasrunMizzy.jpg" style="width:400px"></td>
-		<td class="tg-0lax"><img src="/images/MrSebastianLimKokWee.jpg" style="width:400px"></td>
   </tr>
+	<tr>
+		<td class="tg-0lax"><img src="/images/MdmNurshirahBteAdnan1.jpg" style="width:400px"></td>
+		<td class="tg-0lax"><img src="/images/MrNasrunMizzy.jpg" style="width:400px"></td>
+		<td class="tg-0lax"><img src="/images/MrSebastianLimKokWee.jpg" style="width:400px"></td>
+	</tr>
 </tbody>
 </table>
 
@@ -68,3 +68,5 @@ Miss Tan Xiu Ying Eileen
 Ms Jovita Wong Wan Jin
 
 These teachers have demonstrated a strong belief in helping students to discover the joy of learning. They have also exemplified the spirit of lifelong learning as they seek to actively contribute to the teaching fraternity. Keep up the great work, teachers!
+
+![](/images/kids.png)
