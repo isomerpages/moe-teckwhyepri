@@ -14,12 +14,15 @@ third_nav_title: Student Administrations
 
 <hr>
 
-### School Booklist
-1. [P1 Booklist 2023](/files/Student%20Administrations/TWPS-2023-Booklist-P1.pdf)
-2. P2 Booklist 2023
-3. P3 Booklist 2023
-4. P4 Booklist 2023
-5. P5 Booklist 2023
-6. P6 Booklist 2023
+### School Booklist Order Form
+1. [P1 Booklist Order Form 2023](/files/Student%20Administrations/TWPS-2023-Booklist-P1.pdf)
+2. [P2 Booklist Order Form 2023](/files/Student%20Administrations/Booklist/twps-2023-booklist-p2.pdf)
+3. [P3 (with Higher Mother Tongue) Booklist Order Form 2023](/files/Student%20Administrations/Booklist/twps-2023-booklist-p3-hmt.pdf)
+4. [P3 Booklist Order Form 2023](/files/Student%20Administrations/Booklist/twps-2023-booklist-p3.pdf)
+5. [P4 Booklist Order Form 2023](/files/Student%20Administrations/Booklist/twps-2023-booklist-p4.pdf)
+6. [P5 (with 3 Standard Subject &amp; Foundation Math) Booklist Order Form 2023](/files/Student%20Administrations/Booklist/twps-2023-booklist-p5-3s-fma.pdf)
+7. [P5 Booklist Order Form 2023](/files/Student%20Administrations/Booklist/twps-2023-booklist-p5.pdf)
+8. [P6 (Foundation) Booklist Order Form 2023](/files/Student%20Administrations/Booklist/twps-2023-booklist-p6-fdn.pdf)
+9. [P6 Booklist Order Form 2023](/files/Student%20Administrations/Booklist/twps-2023-booklist-p6.pdf)
 
 ![](/images/kids.png)
