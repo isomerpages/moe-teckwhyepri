@@ -17,3 +17,5 @@ Teck Whye CHAMPs, see you back in school in January 2023!
 3.  [P3 LEVEL AWARDS CEREMONY 2022](https://youtu.be/kfIPW-BWTi8)
 4.  [P4 LEVEL AWARDS CEREMONY 2022](https://youtu.be/9-a2t7r3sZA)
 5.  [P5 LEVEL AWARDS CEREMONY 2022](https://youtu.be/oEWL4cpB_gQ)
+
+![](/images/kids.png)
