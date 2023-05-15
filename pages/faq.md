@@ -19,3 +19,5 @@ permalink: /faq/
 <br>
 
 *Last update: 06/04/2023*
+
+![](/images/kids.png)

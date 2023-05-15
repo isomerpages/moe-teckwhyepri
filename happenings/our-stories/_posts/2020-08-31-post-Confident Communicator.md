@@ -21,3 +21,5 @@ When sitting through my English DSA interview to Victoria School, I understood h
 Kailasom Aditya Suresh  
 Teck Whye Primary School Class of 2018  
 Currently at Victoria School
+
+![](/images/kids.png)

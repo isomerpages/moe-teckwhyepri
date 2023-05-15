@@ -117,3 +117,5 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more informa
 9. Parents who wish to opt their children out of the **Sexuality Education lessons**&nbsp;need to complete an opt-out form. Please click [here](https://go.gov.sg/twpssedform) to fill out and submit the opt-out form by Friday, 10 February 2023.
 
 10. Parents can contact the school at 67691025 for discussion or to seek clarification about the school’s Sexuality Education programme.
+
+![](/images/kids.png)

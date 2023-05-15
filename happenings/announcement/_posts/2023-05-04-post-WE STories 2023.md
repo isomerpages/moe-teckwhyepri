@@ -14,3 +14,4 @@ We would like to share with you the WE STories publication, which is a collectio
 
 To access the WE STories, please click [here](https://online.fliphtml5.com/obrr/qkde/#p=1)
 
+![](/images/kids.png)

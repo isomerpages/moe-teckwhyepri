@@ -21,3 +21,5 @@ image: ""
 In this featured writeup (“Nurturing Future-Ready Digital Learners through Media-Making”), Miss Gan Yeh Li (Subject Head / Information and Communications Technology) and Mdm Nurul Huda (Senior Teacher / English Language) shared about the “Media Whiz Kids” programme and how it is used to teach our students media literacy and critical thinking skills.
 
 To access the featured writeup, please click&nbsp;[here](https://singteach.nie.edu.sg/).
+
+![](/images/kids.png)

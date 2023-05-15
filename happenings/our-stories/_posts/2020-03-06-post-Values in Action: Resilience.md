@@ -23,3 +23,5 @@ If you have a dream, work for it! Aspire and Achieve!
 **Md Zunnur Iman Bin Md Aidil**
 
 **Teck Whye Primary School Class of 2015**
+
+![](/images/kids.png)

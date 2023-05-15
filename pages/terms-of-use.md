@@ -59,3 +59,5 @@ Teck Whye Primary School reserves the right to disable any unauthorised links o
 #### **Governing Law** 
 
 These Terms of Use shall be governed and construed in accordance with laws of the Republic of Singapore.
+
+![](/images/kids.png)

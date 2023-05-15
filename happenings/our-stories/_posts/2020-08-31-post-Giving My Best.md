@@ -29,3 +29,5 @@ My positive attitude and the values I had learnt at Teck Whye Primay have helped
 
 Mohamed Imran Bin Moosa  
 Teck Whye Primary School Class of 1995
+
+![](/images/kids.png)
