@@ -26,3 +26,5 @@ Click on the above for the following resources:
 
 ##### Other contents:
 1. [Principal’s Engagement with P1 Parents 2023](/files/Parents%20Portal/Others/2023-ps-engagement-with-p1-parents.pdf) (6 January 2023)
+
+![](/images/kids.png)
