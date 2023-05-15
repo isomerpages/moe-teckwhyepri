@@ -22,3 +22,5 @@ Every school has their own unique beam of light but TWPS will forever hold this 
 Teng Kaixin  
 Teck Whye Primary School Class of 2018  
 Currently at Nanyang Girls’ High School
+
+![](/images/kids.png)
