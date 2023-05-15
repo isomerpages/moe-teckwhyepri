@@ -10,3 +10,5 @@ Our P6 graduates of Class 2021 made an appreciation video to thank all who have 
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AAcgUYjnmoE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+![](/images/kids.png)
