@@ -25,3 +25,5 @@ Click [here](https://www.facebook.com/100023919427833/posts/pfbid0Rb4833S19nxqSt
 **Minister Chan concluded his visit to TWPS with a photo taken with important representative members of the Teck Whye family which includes our cleaners, bus drivers, security guards and parent volunteers.**
 
 ![](/images/weile-30.jpg)
+
+![](/images/kids.png)
