@@ -23,3 +23,5 @@ Being in Teck Whye Primary School allowed me to grow as a person, giving me valu
 Lai Zer Jynn  
 Teck Whye Primary School Class of 2018  
 Currently at School of Science and Technology, Singapore
+
+![](/images/kids.png)
