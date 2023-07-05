@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School's Advertisement/.keep
       - TWPS in the News.md
       - Our Achievements/.keep
       - Our Achievements/2022 Achievements.md
