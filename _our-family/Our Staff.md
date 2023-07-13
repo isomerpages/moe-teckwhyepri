@@ -247,8 +247,8 @@ description: ""
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">ong_huizhen@moe.edu.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Ms Siti Amirah</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">siti_amirah_zailaini@moe.edu.sg</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Ms Zoey Yeo</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">zoey_yeo_kai_hui@moe.edu.sg</span></td>
   </tr>
   <tr>
     <td class="tg-dox4" rowspan="2"><span style="font-weight:inherit;font-style:inherit">P1 – 6</span></td>
@@ -274,8 +274,8 @@ description: ""
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">ng_jing_ping_radiance@moe.edu.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mdm Joyce Liew</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">liew_yeow_wah_joyce@moe.edu.sg</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mdm Yang Yingying</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">yang_yingying@moe.edu.sg</span></td>
   </tr>
 </tbody>
 </table>
