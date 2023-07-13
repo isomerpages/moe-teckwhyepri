@@ -119,11 +119,6 @@ description: ""
   </tr>
   <tr>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Subject Head (Physical Education)</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mdm Joyce Liew</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">liew_yeow_wah_joyce@moe.edu.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Subject Head (Physical Education)</span></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mr Mohamed Ashiq</span></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">mohamed_ashiq_ameerdeen_m@moe.edu.sg</span></td>
   </tr>
@@ -187,9 +182,9 @@ description: ""
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">nerwati_ismail@moe.edu.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Senior Teacher (Physical Education)</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mr Shamsudin Bin Hashim</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">shamsudin_b_hashim@moe.edu.sg</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Senior Teacher (Special Education Needs)</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mr Sebastian Lim</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">sebastian_lim_kok_wee@moe.edu.sg</span></td>
   </tr>
  
 </tbody>
