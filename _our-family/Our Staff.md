@@ -119,11 +119,6 @@ description: ""
   </tr>
   <tr>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Subject Head (Physical Education)</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mdm Joyce Liew</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">liew_yeow_wah_joyce@moe.edu.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Subject Head (Physical Education)</span></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mr Mohamed Ashiq</span></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">mohamed_ashiq_ameerdeen_m@moe.edu.sg</span></td>
   </tr>
@@ -187,9 +182,9 @@ description: ""
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">nerwati_ismail@moe.edu.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Senior Teacher (Physical Education)</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mr Shamsudin Bin Hashim</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">shamsudin_b_hashim@moe.edu.sg</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Senior Teacher (Special Education Needs)</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mr Sebastian Lim</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">sebastian_lim_kok_wee@moe.edu.sg</span></td>
   </tr>
  
 </tbody>
@@ -252,8 +247,8 @@ description: ""
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">ong_huizhen@moe.edu.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Ms Siti Amirah</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">siti_amirah_zailaini@moe.edu.sg</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Ms Zoey Yeo</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">zoey_yeo_kai_hui@moe.edu.sg</span></td>
   </tr>
   <tr>
     <td class="tg-dox4" rowspan="2"><span style="font-weight:inherit;font-style:inherit">P1 – 6</span></td>
@@ -279,8 +274,8 @@ description: ""
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">ng_jing_ping_radiance@moe.edu.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mdm Joyce Liew</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">liew_yeow_wah_joyce@moe.edu.sg</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mdm Yang Yingying</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">yang_yingying@moe.edu.sg</span></td>
   </tr>
 </tbody>
 </table>
@@ -478,13 +473,17 @@ description: ""
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">faridah_abdul_aziz@moe.edu.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-dox4" rowspan="2"><span style="font-weight:inherit;font-style:inherit">P4 – 2</span></td>
+    <td class="tg-dox4" rowspan="3"><span style="font-weight:inherit;font-style:inherit">P4 – 2</span></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Ms Charmian Chng</span></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">chng_seet_min_charmian@moe.edu.sg</span></td>
   </tr>
   <tr>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mdm Nurshirah</span></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">nurshirah_binte_adnan@moe.edu.sg</span></td>
+  </tr>
+	<tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mr Hardi</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">hardi_pardi@moe.edu.sg</span></td>
   </tr>
   <tr>
     <td class="tg-dox4" rowspan="2"><span style="font-weight:inherit;font-style:inherit">P4 – 3</span></td>
@@ -505,13 +504,17 @@ description: ""
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">yip_lai_kheng@moe.edu.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-dox4" rowspan="2"><span style="font-weight:inherit;font-style:inherit">P4 – 5</span></td>
+    <td class="tg-dox4" rowspan="3"><span style="font-weight:inherit;font-style:inherit">P4 – 5</span></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mdm Suhaizat</span></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">suhaizat_md_ismail@moe.edu.sg</span></td>
   </tr>
   <tr>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Ms Izzati Hamizah</span></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">izzati_hamizah_zainal@moe.edu.sg</span></td>
+  </tr>
+	<tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mdm Lin Yanhua</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">lin_yanhua@moe.edu.sg</span></td>
   </tr>
 </tbody>
 </table>
@@ -623,13 +626,17 @@ description: ""
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">loo_mei_lin_florence@moe.edu.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-dox4" rowspan="2"><span style="font-weight:inherit;font-style:inherit">P6 – 5</span></td>
+    <td class="tg-dox4" rowspan="3"><span style="font-weight:inherit;font-style:inherit">P6 – 5</span></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Ms Sharmaine Tan</span></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">tan_qimin_sharmaine@moe.edu.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mr Shamsudin</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">shamsudin_b_hashim@moe.edu.sg</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Ms Alicia Yip</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">alicia_yip_mei_wei@moe.edu.sg</span></td>
+  </tr>
+	<tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mdm Siti Amirah</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">siti_amirah_zailaini@moe.edu.sg</span></td>
   </tr>
 </tbody>
 </table>
