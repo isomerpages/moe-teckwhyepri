@@ -110,7 +110,7 @@ description: ""
   <tr>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Level Head (Science)</span></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Miss Tan Xiu Ying Eileen</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">tan_xiu_ying_eileen@moe.du.sg</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">tan_xiu_ying_eileen@moe.edu.sg</span></td>
   </tr>
   <tr>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Subject Head (Aesthetics)</span></td>
@@ -418,7 +418,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Ms Eileen Tan</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">tan_xiu_ying_eileen@moe.du.sg</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">tan_xiu_ying_eileen@moe.edu.sg</span></td>
   </tr>
   <tr>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Ms Ong Su Ting</span></td>
