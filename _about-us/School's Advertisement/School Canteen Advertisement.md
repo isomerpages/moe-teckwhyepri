@@ -8,7 +8,7 @@ third_nav_title: School's Advertisement
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Malay Food Stall | 01 Sept 2023 | Rice or noodle stalls are acceptable.|
+| Malay Food Stall | 01 Sept 2023 | [Stall Requirements](/files/School%20Canteen%20Ads/malay%20food%20stall%20requirement%2020230720.pdf)|
 
 
 **Application Procedure**
