@@ -9,8 +9,8 @@ third_nav_title: School's Advertisement
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
 | Malay Food Stall | 30 Jun 2023 | Rice or noodle stalls are acceptable.|
-| Western Food Stall | 15 Jul 2023 | NIL|
-| Japanese Stall (halal/non-halal) and Western Food Stall (halal/non-halal) | 20 Jul 2023 | Schools may include any other requirements for stall applicants, if required, or this column may also be removed if desired.|
+
+
 
 **Application Procedure**
 
@@ -24,10 +24,10 @@ third_nav_title: School's Advertisement
 
 3. Submit the completed application form and documents by closing date via email OR to the School's General Office.
 
-* Address: xxxx S737777
-* Contact No: 6666 4444
-* Email: abc_ps@moe.edu.sg
-* Contact Person: Mdm Sally Tan 
+* Address: 11, Teck Whye Walk, Singapore 688261
+* Contact No: 6769 1025
+* Email: twps@moe.edu.sg
+* Contact Person: Mr Karthik (OM)
 
 **How to get there?**
 * Nearest MRT: Admiralty MRT (NS10 line) – 10 minutes walking distance
