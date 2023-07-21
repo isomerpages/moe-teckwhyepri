@@ -22,7 +22,7 @@ To apply, please refer to the Service Requirements and the Application Procedure
 * Address: Teck Whye Primary School, 11 Teck Whye Walk, Singapore 688261
 * Contact No: 6769 1025
 * Email: [twps@moe.edu.sg](mailto:twps@moe.edu.sg)
-* Contact Person: Mr Karthik
+* Contact Person: Mr Karthik (OM)
 
 
 **How to get there?**
