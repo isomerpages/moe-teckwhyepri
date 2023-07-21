@@ -8,8 +8,7 @@ third_nav_title: School's Advertisement
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Malay Food Stall | 30 Jun 2023 | Rice or noodle stalls are acceptable.|
-
+| Malay Food Stall | 01 Sept 2023 | Rice or noodle stalls are acceptable.|
 
 
 **Application Procedure**
@@ -30,8 +29,8 @@ third_nav_title: School's Advertisement
 * Contact Person: Mr Karthik (OM)
 
 **How to get there?**
-* Nearest MRT: Admiralty MRT (NS10 line) – 10 minutes walking distance
-* Bus number: 900 - 3 minutes walking distance
+* Nearest MRT: Choa Chu Kang MRT (NS4 Line) – 15 minutes walking distance
+* Bus number: 190, 975, 985 - 3 minutes walking distance
 
 **Interest applicants must meet the following criteria:**
 * Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.
