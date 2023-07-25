@@ -74,11 +74,19 @@ During this time, parents can contact buddy clinics at nearby schools for dental
 
 **For emergency dental cases:**
 <br>
-Tel: 64353782  
-Email:&nbsp;[HPB\_Dental\_Counter@hpb.gov.sg](mailto:HPB_Dental_Counter@hpb.gov.sg)
-
-Address: Level 4, Health Promotion Board  
-3 Second Hospital Avenue  
-Singapore 168937
+<table>
+	<tbody><tr>
+		<td>Tel:</td>
+		<td>64353782 </td>
+	</tr>
+	<tr>
+		<td>Email:</td>
+		<td><a href="mailto:HPB_Dental_Counter@hpb.gov.sg">HPB_Dental_Counter@hpb.gov.sg</a></td>
+	</tr>
+	<tr>
+		<td>Address:</td>
+		<td>Level 4, Health Promotion Board<br>3 Second Hospital Avenue<br>Singapore 168937</td>
+	</tr>
+</tbody></table>
 
 ![](/images/kids.png)
