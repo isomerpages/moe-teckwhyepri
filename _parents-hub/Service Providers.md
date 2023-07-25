@@ -30,8 +30,37 @@ For name tags with spelling error:
 <hr>
 
 #### School Dental Clinic
+<h5>Operating hours:</h5>
+<table>
+	<tbody><tr>
+		<td>Monday - Thursday:</td>
+		<td>8.00am - 5.30pm</td>
+	</tr>
+	<tr>
+		<td>Friday:</td>
+		<td>8.00am - 5.00pm</td>
+	</tr>
+	<tr>
+		<td>Lunch:</td>
+		<td>1.00pm - 2.00pm</td>
+	</tr>
+	<tr>
+		<td colspan="2"><b>Close on Saturday, Sunday, Public Holiday and alternate weeks.</b></td>
+	</tr>
+</tbody></table>
+<b><u>WhatsApp for appointment @ 97835025</u></b>
+<h5>Important Notice</h5>
+<u>Updated 25th July 2023</u>
 
-The dental clinic will be closed from Friday 23rd September 2022 onwards till further notice. During this time, parents can contact buddy clinics at nearby schools for dental treatment (fillings, cleaning and extractions) -see list:
+Till 29th August, on all <b>Friday's</b> the dental clinic will be <b>closing 30mins earlier</b>, at <b>4.30pm</b> instead of 5.00pm.
+
+The dental clinic will be closed on:
+* 31st July - 2nd August
+* 9th August (PH) - 10th August
+* 14th August - 16th August
+* 28th August - 30th August
+
+During this time, parents can contact buddy clinics at nearby schools for dental treatment(fillings, cleaning and extractions), see list:
 
 **Before going to a clinic, please ensure that the dental staff is on duty.**
 
@@ -41,15 +70,23 @@ The dental clinic will be closed from Friday 23rd September 2022 onwards till fu
 | -------- | -------- | -------- | -------- |
 | 1     | Chua Chu Kang Primary School     | 98228628     | 20 Choa Chu Kang Ave 2 S(689905)    |
 | 2     | Concord Primary School    | 91143917     | 3 Choa Chu Kang Ave 4 S(689814)     |
-| 3     | De La Salle School     | 91145692     | 11 Choa Chu Kang St 52 S(689285)    |
 
-For emergency dental cases:
 
-Tel: 64353782  
-Email:&nbsp;[HPB\_Dental\_Counter@hpb.gov.sg](mailto:HPB_Dental_Counter@hpb.gov.sg)
-
-Address: Level 4, Health Promotion Board  
-3 Second Hospital Avenue  
-Singapore 168937
+**For emergency dental cases:**
+<br>
+<table>
+	<tbody><tr>
+		<td>Tel:</td>
+		<td>64353782 </td>
+	</tr>
+	<tr>
+		<td>Email:</td>
+		<td><a href="mailto:HPB_Dental_Counter@hpb.gov.sg">HPB_Dental_Counter@hpb.gov.sg</a></td>
+	</tr>
+	<tr>
+		<td>Address:</td>
+		<td>Level 4, Health Promotion Board<br>3 Second Hospital Avenue<br>Singapore 168937</td>
+	</tr>
+</tbody></table>
 
 ![](/images/kids.png)
