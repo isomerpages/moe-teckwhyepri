@@ -30,7 +30,7 @@ For name tags with spelling error:
 <hr>
 
 #### School Dental Clinic
-##### **Operating hours:**
+<h5>Operating hours:</h5>
 <table>
 	<tbody><tr>
 		<td>Monday - Thursday:</td>
@@ -48,9 +48,8 @@ For name tags with spelling error:
 		<td colspan="2"><b>Close on Saturday, Sunday, Public Holiday and alternate weeks.</b></td>
 	</tr>
 </tbody></table>
-
-***WhatsApp for appointment @ 9783 5025***
-##### **Important Notice**
+<b><u>WhatsApp for appointment @ 9783 5025</u></b>
+<h5>Important Notice</h5>
 <u>Updated 25th July 2023</u>
 
 Till 29th August, on all <b>Friday's</b> the dental clinic will be <b>closing 30mins earlier</b>, at <b>4.30pm</b> instead of 5.00pm.
@@ -73,8 +72,8 @@ During this time, parents can contact buddy clinics at nearby schools for dental
 | 2     | Concord Primary School    | 91143917     | 3 Choa Chu Kang Ave 4 S(689814)     |
 
 
-For emergency dental cases:
-
+**For emergency dental cases:**
+<br>
 Tel: 64353782  
 Email:&nbsp;[HPB\_Dental\_Counter@hpb.gov.sg](mailto:HPB_Dental_Counter@hpb.gov.sg)
 
