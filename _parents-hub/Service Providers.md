@@ -48,7 +48,7 @@ For name tags with spelling error:
 		<td colspan="2"><b>Close on Saturday, Sunday, Public Holiday and alternate weeks.</b></td>
 	</tr>
 </tbody></table>
-<b><u>WhatsApp for appointment @ 9783 5025</u></b>
+<b><u>WhatsApp for appointment @ 97835025</u></b>
 <h5>Important Notice</h5>
 <u>Updated 25th July 2023</u>
 
