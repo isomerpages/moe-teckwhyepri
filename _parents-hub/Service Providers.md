@@ -52,7 +52,7 @@ For name tags with spelling error:
 <h5>Important Notice</h5>
 <u>Updated 25th July 2023</u>
 
-Till 29th August, on all <b>Friday's</b> the dental clinic will be <b>closing 30mins earlier</b>, at <b>4.30pm</b> instead of 5.00pm.
+Till end of August, on all <b>Friday's</b> the dental clinic will be <b>closing 30mins earlier</b>, at <b>4.30pm</b> instead of 5.00pm.
 
 The dental clinic will be closed on:
 * 31st July - 2nd August
