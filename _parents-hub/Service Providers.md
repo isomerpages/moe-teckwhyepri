@@ -52,7 +52,7 @@ For name tags with spelling error:
 <h5>Important Notice</h5>
 <u>Updated 25th July 2023</u>
 
-Till 29th August, on all <b>Friday's</b> the dental clinic will be <b>closing 30mins earlier</b>, at <b>4.30pm</b> instead of 5.00pm.
+Till end of August, on all <b>Friday's</b> the dental clinic will be <b>closing 30mins earlier</b>, at <b>4.30pm</b> instead of 5.00pm.
 
 The dental clinic will be closed on:
 * 31st July - 2nd August
@@ -70,23 +70,5 @@ During this time, parents can contact buddy clinics at nearby schools for dental
 | -------- | -------- | -------- | -------- |
 | 1     | Chua Chu Kang Primary School     | 98228628     | 20 Choa Chu Kang Ave 2 S(689905)    |
 | 2     | Concord Primary School    | 91143917     | 3 Choa Chu Kang Ave 4 S(689814)     |
-
-
-**For emergency dental cases:**
-<br>
-<table>
-	<tbody><tr>
-		<td>Tel:</td>
-		<td>64353782 </td>
-	</tr>
-	<tr>
-		<td>Email:</td>
-		<td><a href="mailto:HPB_Dental_Counter@hpb.gov.sg">HPB_Dental_Counter@hpb.gov.sg</a></td>
-	</tr>
-	<tr>
-		<td>Address:</td>
-		<td>Level 4, Health Promotion Board<br>3 Second Hospital Avenue<br>Singapore 168937</td>
-	</tr>
-</tbody></table>
 
 ![](/images/kids.png)
