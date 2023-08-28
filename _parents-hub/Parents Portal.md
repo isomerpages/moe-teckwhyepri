@@ -24,7 +24,14 @@ Click on the above for the following resources:
 
 <hr>
 
-##### Other contents:
+#### End Year Exam Schedule
+1. [P3 End Year Exam Schedule](/files/Parents%20Portal/End%20Year%20Exam%20Schedule/p3%20end%20year%20exam%20schedule.pdf)
+2. [P4 End Year Exam Schedule](/files/Parents%20Portal/End%20Year%20Exam%20Schedule/p4%20end%20year%20exam%20schedule.pdf) 
+3. [P5 End Year Exam Schedule](/files/Parents%20Portal/End%20Year%20Exam%20Schedule/p5%20end%20year%20exam%20schedule.pdf)
+
+<hr>
+
+##### Other Contents:
 1. [Principal’s Engagement with P1 Parents 2023](/files/Parents%20Portal/Others/2023-ps-engagement-with-p1-parents.pdf) (6 January 2023)
 
 ![](/images/kids.png)
