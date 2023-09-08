@@ -26,7 +26,7 @@ Video guide for students to login to different platforms, such as:
 | [Guide to Device Use for HBL](/files/ICT%20Resources/deviceuseguide_hbl.pdf)     | [SLS Guide for P1 Students](/files/ICT%20Resources/slsguide_p1.pdf)     | 
 | [Parent Kit for Home-Based Learning](/files/ICT%20Resources/parentkit_hbl.pdf)     | [SLS Guide for P2 to P6 Students](/files/ICT%20Resources/slsguide_p2_p6.pdf)    | 
 |     | [ZOOM Guide for Students](/files/ICT%20Resources/zoomguide_student.pdf)    | 
-|      | [Google Meet Guide for Students](/files/ICT%20Resources/googlemeetguide_student.pdf)     |
+
 
 <hr>
 
