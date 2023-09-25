@@ -15,32 +15,3 @@ description: ""
 | [P1-6](/files/HBL/2023/September/P1/p1-6%20hbl%20daily%20plans.pdf) | [P2-6](/files/HBL/2023/September/P2/p2-6%20hbl%20daily%20plans.pdf)| [P3-6](/files/HBL/2023/September/P3/p3-6%20hbl%20daily%20plans.pdf)|
 | [P1-7](/files/HBL/2023/September/P1/p1-7%20hbl%20daily%20plans.pdf) | [P2-7](/files/HBL/2023/September/P2/p2-7%20hbl%20daily%20plans.pdf) | |
 | [P1-8](/files/HBL/2023/September/P1/p1-8%20hbl%20daily%20plans.pdf) | [P2-8](/files/HBL/2023/September/P2/p2-8%20hbl%20daily%20plans.pdf)| |
-
-
-### Primary 1 
-
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-
-### Primary 2
-* 
-* 
-* 
-* 
-* 
-* 
-*
-* 
-
-### Primary 3
-* 
-* 
-* 
-* 
-* 
-* 
