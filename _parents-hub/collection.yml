@@ -2,7 +2,7 @@ collections:
   parents-hub:
     output: true
     order:
-      - TWPS HBL.md
+      - Home Based Learning.md
       - Useful Information.md
       - Parents Gateway.md
       - Student Administrations/.keep
