@@ -52,26 +52,5 @@ For name tags with spelling error:
 	</tr>
 </tbody></table>
 <b><u>WhatsApp for appointment @ 97835025</u></b>
-<h5>Important Notice</h5>
-<u>Updated 25th July 2023</u>
-
-Till end of August, on all <b>Friday's</b> the dental clinic will be <b>closing 30mins earlier</b>, at <b>4.30pm</b> instead of 5.00pm.
-
-The dental clinic will be closed on:
-* 31st July - 2nd August
-* 9th August (PH) - 10th August
-* 14th August - 16th August
-* 28th August - 30th August
-
-During this time, parents can contact buddy clinics at nearby schools for dental treatment(fillings, cleaning and extractions), see list:
-
-**Before going to a clinic, please ensure that the dental staff is on duty.**
-
-**List of buddy clinics**
-
-| No. | Buddy Clinic | Telephone | Address |
-| -------- | -------- | -------- | -------- |
-| 1     | Chua Chu Kang Primary School     | 98228628     | 20 Choa Chu Kang Ave 2 S(689905)    |
-| 2     | Concord Primary School    | 91143917     | 3 Choa Chu Kang Ave 4 S(689814)     |
 
 ![](/images/kids.png)
