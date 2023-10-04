@@ -3,11 +3,14 @@ title: Service Providers
 permalink: /parents-hub/service-providers/
 description: ""
 ---
-#### School Bus Service
+#### School Bus Service (2024-2025)
 
-Tong Wei Bus Service  
-Mr Zhou (9326 5386)<br>
-[School Bus Fare](/files/School%20Bus%20Services/twps_nte_price_schbus.pdf)
+Feida Bus Consortium Pte. Ltd. (Mdm Shirley)<br>
+Office Number: 6775 5115 <br>
+Mobile Number: 8812 5115 <br>
+[School Bus Fare](/files/School%20Bus%20Services/twps_nte_price_schbus_2024.pdf) <br>
+[School Bus Terms &amp; Conditions](/files/School%20Bus%20Services/schbus_tnc_feida.pdf) <br>
+[School Bus Registration Form](/files/School%20Bus%20Services/schbus_reg_form_feida.pdf)
 <hr>
 
 #### School Bookshop &amp; Uniform
