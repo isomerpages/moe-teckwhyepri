@@ -9,7 +9,7 @@ description: ""
 Office Number: 6775 5115 <br>
 Mobile Number: 8812 5115 <br>
 Email Address: twps2024@gmail.com <br>
-[School Bus Fare](/files/School%20Bus%20Services/twps_nte_price_schbus_2024_w_email.pdf) <br>
+[School Bus Fare](/files/School%20Bus%20Services/twps_nte_price_schbus_2024_w_email.pdf)<br>
 [School Bus Terms &amp; Conditions](/files/School%20Bus%20Services/schbus_tnc_feida.pdf) <br>
 [School Bus Registration Form](/files/School%20Bus%20Services/schbus_reg_form_feida.pdf)
 <hr>
