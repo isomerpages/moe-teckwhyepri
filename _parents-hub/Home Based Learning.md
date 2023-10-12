@@ -4,7 +4,7 @@ permalink: /parents-hub/hbl/
 description: ""
 ---
 ## HBL Daily Plans 
-
+Date: 16th Oct - 18th Oct<br>
 **Click on the class below to view the HBL Daily Plans**
 
 | Primary 1 | Primary 2 | 
