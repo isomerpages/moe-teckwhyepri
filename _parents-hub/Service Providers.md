@@ -49,9 +49,11 @@ For name tags with spelling error:
 		<td>1.00pm - 2.00pm</td>
 	</tr>
 	<tr>
-		<td colspan="2"><b>Close on Saturday, Sunday, Public Holiday and alternate weeks.</b></td>
+		<td colspan="2"><b>Close on Saturday, Sunday, Public Holiday and alternate weeks.<br>WhatsApp for appointment @ 97835025</b></td>
 	</tr>
 </tbody></table>
-<b><u>WhatsApp for appointment @ 97835025</u></b>
+
+[Click here for more information on the Dental Schedule](/files/Dental%20Information/oct%202023%20schedule.pdf)
+
 
 ![](/images/kids.png)
