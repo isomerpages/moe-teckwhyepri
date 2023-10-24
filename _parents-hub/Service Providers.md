@@ -37,11 +37,11 @@ For name tags with spelling error:
 <h5>Operating hours:</h5>
 <table>
 	<tbody><tr>
-		<td>Monday - Thursday:</td>
+		<td>Tuesday, Thursday:</td>
 		<td>8.00am - 5.30pm</td>
 	</tr>
 	<tr>
-		<td>Friday:</td>
+		<td>Monday, Wednesday, Friday:</td>
 		<td>8.00am - 5.00pm</td>
 	</tr>
 	<tr>
@@ -53,7 +53,7 @@ For name tags with spelling error:
 	</tr>
 </tbody></table>
 
-[Click here for more information on the Dental Schedule](/files/Dental%20Information/oct%202023%20schedule.pdf)
+[Click here for Dental Schedule Oct 2023](/files/Dental%20Information/oct%202023%20schedule.pdf)
 
 
 ![](/images/kids.png)
