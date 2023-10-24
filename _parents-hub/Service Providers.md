@@ -37,11 +37,11 @@ For name tags with spelling error:
 <h5>Operating hours:</h5>
 <table>
 	<tbody><tr>
-		<td>Monday - Thursday:</td>
+		<td>Tuesday, Thursday:</td>
 		<td>8.00am - 5.30pm</td>
 	</tr>
 	<tr>
-		<td>Friday:</td>
+		<td>Monday, Wednesday, Friday:</td>
 		<td>8.00am - 5.00pm</td>
 	</tr>
 	<tr>
