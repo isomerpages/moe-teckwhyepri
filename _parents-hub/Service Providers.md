@@ -53,7 +53,7 @@ For name tags with spelling error:
 	</tr>
 </tbody></table>
 
-[Click here for more information on the Dental Schedule](/files/Dental%20Information/oct%202023%20schedule.pdf)
+[Click here for Dental Schedule Oct 2023](/files/Dental%20Information/oct%202023%20schedule.pdf)
 
 
 ![](/images/kids.png)
