@@ -30,10 +30,6 @@ sections:
       description: Come and discover our exciting and vibrant school and find out more
         about life in TWPS for your child! At TWPS, we strongly believe in Every
         Child, Our Child.
-  - infobar:
-      title: Our Stories
-      button: More
-      url: /happenings/our-stories/
   - resources:
       title: Latest Happenings
 ---
