@@ -2,6 +2,7 @@
 title: Useful External Links
 permalink: /parents-hub/useful-external-links/
 description: ""
+variant: markdown
 ---
 #### School Related Sites
 
@@ -11,24 +12,16 @@ description: ""
 
 #### MOE Websites
 
-*   [Changes to PSLE Scoring and Sec 1 Posting From 2021](https://www.moe.gov.sg/microsites/psle/)
+*   [Understanding PSLE Scoring & S1 Posting](https://www.moe.gov.sg/secondary/s1-posting/understanding-psle-score-ranges)
 
-*   [Financial Assistance Scheme](https://www.moe.gov.sg/education/financial-assistance/moe-financial-assistance-scheme)
+*   [Financial Assistance Scheme](https://www.moe.gov.sg/financial-matters/financial-assistance)
 
-*   [P1 Registration](https://www.moe.gov.sg/admissions/primary-one-registration)
+*  [P1 Registration](https://www.moe.gov.sg/primary/p1-registration)
 
 *   [Subject Based Banding](https://www.moe.gov.sg/primary/curriculum/subject-based-banding)
 
-*   [Secondary One Posting Exercise](https://www.moe.gov.sg/admissions/secondary-one-posting-exercise)
-
-*   [Direct School Admission](https://www.moe.gov.sg/admissions/direct-admissions)
+*  [Direct School Admission (DSA-Sec)](https://www.moe.gov.sg/secondary/dsa/preferences/submit-preference-form-mainstream-primary-school-child)
 
 *   [Parenting with MOE](https://instagram.com/parentingwith.moesg?utm_medium=copy_link)
-
-#### Other useful links
-
-*   [Self-swab Antigen Rapid Test (ART) for children above 7 year old](https://youtu.be/Q2e65QPf52k)
-
-*   [Self-swab Antigen Rapid Test (ART) for children below 7 years old](https://youtu.be/MggmzHkKxto)
 
 ![](/images/kids.png)
