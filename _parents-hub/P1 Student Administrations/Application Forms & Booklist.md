@@ -5,21 +5,20 @@ description: ""
 third_nav_title: P1 Student Administrations
 variant: markdown
 ---
-### General Forms
+### Information &amp; General Forms
 
+1. [GIRO General Information (updated Apr 2023)](/files/Student%20Administrations/1_giro_general_information_apr2023.pdf)
+2. [eGIRO User Guide](/files/Student%20Administrations/1a_egiro%20user%20guide%20sep23.pdf)
+3. [Edusave Standing Order Setup](/files/Student%20Administrations/1b_edusave%20standing%20order%20setup.pdf)
+4. [MOE FAS Pamphlet 2024](/files/Student%20Administrations/2_moe%20fas%20pamphet%202024%20el.pdf)
+5. [MOE FAS Application Form 2024](/files/Student%20Administrations/3_moe%20fas%20application%20form_2024.pdf)
+6. [School Bus Registration Form](/files/Student%20Administrations/4_schbus_reg_form_feida.pdf)
+7. [Uniform Order Form 2024](/files/Student%20Administrations/5_uniform%20order%20form%202024.pdf)
 
 
 <hr>
 
 ### School Booklist Order Form
-1. [P1 Booklist Order Form 2023](/files/Student%20Administrations/TWPS-2023-Booklist-P1.pdf)
-2. [P2 Booklist Order Form 2023](/files/Student%20Administrations/Booklist/twps-2023-booklist-p2.pdf)
-3. [P3 (with Higher Mother Tongue) Booklist Order Form 2023](/files/Student%20Administrations/Booklist/twps-2023-booklist-p3-hmt.pdf)
-4. [P3 Booklist Order Form 2023](/files/Student%20Administrations/Booklist/twps-2023-booklist-p3.pdf)
-5. [P4 Booklist Order Form 2023](/files/Student%20Administrations/Booklist/twps-2023-booklist-p4.pdf)
-6. [P5 (with 3 Standard Subject &amp; Foundation Math) Booklist Order Form 2023](/files/Student%20Administrations/Booklist/twps-2023-booklist-p5-3s-fma.pdf)
-7. [P5 Booklist Order Form 2023](/files/Student%20Administrations/Booklist/twps-2023-booklist-p5.pdf)
-8. [P6 (Foundation) Booklist Order Form 2023](/files/Student%20Administrations/Booklist/twps-2023-booklist-p6-fdn.pdf)
-9. [P6 Booklist Order Form 2023](/files/Student%20Administrations/Booklist/twps-2023-booklist-p6.pdf)
+##### **Booklist Order Form 2024 (pending)**
 
 ![](/images/kids.png)
