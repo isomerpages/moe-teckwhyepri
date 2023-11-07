@@ -2,6 +2,7 @@
 title: Our Clubs & Societies
 permalink: /our-cca/our-clubs-societies/
 description: ""
+variant: markdown
 ---
 <p>Our CCA are designed to cater to our pupils’ holistic well-being. We believe that we need to help pupils develop the skills, values and attitudes to manage their learning, emotional development, social interactions and physical well-being. Equipping them with the appropriate skills and nurturing the right attitudes and dispositions will help them to lead wholesome lives well into their teenage years and adulthood.</p>
 <style type="text/css">
@@ -29,7 +30,7 @@ description: ""
     <td class="tg-0pky">Thursdays / 2.15-4.15pm</td>
     <td class="tg-0pky">Ms Gan Yeh Li (OIC)<br>Mdm Nurshirah Adnan (AIC)<br>Ms Sharmaine Tan<br>Ms Tuo Xiane<br>Mdm Arockiamary<br>Mdm Juanna Johari<br>Mdm Masnah Masod<br>Mrs Cynthia Tan<br>Mr Ganesh<br></td>
     <td class="tg-0pky">gan_yeh_li@moe.edu.sg<br>nurshirah_binte_adnan@moe.edu.sg<br></td>
-    <td class="tg-0pky">Members will learn and apply the fundamentals of proper vocal techniques through songs of different genres and cultures. They develop listening, sight-reading, and performing skills when they sing as an ensemble. Through singing, they will develop their confidence, learn to collaborate, and perform at various platforms within school and beyond.</td>
+    <td class="tg-0pky">Powered by the Infocomm Media Development Authority (IMDA), our Infocomm Media Club (IMC) provides an enriching CCA experience to support our members to pursue their interest in technology and media. Members will learn and apply useful knowledge and skills through a variety of programmes such as game design (coding), product design (Design Thinking) and photography. We aim to guide our IMC members to become Confident Communicators and Critical Thinkers who are Future Ready.</td>
   </tr>
   <tr>
     <td class="tg-0pky">Green Club</td>
