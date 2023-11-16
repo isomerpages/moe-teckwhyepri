@@ -19,6 +19,14 @@ variant: markdown
 <hr>
 
 ### School Booklist Order Form
-##### **Booklist Order Form 2024 (pending)**
+
+1. [Primary 1](/files/Student%20Administrations/Booklist/P1.pdf)
+2. [Primary 2](/files/Student%20Administrations/Booklist/P2.pdf)
+3. [Primary 3](/files/Student%20Administrations/Booklist/P3.pdf)
+4. [Primary 4](/files/Student%20Administrations/Booklist/P4.pdf)
+5. [Primary 5](/files/Student%20Administrations/Booklist/P5.pdf)
+6. [Primary 5 with Foundation Math](/files/Student%20Administrations/Booklist/P5_3S1FMA.pdf)
+7. [Primary 6](/files/Student%20Administrations/Booklist/P6.pdf)
+8. [Primary 6 Foundation](/files/Student%20Administrations/Booklist/P6_FDN.pdf)
 
 ![](/images/kids.png)
