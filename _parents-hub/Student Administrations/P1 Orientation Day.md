@@ -3,7 +3,7 @@ title: P1 Orientation Day
 permalink: /parents-hub/p1-orientation/
 description: ""
 variant: markdown
-third_nav_title: P1 Student Administrations
+third_nav_title: Student Administrations
 ---
 ### P1 Orientation Day for 2024 Cohort
 
