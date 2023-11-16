@@ -14,6 +14,7 @@ variant: markdown
 5. [MOE FAS Application Form 2024](/files/Student%20Administrations/3_moe%20fas%20application%20form_2024.pdf)
 6. [School Bus Registration Form](/files/Student%20Administrations/4_schbus_reg_form_feida.pdf)
 7. [Uniform Order Form 2024](/files/Student%20Administrations/5_uniform%20order%20form%202024.pdf)
+8. [Primary 1 Booklist Order Form](/files/Student%20Administrations/Booklist/P1.pdf)
 
 
 <hr>
