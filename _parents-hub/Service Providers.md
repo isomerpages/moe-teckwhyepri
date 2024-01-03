@@ -2,6 +2,7 @@
 title: Service Providers
 permalink: /parents-hub/service-providers/
 description: ""
+variant: markdown
 ---
 #### School Bus Service (2024-2025)
 
@@ -53,7 +54,6 @@ For name tags with spelling error:
 	</tr>
 </tbody></table>
 
-[Click here for Dental Schedule Oct 2023](/files/Dental%20Information/oct%202023%20schedule.pdf)
-
+[Click here for Dental Schedule Jan 2024](/files/Dental%20Information/Jan_2024.pdf)
 
 ![](/images/kids.png)
