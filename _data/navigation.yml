@@ -1,0 +1,14 @@
+logo: /images/TWPS LOGO HIGH DEFINITION.png
+links:
+  - title: About Us
+    collection: about-us
+  - title: Our Family
+    collection: our-family
+  - title: Our Level Experiences
+    collection: our-level-experiences
+  - title: Our CCA
+    collection: our-cca
+  - title: Parents Hub
+    collection: parents-hub
+  - title: Happenings
+    resource_room: true

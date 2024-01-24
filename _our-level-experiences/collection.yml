@@ -1,0 +1,11 @@
+collections:
+  our-level-experiences:
+    output: true
+    order:
+      - Primary 1.md
+      - Primary 2.md
+      - Primary 3.md
+      - Primary 4.md
+      - Primary 5.md
+      - Primary 6.md
+      - MOE Sexuality Education for P5 and P6 Students.md
