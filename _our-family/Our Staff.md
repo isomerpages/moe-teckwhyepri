@@ -714,7 +714,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ong Hui Zhen</p>
+<p>Mdm Ong Huizhen (Mrs Poh)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ong_huizhen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_huizhen@moe.edu.sg</a>
