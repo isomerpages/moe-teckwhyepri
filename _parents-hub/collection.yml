@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Useful Information.md
-      - Parents Gateway.md
+      - Parents Gateway App.md
       - Student Administrations/.keep
       - Student Administrations/Application Forms & Booklist.md
       - Student Administrations/P1 Orientation Day.md

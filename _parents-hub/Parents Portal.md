@@ -22,7 +22,7 @@ variant: tiptap
 </ul>
 <hr>
 <h4>Assessment</h4>
-<p><a href="/files/Parents%20Portal/Assessment/2024_assessment_plan_p1.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 1</a>
+<p><a href="/files/Parents Portal/Assessment/2024_assessment_plan_p1.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 1</a>
 </p>
 <p><a href="/files/Parents Portal/Assessment/2024_assessment_plan_p2.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 2</a>
 </p>
