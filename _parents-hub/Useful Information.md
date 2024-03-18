@@ -2,6 +2,7 @@
 title: Useful Information
 permalink: /parents-hub/useful-information/
 description: ""
+variant: markdown
 ---
 <a name="up"></a>
 <ol>
@@ -118,11 +119,11 @@ The departure timing from school for After-School Activities are as follows. Ple
 
 | Day | School Transport Departure |
 | -------- | -------- | 
-| Monday    | 3.15pm (Hall)    | 
-| Tuesday     | 4.15pm (Hall)   | 
+| Monday    | 4.00pm (Hall)    | 
+| Tuesday     | 4.00pm (Hall)   | 
 | Wednesday    | NIL    | 
-| Thursday    | 4.15pm (Hall)    | 
-| Friday     | 4.15pm (Hall)    | 
+| Thursday    | 4.00pm (Hall)    | 
+| Friday     | 4.00pm (Hall)    | 
 
 <a href="#up">back to top of the page</a>
 
