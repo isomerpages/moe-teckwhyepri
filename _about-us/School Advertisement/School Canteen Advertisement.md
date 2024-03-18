@@ -13,7 +13,7 @@ variant: tiptap
 <p>Type of Stall</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Closing Date</p>
+<p>Application Closing Date</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Requirements</p>
