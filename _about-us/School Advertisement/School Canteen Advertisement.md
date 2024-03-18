@@ -21,7 +21,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Halal Western Food Stall</p>
+<p>Western Food Stall (Halal)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>05 April 2024</p>
