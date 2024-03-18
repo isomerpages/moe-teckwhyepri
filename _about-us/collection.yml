@@ -2,11 +2,9 @@ collections:
   about-us:
     output: true
     order:
-      - Schools Advertisement/School Canteen Advertisement.md
-      - Schools Advertisement/.keep
       - TWPS in the News.md
-      - Our Achievements/2023 Achievements.md
       - Our Achievements/.keep
+      - Our Achievements/2023 Achievements.md
       - Our Achievements/2022 Achievements.md
       - Our Achievements/2021 Achievements.md
       - Our Niche Programmes/.keep
@@ -17,3 +15,5 @@ collections:
       - Our Crest.md
       - Our Song.md
       - Our History.md
+      - Schools Advertisement/.keep
+      - Schools Advertisement/School Canteen Advertisement.md
