@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - TWPS in the News.md
-      - Our Achievements/2023 Achievements.md
       - Our Achievements/.keep
+      - Our Achievements/2023 Achievements.md
       - Our Achievements/2022 Achievements.md
       - Our Achievements/2021 Achievements.md
       - Our Niche Programmes/.keep
@@ -15,3 +15,5 @@ collections:
       - Our Crest.md
       - Our Song.md
       - Our History.md
+      - School Advertisement/.keep
+      - School Advertisement/School Canteen Advertisement.md

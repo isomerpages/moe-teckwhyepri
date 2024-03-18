@@ -1,7 +1,9 @@
 ---
 title: School Canteen Advertisement
-permalink: /about-us/schools-advertisement/school-canteen/
+permalink: /about-us/school-advertisement/school-canteen/
 description: ""
+third_nav_title: School Advertisement
+variant: tiptap
 ---
 #### School Canteen Advertisement
 
