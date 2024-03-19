@@ -1588,7 +1588,7 @@ variant: tiptap
 <p>Administration Executive (AE)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nurul Amira</p>
+<p>Ms Nurul Amira Bte Mohamed Ariffin</p>
 </td>
 </tr>
 <tr>
@@ -1612,7 +1612,7 @@ variant: tiptap
 <p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Pitrawati Bte AMin</p>
+<p>Ms Pitrawati Bte Amin</p>
 </td>
 </tr>
 <tr>
