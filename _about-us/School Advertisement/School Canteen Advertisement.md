@@ -81,7 +81,7 @@ email OR to the School's General Office.</p>
 <p>Email: twps@moe.edu.sg</p>
 </li>
 <li>
-<p>Contact Person: Mr Karthik (OM)</p>
+<p>Contact Person: Ms Amira (AE)</p>
 </li>
 </ul>
 <p><strong>How to get there?</strong>
