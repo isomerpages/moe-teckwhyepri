@@ -814,7 +814,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>P3-1</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -831,15 +831,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:muhammad_nazri_mohayadin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_nazri_mohayadin@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Magespari d/o Ammayappan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:magespari_ammayappan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">magespari_ammayappan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1597,14 +1588,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Rosalind Teo Chew Choo</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Corporate Support Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Nagajothi</p>
 </td>
 </tr>
 <tr>
