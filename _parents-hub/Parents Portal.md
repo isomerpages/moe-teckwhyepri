@@ -40,6 +40,8 @@ variant: tiptap
 </p>
 <hr>
 <h5>Other Contents:</h5>
+<p><a href="/files/Parents Portal/Others/Students_GPA_Submission_Process__updated_Apr_2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">Student's Group Personal Accident (GPA) Submission Process</a>
+</p>
 <p><a href="/files/Parents Portal/Others/2024_ps_engagement_with_p3_parents.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Principal’s Engagement with P3 Parents</a>
 </p>
 <p><a href="/files/Parents Portal/Others/2024_ps_engagement_with_p4_parents.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Principal’s Engagement with P4 Parents</a>
