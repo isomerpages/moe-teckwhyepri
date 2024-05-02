@@ -5,11 +5,11 @@ description: ""
 variant: tiptap
 ---
 <h4>School Bus Service (2024-2025)</h4>
-<p><strong>Feida Bus Consortium Pte. Ltd. (Mdm Shirley)</strong>
+<p><strong>Feida Bus Consortium Pte. Ltd. (Mdm Shirley)</strong> 
 <br>Office Number: 6775 5115
 <br>Mobile Number: 8812 5115
 <br>Email Address: twps2024@gmail.com
-<br><a href="/files/School%20Bus%20Services/twps_nte_price_schbus_2024_w_email.pdf" rel="noopener noreferrer nofollow" target="_blank">School Bus Fare</a>
+<br><a href="/files/School%20Bus%20Services/twps_nte_price_schbus_2024_w_email.pdf" rel="noopener noreferrer nofollow" target="_blank">School Bus Fare</a> 
 <br><a href="/files/School%20Bus%20Services/schbus_tnc_feida.pdf" rel="noopener noreferrer nofollow" target="_blank">School Bus Terms &amp; Conditions</a> 
 <br><a href="/files/School%20Bus%20Services/schbus_reg_form_feida.pdf" rel="noopener noreferrer nofollow" target="_blank">School Bus Registration Form</a>
 </p>
@@ -21,17 +21,16 @@ variant: tiptap
 <br>From 1.50pm to 3pm
 <br>Tel: 6219 5886</p>
 <p>For textbook enquiries, please email&nbsp;<a href="mailto:twps@pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">twps@pacificbookstores.com</a>
-</p>
-<p>For uniform enquiries, please email&nbsp;<a href="mailto:uniforms@asencio.com.sg" rel="noopener noreferrer nofollow" target="_blank">uniforms@asencio.com.sg</a>
+<br>For uniform enquiries, please email&nbsp;<a href="mailto:uniforms@asencio.com.sg" rel="noopener noreferrer nofollow" target="_blank">uniforms@asencio.com.sg</a>
 </p>
 <p>For name tags with spelling error:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>a) If it is due manufacturing error, please take a photo and email to&nbsp;
-<a href="mailto:uniforms@asencio.com.sg" rel="noopener noreferrer nofollow" target="_blank">uniforms@asencio.com.sg</a>. Supplier will do a 1-to-1 replacement.</p>
+<p>If it is due manufacturing error, please take a photo and email to&nbsp;
+uniforms@asencio.com.sg. Supplier will do a 1-to-1 replacement.</p>
 </li>
 <li>
-<p>b) If name was written wrongly on the order form by parent or child, please
+<p>If name was written wrongly on the order form by parent or child, please
 place a fresh order and purchase new name tags.</p>
 </li>
 </ol>
