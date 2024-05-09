@@ -32,7 +32,7 @@ variant: tiptap
 <p>7th June 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/School Canteen Ads/Halal_Western_Food_Stall_SCAS_20240412.pdf" rel="noopener noreferrer nofollow" target="_blank">Stall Requirements</a>
+<p><a href="/files/School Canteen Ads/Halal_Western_Food_Stall_SCAS_20240509.pdf" rel="noopener noreferrer nofollow" target="_blank">Stall Requirements</a>
 </p>
 </td>
 </tr>
