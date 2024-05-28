@@ -7,6 +7,10 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="La Wun" src="/images/Our Stories/SOTAP6CreativeWritingCompe2024/La_Wun___Photo.jpg">
+</div>
 <p>Earlier this year, some of our Primary 6 students took part in the&nbsp;SOTA
 Primary 6 Creative Writing Competition. We are proud to announce that the
 story "Beginning After the End" written by La Wun Eain from Primary 6-5
