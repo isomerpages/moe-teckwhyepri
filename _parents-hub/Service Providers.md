@@ -36,8 +36,73 @@ place a fresh order and purchase new name tags.</p>
 </ol>
 <hr>
 <h4>School Dental Clinic</h4>
-<h5>Operating hours:</h5>
-<table>
+<p>Teck Whye Primary's Dental Service will be shifting to Lianhua Primary
+School with effect from <strong><u>Thursday 25th June 2024</u></strong>.</p>
+<p>In case of any dental emergencies or if students require urgent dental
+treatment, please call the following school dental clinics:</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>School Dental Clinic</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Address</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Tel / Email</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lianhua Primary School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Bukit Batok Street 52 S(659243)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9783 5025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Concord Primary School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Choa Chu Kang Ave 4 S(689814)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9114 3917</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chua Chu Kang&nbsp;Primary School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>20 Choa Chu Kang Ave 2 S(689905)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9822 8628</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>In case of clinic closure and emergency treatment is needed (tooth broken/knocked
+out), facial swelling or severe toothache, please contact School Dental
+Centre via email: <u>contact_YPS@hpb.gov.sg</u>
+</p>
+<h5>Dental Clinic Operating Hours:</h5>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -71,7 +136,7 @@ place a fresh order and purchase new name tags.</p>
 </tr>
 </tbody>
 </table>
-<p><a href="/files/Dental Information/May_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here for Dental Schedule May 2024</a>
+<p><a href="/files/Dental Information/June_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here for dental schedule June 2024</a>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/kids.png">
