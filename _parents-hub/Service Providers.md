@@ -97,7 +97,7 @@ treatment, please call the following school dental clinics:</p>
 out), facial swelling or severe toothache, please contact School Dental
 Centre via email: <u>contact_YPS@hpb.gov.sg</u>
 </p>
-<h5>Operating hours:</h5>
+<h5>Dental Clinic Operating Hours:</h5>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
