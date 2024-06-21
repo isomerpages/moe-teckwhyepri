@@ -37,7 +37,7 @@ place a fresh order and purchase new name tags.</p>
 <hr>
 <h4>School Dental Clinic</h4>
 <p>Teck Whye Primary's Dental Service will be shifting to Lianhua Primary
-School with effect from <strong><u>Thursday 25th June 2024</u></strong>.</p>
+School with effect from <strong><u>Tuesday 25th June 2024</u></strong>.</p>
 <p>In case of any dental emergencies or if students require urgent dental
 treatment, please call the following school dental clinics:</p>
 <table style="minWidth: 75px">
