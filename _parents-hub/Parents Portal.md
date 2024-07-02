@@ -35,6 +35,11 @@ variant: tiptap
 <p><a href="/files/Parents Portal/Assessment/2024_assessment_plan_p6.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6</a>
 </p>
 <hr>
+<h4>P6 Preliminary Exam</h4>
+<p><a href="/files/Parents Portal/Assessment/2024_P6_preliminary_exam.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6 Preliminary Exam Schedule and Information</a>
+</p>
+<hr>
+<p></p>
 <h4>End Year Exam Schedule</h4>
 <p><strong>Pending update for 2024</strong>
 </p>
