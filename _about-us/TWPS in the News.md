@@ -34,7 +34,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>3rd NSS ESN Biodiversity Race 2024</strong>
 </p>
-<p><a href="https://teckwhyepri.moe.edu.sg/3rd-nss-esn-biodiversity-race-2024/" rel="noopener noreferrer nofollow" target="_blank">https://teckwhyepri.moe.edu.sg/3rd-nss-esn-biodiversity-race-2024/</a>
+<p><a href="https://teckwhyepri.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://teckwhyepri.moe.edu.sg/3rd-nss-esn-biodiversity-race-2024/</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
