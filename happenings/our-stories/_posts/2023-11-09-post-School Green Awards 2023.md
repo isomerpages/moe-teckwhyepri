@@ -1,5 +1,5 @@
 ---
-title: School Green Awards
+title: School Green Awards 2023
 permalink: /happenings/our-stories/school-green-awards-2023/
 date: 2023-11-09
 layout: post

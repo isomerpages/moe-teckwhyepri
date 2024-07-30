@@ -1,6 +1,6 @@
 ---
-title: SOTA Primary 6 Creative Writing Competition
-permalink: /sota-primary-6-creative-writing-competition/
+title: SOTA Primary 6 Creative Writing Competition 2024
+permalink: /happenings/our-stories/sota-p6-creative-writing-competition-2024/
 date: 2024-05-27
 layout: post
 description: ""

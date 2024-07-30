@@ -1,5 +1,6 @@
 ---
-title: Nature Society (Singapore)’s Every Singaporean A Naturalist (NSS ESN) Awards
+title: Nature Society (Singapore)’s Every Singaporean A Naturalist (NSS ESN)
+  Awards 2023
 permalink: /happenings/our-stories/nss-esn-2023/
 date: 2023-11-06
 layout: post
