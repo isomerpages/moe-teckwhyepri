@@ -1476,7 +1476,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Student Welfare (Education Officer)</p>
+<p>Student Welfare Education Officer (Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lim Kiam Peng</p>
@@ -1488,7 +1488,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Allied Educator (School Counsellor)</p>
+<p>School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Ng Ching Xing</p>
@@ -1500,7 +1500,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Allied Educator (Learning and Behavioural Support)</p>
+<p>Special Educational Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Zulkifli Bin Yusof</p>
@@ -1512,13 +1512,37 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Allied Educator (Learning and Behavioural Support)</p>
+<p>Special Educational Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Isna Elyana Binte Abdul Hamid</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:isna_elyana_abdul_hamid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">isna_elyana_abdul_hamid@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Special Educational Needs Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Jocelyn Soh Tim Wen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:jocelyn_soh_time_wen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jocelyn_soh_time_wen@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Special Educational Needs Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Gabrielle Wan Kexin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:gabrielle_wan_kexin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">gabrielle_wan_kexin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
