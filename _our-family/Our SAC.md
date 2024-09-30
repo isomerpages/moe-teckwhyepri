@@ -2,25 +2,27 @@
 title: Our SAC
 permalink: /our-family/our-sac/
 description: ""
+variant: tiptap
 ---
-## School Advisory Committee
-<table width="100%" border="1" cellspacing="0" cellpadding="0">
-  <tbody>
-    <tr>
-      <th scope="row">Chairperson</th>
-      <td>Mr Jacques See</td>
-    </tr>
-    <tr>
-      <th scope="row">Vice Chairperson</th>
-      <td>Mdm Zainon Bte Ibrahim</td>
-    </tr>
-    <tr>
-      <th scope="row">Members</th>
-      <td>Mr Clement Joshu Chua<br>
-Mr Jackie Goh<br>
-Miss Yeo Hwee Pey</td>
-    </tr>
-  </tbody>
-</table>
-
-![](/images/kids.png)
+<h2>School Advisory Committee</h2>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mr Goh Wei Chin</p>
+</li>
+<li>
+<p>Mdm Zainon Bte Ibrahim</p>
+</li>
+<li>
+<p>Mr Clement Joshua Chua Huai Keng</p>
+</li>
+<li>
+<p>Miss Yeo Hwee Pey</p>
+</li>
+<li>
+<p>Ms Yan Shiyan Shane</p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/kids.png">
+</div>
+<p></p>
