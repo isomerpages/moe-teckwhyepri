@@ -5,23 +5,33 @@ description: ""
 variant: tiptap
 ---
 <h2>School Advisory Committee</h2>
-<ul data-tight="true" class="tight">
-<li>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Chairperson</p>
+</th>
+<td rowspan="1" colspan="1">
 <p>Mr Goh Wei Chin</p>
-</li>
-<li>
-<p>Mdm Zainon Bte Ibrahim</p>
-</li>
-<li>
-<p>Mr Clement Joshua Chua Huai Keng</p>
-</li>
-<li>
-<p>Miss Yeo Hwee Pey</p>
-</li>
-<li>
-<p>Ms Yan Shiyan Shane</p>
-</li>
-</ul>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Members</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Mdm Zainon Bte Ibrahim
+<br>Mr Clement Joshua Chua Huai Keng
+<br>Miss Yeo Hwee Pey
+<br>Ms Yan Shiyan Shane</p>
+</td>
+</tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/kids.png">
 </div>
