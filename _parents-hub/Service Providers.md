@@ -10,8 +10,7 @@ variant: tiptap
 <br>Mobile Number: 8812 5115
 <br>Email Address: twps2024@gmail.com
 <br><a href="/files/School%20Bus%20Services/twps_nte_price_schbus_2024_w_email.pdf" rel="noopener noreferrer nofollow" target="_blank">School Bus Fare</a> 
-<br><a href="/files/School%20Bus%20Services/schbus_tnc_feida.pdf" rel="noopener noreferrer nofollow" target="_blank">School Bus Terms &amp; Conditions</a> 
-<br><a href="/files/School%20Bus%20Services/schbus_reg_form_feida.pdf" rel="noopener noreferrer nofollow" target="_blank">School Bus Registration Form</a>
+<br><a href="/files/School Bus Services/schbus_reg_form_tnc_feida.pdf" rel="noopener noreferrer nofollow" target="_blank">School Bus Registration Form with Terms &amp; Conditions</a>
 </p>
 <hr>
 <h4>School Bookshop &amp; Uniform</h4>
