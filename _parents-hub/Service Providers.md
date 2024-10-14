@@ -96,47 +96,6 @@ treatment, please call the following school dental clinics:</p>
 out), facial swelling or severe toothache, please contact School Dental
 Centre via email: <u>contact_YPS@hpb.gov.sg</u>
 </p>
-<h5>Dental Clinic Operating Hours:</h5>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Monday, Wednesday, Friday:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>8.00am - 5.00pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Tuesday, Thursday:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>8.00am - 5.30pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Lunch:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1.00pm - 2.00pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>Close on Saturday, Sunday, Public Holiday and alternate weeks.<br>WhatsApp for appointment @ 97835025</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><a href="/files/Dental Information/June_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here for dental schedule June 2024</a>
-</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/kids.png">
 </div>
