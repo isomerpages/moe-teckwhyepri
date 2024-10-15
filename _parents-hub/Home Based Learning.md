@@ -2,22 +2,143 @@
 title: Home Based Learning
 permalink: /parents-hub/hbl/
 description: ""
+variant: tiptap
 ---
-## HBL Daily Plans 
-Date: 16th Oct - 18th Oct<br>
-**Click on the class below to view the HBL Daily Plans**
-
-| Primary 1 | Primary 2 | 
-| -------- | -------- | 
-|[P1-1](/files/HBL/2023/October/P1/p1-1%20hbl(psle)%20daily%20plans.pdf) | [P2-1](/files/HBL/2023/October/P2/p2-1%20hbl(psle)%20daily%20plans.pdf) |
-| [P1-2](/files/HBL/2023/October/P1/p1-2%20hbl(psle)%20daily%20plans.pdf) | [P2-2](/files/HBL/2023/October/P2/p2-2%20hbl(psle)%20daily%20plans.pdf) |
-| [P1-3](/files/HBL/2023/October/P1/p1-3%20hbl(psle)%20daily%20plans.pdf) | [P2-3](/files/HBL/2023/October/P2/p2-3%20hbl(psle)%20daily%20plans.pdf) | 
-|[P1-4](/files/HBL/2023/October/P1/p1-4%20hbl(psle)%20daily%20plans.pdf) | [P2-4](/files/HBL/2023/October/P2/p2-4%20hbl(psle)%20daily%20plans.pdf) | 
-|[P1-5](/files/HBL/2023/October/P1/p1-5%20hbl(psle)%20daily%20plans.pdf) | [P2-5](/files/HBL/2023/October/P2/p2-5%20hbl(psle)%20daily%20plans.pdf) | 
-|[P1-6](/files/HBL/2023/October/P1/p1-6%20hbl(psle)%20daily%20plans.pdf) | [P2-6](/files/HBL/2023/October/P2/p2-6%20hbl(psle)%20daily%20plans.pdf) | 
-|[P1-7](/files/HBL/2023/October/P1/p1-7%20hbl(psle)%20daily%20plans.pdf) | [P2-7](/files/HBL/2023/October/P2/p2-7%20hbl(psle)%20daily%20plans.pdf) |
-|[P1-8](/files/HBL/2023/October/P1/p1-8%20hbl(psle)%20daily%20plans.pdf) | [P2-8](/files/HBL/2023/October/P2/p2-8%20hbl(psle)%20daily%20plans.pdf)
-
-[Click here for HBL ICT Resources](https://www.teckwhyepri.moe.edu.sg/parents-hub/ict-resources/)
-
-![](/images/kids.png)
+<h2>HBL Daily Plans</h2>
+<p>Date: 14th Oct - 16th Oct
+<br><strong>Click on the class below to view the HBL Daily Plans</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Primary 1</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Primary 2</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Primary 5</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/HBL/2024_14_16_Oct/P1_1_Daily_Plans.pdf" rel="noopener nofollow" target="_blank">P1-1</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/HBL/2024_14_16_Oct/P2_1_Daily_Plans.pdf" rel="noopener nofollow" target="_blank">P2-1</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/HBL/2024_14_16_Oct/P5_1_Daily_Plans.pdf" rel="noopener nofollow" target="_blank">P5-1</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/HBL/2024_14_16_Oct/P1_2_Daily_Plans.pdf" rel="noopener nofollow" target="_blank">P1-2</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/HBL/2024_14_16_Oct/P2_2_Daily_Plans.pdf" rel="noopener nofollow" target="_blank">P2-2</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/HBL/2024_14_16_Oct/P5_2_Daily_Plans.pdf" rel="noopener nofollow" target="_blank">P5-2</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/HBL/2024_14_16_Oct/P1_3_Daily_Plans.pdf" rel="noopener nofollow" target="_blank">P1-3</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/HBL/2024_14_16_Oct/P2_3_Daily_Plans.pdf" rel="noopener nofollow" target="_blank">P2-3</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/HBL/2024_14_16_Oct/P5_3_Daily_Plans.pdf" rel="noopener nofollow" target="_blank">P5-3</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/HBL/2024_14_16_Oct/P1_4_Daily_Plans.pdf" rel="noopener nofollow" target="_blank">P1-4</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/HBL/2024_14_16_Oct/P2_4_Daily_Plans.pdf" rel="noopener nofollow" target="_blank">P2-4</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/HBL/2024_14_16_Oct/P5_4_Daily_Plans.pdf" rel="noopener nofollow" target="_blank">P5-4</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/HBL/2024_14_16_Oct/P1_5_Daily_Plans.pdf" rel="noopener nofollow" target="_blank">P1-5</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/HBL/2024_14_16_Oct/P2_5_Daily_Plans.pdf" rel="noopener nofollow" target="_blank">P2-5</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/HBL/2024_14_16_Oct/P5_5_Daily_Plans.pdf" rel="noopener nofollow" target="_blank">P5-5</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/HBL/2024_14_16_Oct/P1_6_Daily_Plans.pdf" rel="noopener nofollow" target="_blank">P1-6</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/HBL/2024_14_16_Oct/P2_6_Daily_Plans.pdf" rel="noopener nofollow" target="_blank">P2-6</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/HBL/2024_14_16_Oct/P1_7_Daily_Plans.pdf" rel="noopener nofollow" target="_blank">P1-7</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/HBL/2024_14_16_Oct/P2_7_Daily_Plans.pdf" rel="noopener nofollow" target="_blank">P2-7</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/HBL/2024_14_16_Oct/P2_8_Daily_Plans.pdf" rel="noopener nofollow" target="_blank">P2-8</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><a href="https://www.teckwhyepri.moe.edu.sg/parents-hub/ict-resources/" rel="noopener noreferrer nofollow" target="_blank">Click here for HBL ICT Resources</a>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/kids.png">
+</div>
+<p></p>
