@@ -29,10 +29,10 @@ variant: tiptap
 <p>Western Food Stall (Halal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7th June 2024</p>
+<p>Friday, 13th December 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/School Canteen Ads/Halal_Western_Food_Stall_SCAS_20240509.pdf" rel="noopener noreferrer nofollow" target="_blank">Stall Requirements</a>
+<p><a href="/files/School Canteen Ads/Halal_Western_Food_Stall_SCAS_20241120.pdf" rel="noopener noreferrer nofollow" target="_blank">Stall Requirements</a>
 </p>
 </td>
 </tr>
@@ -48,7 +48,7 @@ hardcopy from the School’s General Office.</p>
 </ol>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/School Canteen Ads/13032024_canteen_application form.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>
+<p><a href="/files/School Canteen Ads/Application_for_Canteen_Stall_FormBF7.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>
 </p>
 </li>
 </ul>
