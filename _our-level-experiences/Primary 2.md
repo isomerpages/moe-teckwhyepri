@@ -2,25 +2,42 @@
 title: Primary 2
 permalink: /our-level-experiences/primary-2/
 description: ""
+variant: tiptap
 ---
-### Primary 2 Level Experience
-
-**PAL**
-
-All P2 pupils will undergo Programme for Active Learning (PAL) during curriculum time. It gives our pupils the opportunities to discover new interests, learn new skills and build their characters. It also helps them to develop their self-confidence and forge new friendships with their peers. In PAL, pupils are exposed to varied and fun-learning experiences in four domains: Outdoor Education, Sports and Games, Performing Arts and Visual Arts.
-
-**Media Whiz Kids**
-
-Besides PAL lessons, P2 pupils also get to discover how to express themselves confidently through the Speech and Drama programme, which is part of our niche programme – Media Whiz Kids. Through this programme, the pupils pick up oratorical and presentation skills. In addition, the pupils will enjoy digital piano and percussion tubes lessons as part of their Aesthetics enrichment.
-
-**Sports Education Programme**
-
-To help each Teck Whyean be a Healthy Individual, P2 pupils will attend archery as part of their **Sports Education Programme.** Through this programme, pupils learn more about the sport, archery, as well as the proper techniques of shooting a bow and arrow at a target.
-
-**Learning Journeys**
-
-Learning journeys play a big part in bringing pupils’ learning out of the classroom. The pupils have the opportunity to go to the River Safari to learn more about the wildlife and their habitats, explore facilities available in the neighbourhood such as the colourful world of books at Bukit Panjang Public Library and the fitness facilities at Senja-Cashew Community Club.
-
-As part of the Social Studies field-based learning syllabus, the Primary 2 pupils are also given an opportunity to learn more about the facilities available in a neighbourhood. Pupils will first visit the Bukit Panjang Public Library where they will explore the colourful world of books. There will also be an interesting immersive storytelling session conducted by the librarians. After discovering the library, pupils will walk to Senja-Cashew Community Club where they will look at the different facilities available such as a gymnasium and badminton courts. On days with good weather, pupils will get to walk around the Pang Sua Pond – the second largest man-made wetland in Singapore which is linked to the community club.
-
-![](/images/kids.png)
+<h3>Primary 2 Level Experience</h3>
+<p><strong>PAL</strong>
+<br>All P2 pupils will undergo Programme for Active Learning (PAL) during
+curriculum time. It gives our pupils the opportunities to discover new
+interests, learn new skills and build their characters. It also helps them
+to develop their self-confidence and forge new friendships with their peers.
+In PAL, pupils are exposed to varied and fun-learning experiences in four
+domains: Outdoor Education, Sports and Games, Performing Arts and Visual
+Arts.</p>
+<p><strong>Media Whiz Kids</strong>
+<br>Building on their understanding of stage experience and dramatic performances,
+pupils will explore various stage setups and forms of drama. Digital Storytelling
+takes centre stage at this level, providing students with an online platform
+to share their unique experiences and narratives. They can watch a live
+drama performance, where actors vividly bring a story to life. Additionally,
+students will see the production process by observing how a live cooking
+show is filmed. They’ll also have the chance to script and perform in front
+of their peers at the green screen studio, further enhancing their skills
+as Media Whiz Kids and allowing them to engage creatively with the medium.</p>
+<p><strong>Sports Education Programme</strong>
+<br>To help each Teck Whyean be a Healthy Individual, P2 pupils will attend
+Archery exposure lessons as part of their&nbsp;<strong>Sports Education Programme.</strong>&nbsp;Through
+this programme, pupils learn more about the sport, archery, as well as
+the proper techniques of shooting a bow and arrow at a target.</p>
+<p><strong>Learning Journeys</strong>
+<br>P2 Children’s Museum Singapore (CMSG):&nbsp; Primary 2 pupils will embark
+on an exciting learning journey to the Children’s Museum Singapore, where
+they will explore the history and evolution of Singapore’s hawker culture.
+They will learn about the cultural diversity of hawker fare, uncover stories
+behind iconic hawker dishes, and understand the environmental sustainability
+efforts within hawker culture. Through this experience, pupils&nbsp; will
+develop a deeper appreciation for the hard work and values of hawkers while
+gaining exposure to the people who make this vibrant culture possible.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/kids.png">
+</div>
+<p></p>
