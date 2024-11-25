@@ -33,6 +33,8 @@ uniforms@asencio.com.sg. Supplier will do a 1-to-1 replacement.</p>
 place a fresh order and purchase new name tags.</p>
 </li>
 </ol>
+<p><a href="https://www.teckwhyepri.moe.edu.sg/parents-hub/student-administrations/app-forms/" rel="noopener nofollow" target="_blank">Booklists and Uniform Order Form can be found under Student Administrations</a>
+</p>
 <hr>
 <h4>School Dental Clinic</h4>
 <p>Teck Whye Primary's Dental Service will be shifting to Lianhua Primary
