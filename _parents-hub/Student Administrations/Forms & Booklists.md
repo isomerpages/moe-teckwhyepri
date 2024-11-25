@@ -20,11 +20,11 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Student%20Administrations/2_moe%20fas%20pamphet%202024%20el.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE FAS Pamphlet 2024</a>
+<p><a href="/files/Student Administrations/2_moe fas pamphet 2025 el.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE FAS Pamphlet 2025</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Student%20Administrations/3_moe%20fas%20application%20form_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE FAS Application Form 2024</a>
+<p><a href="/files/Student Administrations/3_moe_fas_application_form_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE FAS Application Form 2025</a>
 </p>
 </li>
 <li>
