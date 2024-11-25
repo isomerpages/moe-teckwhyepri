@@ -28,7 +28,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Student%20Administrations/4_schbus_reg_form_feida.pdf" rel="noopener noreferrer nofollow" target="_blank">School Bus Registration Form</a>
+<p><a href="/files/Student Administrations/schbus_reg_form_tnc_feida_latest.pdf" rel="noopener noreferrer nofollow" target="_blank">School Bus Registration Form</a>
 </p>
 </li>
 <li>
