@@ -319,10 +319,22 @@ variant: tiptap
 <p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Karthik Krishnamurthy</p>
+<p>Mr How Kian Kwak</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:karthik_krishnamurthy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">karthik_krishnamurthy@moe.edu.sg</a>
+<p><a href="mailto:how_kian_kwak@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">how_kian_kwak@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operations Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Muthukrishnan Vyravan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:muthukrishnan_vyravan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">muthukrishnan_vyravan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
