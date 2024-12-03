@@ -5,7 +5,6 @@ description: ""
 variant: tiptap
 ---
 <h2>HBL Daily Plans</h2>
-<h4>No HBL schedule at the moment. Please refer to this page in the future.</h4>
 <p>Date: 14th Oct - 16th Oct
 <br><strong>Click on the class below to view the HBL Daily Plans</strong>
 </p>
