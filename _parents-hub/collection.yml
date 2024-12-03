@@ -2,9 +2,9 @@ collections:
   parents-hub:
     output: true
     order:
-      - Student Resources/Home Based Learning.md
-      - Student Resources/ICT Resources.md
       - Student Resources/.keep
+      - Student Resources/ICT Resources.md
+      - Student Resources/Home Based Learning.md
       - Useful Information.md
       - Student Administrations/Parents Gateway App.md
       - Student Administrations/.keep
