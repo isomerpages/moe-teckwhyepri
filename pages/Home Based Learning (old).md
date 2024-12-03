@@ -1,6 +1,6 @@
 ---
-title: Home Based Learning
-permalink: /parents-hub/hbl/
+title: Home Based Learning (old)
+permalink: /hbl/
 description: ""
 variant: tiptap
 ---

@@ -1,7 +1,9 @@
 ---
 title: Big Heart Student Care
-permalink: /parents-hub/big-heart-student-care/
+permalink: /service-providers/big-heart-student-care/
 description: ""
+third_nav_title: Service Providers
+variant: tiptap
 ---
 <img src="/images/logo-Big-Heart.jpg" style="width:400px">
 <br>

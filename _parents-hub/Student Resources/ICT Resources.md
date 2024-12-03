@@ -2,6 +2,7 @@
 title: ICT Resources
 permalink: /parents-hub/ict-resources/
 description: ""
+third_nav_title: Student Resources
 ---
 #### Student Accounts Login Guides
 

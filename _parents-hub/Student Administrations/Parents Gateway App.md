@@ -3,6 +3,7 @@ title: Parents Gateway App
 permalink: /parents-hub/parents-gateway/
 description: ""
 variant: tiptap
+third_nav_title: Student Administrations
 ---
 Parents Gateway mobile application is now available for our school. Do take a few minutes to watch the video below regarding on boarding process and guide.
 
