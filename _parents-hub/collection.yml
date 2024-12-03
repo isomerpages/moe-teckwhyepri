@@ -2,11 +2,6 @@ collections:
   parents-hub:
     output: true
     order:
-      - Service Providers/.keep
-      - Service Providers/Big Heart Student Care.md
-      - Service Providers/School Bus Service.md
-      - Service Providers/School Bookshop & Uniform.md
-      - Service Providers/School Dental Clinic.md
       - Useful Information.md
       - Student Administrations/.keep
       - Student Administrations/Forms & Booklists.md
@@ -15,5 +10,10 @@ collections:
       - Student Resources/.keep
       - Student Resources/ICT Resources.md
       - Student Resources/Home Based Learning.md
+      - Service Providers/.keep
+      - Service Providers/Big Heart Student Care.md
+      - Service Providers/School Bus Service.md
+      - Service Providers/School Bookshop & Uniform.md
+      - Service Providers/School Dental Clinic.md
       - Useful External Links.md
       - Parents Portal.md
