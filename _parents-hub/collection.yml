@@ -2,14 +2,14 @@ collections:
   parents-hub:
     output: true
     order:
+      - Useful Information.md
+      - Student Administrations/.keep
+      - Student Administrations/Parents Gateway App.md
+      - Student Administrations/Forms & Booklists.md
+      - Student Administrations/P1 Orientation Day.md
       - Student Resources/.keep
       - Student Resources/ICT Resources.md
       - Student Resources/Home Based Learning.md
-      - Useful Information.md
-      - Student Administrations/Parents Gateway App.md
-      - Student Administrations/.keep
-      - Student Administrations/Forms & Booklists.md
-      - Student Administrations/P1 Orientation Day.md
       - Big Heart Student Care.md
       - Service Providers.md
       - Useful External Links.md
