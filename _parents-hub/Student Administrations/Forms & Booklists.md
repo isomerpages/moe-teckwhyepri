@@ -12,7 +12,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Student%20Administrations/1a_egiro%20user%20guide%20sep23.pdf" rel="noopener noreferrer nofollow" target="_blank">eGIRO User Guide</a>
+<p><a href="/files/Student Administrations/moeegirouserguide.pdf" rel="noopener noreferrer nofollow" target="_blank">eGIRO User Guide</a>
 </p>
 </li>
 <li>
