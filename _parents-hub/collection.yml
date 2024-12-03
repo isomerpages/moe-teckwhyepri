@@ -2,6 +2,7 @@ collections:
   parents-hub:
     output: true
     order:
+      - Service Providers/Big Heart Student Care.md
       - Service Providers/Service Providers.md
       - Service Providers/.keep
       - Useful Information.md
