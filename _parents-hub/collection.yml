@@ -2,6 +2,7 @@ collections:
   parents-hub:
     output: true
     order:
+      - No Home Based Learning.md
       - Useful Information.md
       - Student Administrations/Parents Gateway App.md
       - Student Administrations/.keep
