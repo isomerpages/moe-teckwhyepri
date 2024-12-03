@@ -2,6 +2,7 @@ collections:
   parents-hub:
     output: true
     order:
+      - Service Providers/.keep
       - Useful Information.md
       - Student Administrations/.keep
       - Student Administrations/Parents Gateway App.md
