@@ -31,7 +31,7 @@ variant: tiptap
 <p>Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tabitha Wong Liang – Ji</p>
+<p>Mdm Wong Su May</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:twps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">twps@moe.edu.sg</a>
