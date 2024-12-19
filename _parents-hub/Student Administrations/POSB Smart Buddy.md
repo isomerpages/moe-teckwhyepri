@@ -19,14 +19,14 @@ details about the program and other helpful information.<em>&nbsp;</em>
 <p></p>
 </li>
 <li>
-<p><em>Letter to parents</em>
-</p>
+<p><em>Letter to parents </em>(<a href="/files/Student Administrations/POSB Smart Buddy/Letter_to_Parents.pdf" rel="noopener nofollow" target="_blank">Click here</a> to
+view)</p>
 <p></p>
 </li>
 <li>
 <p><em>Apply for Smart Buddy Watch/Card:</em>
 </p>
-<p> <a href="https://www.posb.com.sg/personal/deposits/bank-with-ease/posb-smart-buddy#slideToN101C3" rel="noopener noreferrer nofollow" target="_blank">POSB Smart Buddy | POSB Singapore</a>
+<p><a href="https://www.posb.com.sg/personal/deposits/bank-with-ease/posb-smart-buddy#slideToN101C3" rel="noopener noreferrer nofollow" target="_blank">POSB Smart Buddy | POSB Singapore</a>
 </p>
 </li>
 </ol>
