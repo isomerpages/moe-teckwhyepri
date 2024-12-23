@@ -64,18 +64,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School Staff Developer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Tan Wan Foon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_wan_foon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_wan_foon@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Year Head (P1-P2)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -179,18 +167,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wong_wai_mun_1@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_wai_mun_1@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>HOD (Character and Citizenship Education)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Christine Poon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:poon_tze_mei_christine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">poon_tze_mei_christine@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -474,7 +450,7 @@ variant: tiptap
 </tbody>
 </table>
 <hr>
-<h3>Form Teachers Primary 1</h3>
+<h3>Form Teachers Primary 1 (2024)</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -664,7 +640,7 @@ variant: tiptap
 </tbody>
 </table>
 <hr>
-<h3>Form Teachers Primary 2</h3>
+<h3>Form Teachers Primary 2 (2024)</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -858,7 +834,7 @@ variant: tiptap
 </tbody>
 </table>
 <hr>
-<h3>Form Teachers Primary 3</h3>
+<h3>Form Teachers Primary 3 (2024)</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -1011,7 +987,7 @@ variant: tiptap
 </tbody>
 </table>
 <hr>
-<h3>Form Teachers Primary 4</h3>
+<h3>Form Teachers Primary 4 (2024)</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -1180,7 +1156,7 @@ variant: tiptap
 </tbody>
 </table>
 <hr>
-<h3>Form Teachers Primary 5</h3>
+<h3>Form Teachers Primary 5 (2024)</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -1310,7 +1286,7 @@ variant: tiptap
 </tbody>
 </table>
 <hr>
-<h3>Form Teachers Primary 6</h3>
+<h3>Form Teachers Primary 6 (2024)</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -1459,18 +1435,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Email</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Associate Year Head</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Chia Siew Hua</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chia_siew_hua@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chia_siew_hua@moe.edu.sg</a>
 </p>
 </td>
 </tr>
