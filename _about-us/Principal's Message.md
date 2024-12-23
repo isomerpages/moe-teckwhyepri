@@ -4,6 +4,7 @@ permalink: /principal-s-message/
 variant: tiptap
 description: ""
 ---
+<p></p>
 <p><strong>Welcome to the new year!</strong>
 </p>
 <p>I am truly honored to take on the role of Principal at Teck Whye Primary
