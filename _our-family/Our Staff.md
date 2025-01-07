@@ -462,7 +462,7 @@ variant: tiptap
 </tbody>
 </table>
 <hr>
-<h3>Form Teachers Primary 1 </h3>
+<h3>Form Teachers Primary 1</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -1116,7 +1116,7 @@ variant: tiptap
 </tbody>
 </table>
 <hr>
-<h3>Form Teachers Primary 5 </h3>
+<h3>Form Teachers Primary 5</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
