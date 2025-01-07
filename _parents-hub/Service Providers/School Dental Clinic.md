@@ -6,8 +6,8 @@ description: ""
 third_nav_title: Service Providers
 ---
 <h4>School Dental Clinic</h4>
-<p>Teck Whye Primary's Dental Service will be shifting to Lianhua Primary
-School with effect from <strong><u>Tuesday, 25th June 2024</u></strong>.</p>
+<p>Teck Whye Primary's Dental Service will be reopened in <strong><u>March 2025</u></strong>
+</p>
 <p>In case of any dental emergencies or if students require urgent dental
 treatment, please call the following school dental clinics:</p>
 <table style="minWidth: 75px">
@@ -30,35 +30,24 @@ treatment, please call the following school dental clinics:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lianhua Primary School</p>
+<p>Greenridge Primary School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 Bukit Batok Street 52 S(659243)</p>
+<p>11 Jelapang Road, S(677744)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9783 5025</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Concord Primary School</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3 Choa Chu Kang Ave 4 S(689814)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>9114 3917</p>
+<p>9839 6594</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chua Chu Kang&nbsp;Primary School</p>
+<p>South View Primary School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>20 Choa Chu Kang Ave 2 S(689905)</p>
+<p>6 Choa Chu Kang Central, S(689762)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9822 8628</p>
+<p>9115 6994</p>
 </td>
 </tr>
 </tbody>
