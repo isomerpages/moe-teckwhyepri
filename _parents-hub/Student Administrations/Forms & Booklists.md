@@ -32,7 +32,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Student Administrations/Uniform/2025_Uniform_Order_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">Uniform Order Form 2025</a>
+<p><a href="https://shop.shanghai-uniforms.com" rel="noopener nofollow" target="_blank">Order School Uniforms via Online Shop</a>
 </p>
 </li>
 </ol>
