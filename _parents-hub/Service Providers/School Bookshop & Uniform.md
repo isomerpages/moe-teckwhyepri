@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Service Providers
 ---
 <h4>School Bookshop &amp; Uniform</h4>
-<p>Pacific Bookstores Pte Ltd.
+<p>Overseas Associates Pte Ltd
 <br>Mon – Friday : 8am – 3pm
 <br>Parents are only allowed to come in to the bookshop
 <br>From 1.50pm to 3pm
