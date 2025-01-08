@@ -1569,7 +1569,7 @@ variant: tiptap
 <p>Flexi-Adjunct Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chen KJ</p>
+<p>Mdm Chen Kai Jiuen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chen_kai_jiuen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chen_kai_jiuen@moe.edu.sg</a>
