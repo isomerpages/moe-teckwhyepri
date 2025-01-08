@@ -2,25 +2,26 @@
 title: Our Song
 permalink: /about-us/our-song/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cJzeG2lXYew" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-With heads held high  
-Our flag we fly  
-We stand with confidence and pride  
-We face the world with this one aim  
-Honour and Victory to gain
-
-Aspire and Achieve  
-Excelling at work and play  
-With a heart to make a difference  
-Touching lives along the way
-
-Aspire and Achieve  
-Let us always give our best  
-To bring Glory and Fame  
-And win a name for Teck Whye Primary  
-For Teck Whye Primary
-
-![](/images/kids.png)
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/cJzeG2lXYew"></iframe>
+</div>
+<p>With heads held high
+<br>Our flag we fly
+<br>We stand with confidence and pride
+<br>We face the world with this one aim
+<br>Honour and Victory to gain</p>
+<p>Aspire and Achieve
+<br>Excelling at work and play
+<br>With a heart to make a difference
+<br>Touching lives along the way</p>
+<p>Aspire and Achieve
+<br>Let us always give our best
+<br>To bring Glory and Fame
+<br>And win a name for Teck Whye Primary
+<br>For Teck Whye Primary</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/kids.png">
+</div>
+<p></p>
