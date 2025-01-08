@@ -127,7 +127,7 @@ variant: tiptap
 <p>HOD (English Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mohamed Melwani Bin Mohd Hasni</p>
+<p>Mr Mohamed Melwani Bin Mohd Hasni</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:mohamed_melwani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_melwani@moe.edu.sg</a>
@@ -937,7 +937,7 @@ variant: tiptap
 <p>Mr Muhammad Nazri Bin Mohayadin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:poon_tze_mei_christine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">poon_tze_mei_christine@moe.edu.sg</a>
+<p><a href="mailto:muhammad_nazri_mohayadin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_nazri_mohayadin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1185,7 +1185,7 @@ variant: tiptap
 <p>P5-3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ang Kok Cheng Casey</p>
+<p>Dr Ang Kok Cheng Casey</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ong_sock_koon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_kok_cheng_a@moe.edu.sg</a>
