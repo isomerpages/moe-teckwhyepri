@@ -271,7 +271,7 @@ variant: tiptap
 <p>Subject Head (Aesthetics)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Ching Yin June Mrs Chin</p>
+<p>Mdm Tan Ching Yin June (Mrs Chin)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_ching_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_ching_yin@moe.edu.sg</a>
@@ -661,7 +661,7 @@ variant: tiptap
 <p>P2-1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lim Choon Lee(Mrs Pang)</p>
+<p>Mdm Lim Choon Lee (Mrs Pang)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_choon_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_choon_lee@moe.edu.sg</a>
@@ -736,7 +736,7 @@ variant: tiptap
 <p>Ms Puvana M T Nathan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Puvana_M_T_Nathan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Puvana_M_T_Nathan@moe.edu.sg</a>
+<p><a href="mailto:Puvana_M_T_Nathan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">puvana_m_t_nathan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1233,9 +1233,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ong_sock_koon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ong_sock_koon@moe.edu.sg</u></a>
 </p>
-<p>
-<br>
-</p>
 </td>
 </tr>
 <tr>
@@ -1244,15 +1241,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Yeo Mui Poh Lynn</p>
-<p>
-<br>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ong_sock_koon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>yeo_mui_poh@moe.edu.sg</u></a>
-</p>
-<p>
-<br>
 </p>
 </td>
 </tr>
@@ -1581,7 +1572,7 @@ variant: tiptap
 <p>Flexi-Adjunct Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Anu Kiran Singh</p>
+<p>Ms Anu Kiran Singh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:anu_kiran_singh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">anu_kiran_singh@moe.edu.sg</a>
@@ -1661,7 +1652,7 @@ variant: tiptap
 <p>Administration Executive&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>K Nishani&nbsp;</p>
+<p>Ms K Nishani&nbsp;</p>
 </td>
 </tr>
 <tr>
