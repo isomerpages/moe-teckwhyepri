@@ -7,13 +7,18 @@ third_nav_title: Service Providers
 ---
 <h4><u>School Uniform</u></h4>
 <p>Shanghai School Uniforms Pte. Ltd.</p>
-<p>Sales Date:</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong><u>Sales Information</u></strong>
+</p>
+</td>
+</tr>
 <tr>
 <th rowspan="1" colspan="1">
 <p>Date</p>
@@ -24,7 +29,7 @@ third_nav_title: Service Providers
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Jan 7th to 12th</p>
+<p>Jan 7th to Jan 12th</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Online Pre-order Period for sel-collection in school:</p>
@@ -60,6 +65,8 @@ in school.</p>
 </tr>
 </tbody>
 </table>
+<hr>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -111,8 +118,8 @@ in school.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>10am to 1pm, 2pm to 6pm (Mon-Sat)
-<br>Not available from 1pm to 2pm (Lunch Time)
+<p>10am - 1pm, 2pm - 6pm (Mon-Sat)
+<br>Not available from 1pm - 2pm (Lunch Time)
 <br>Closed on Sunday, Public Holiday</p>
 </td>
 </tr>
