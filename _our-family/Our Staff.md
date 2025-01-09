@@ -1452,18 +1452,6 @@ variant: tiptap
 <p>Special Educational Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Zulkifli Bin Yusof</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:zulkifli_bin_yusof@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zulkifli_bin_yusof@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Special Educational Needs Officer</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Isna Elyana Binte Abdul Hamid</p>
 </td>
 <td rowspan="1" colspan="1">
