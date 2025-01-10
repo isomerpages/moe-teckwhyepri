@@ -112,6 +112,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>HOD (Character and Citizenship Education)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Sophia Tan Seok Yee&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_seok_yee_sophia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_seok_yee_sophia@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>HOD (English Language)</p>
 </td>
 <td rowspan="1" colspan="1">
