@@ -139,7 +139,7 @@ affected, even when oneâ€™s body is experiencing changes due to puberty.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 2</p>
+<p>Term 3</p>
 </td>
 </tr>
 <tr>
@@ -158,7 +158,7 @@ own responses when they encounter pornography by applying the strategy <strong>â
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 4</p>
+<p>Term 3</p>
 </td>
 </tr>
 <tr>
@@ -175,7 +175,7 @@ and how to seek help for themselves and their friends.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 5</p>
+<p>Term 3</p>
 </td>
 </tr>
 </tbody>
@@ -223,7 +223,7 @@ romantic relationship. Instead, they should focus on building strong and
 healthy friendships with their circles of friends.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 8</p>
+<p>Term 2</p>
 </td>
 </tr>
 <tr>
@@ -240,7 +240,7 @@ of teasing their peers who may be experiencing the feelings of infatuation
 and learn to behave maturely towards each other.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 9</p>
+<p>Term 2</p>
 </td>
 </tr>
 </tbody>
@@ -255,7 +255,7 @@ supplementary Sexuality Education programmes by MOE-approved external providers.
 <li>
 <p>Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong>&nbsp;need
 to complete an opt-out form. Please click <a href="https://go.gov.sg/twpssedform" rel="noopener noreferrer nofollow" target="_blank">here</a> to fill out and submit the
-opt-out form by Friday, 17 February 2025.</p>
+opt-out form by Friday, 7 February 2025.</p>
 </li>
 <li>
 <p>Parents can contact the school at 6769 1025 for discussion or to seek
