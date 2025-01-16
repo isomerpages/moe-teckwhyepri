@@ -29,7 +29,6 @@ variant: tiptap
 <p><strong>Pending update for 2025</strong>
 </p>
 <hr>
-<p></p>
 <h4>End Year Exam Schedule</h4>
 <p><strong>Pending update for 2025</strong>
 </p>
