@@ -10,10 +10,6 @@ variant: tiptap
 <p><a href="https://www.facebook.com/TWPSSG/" rel="noopener noreferrer nofollow" target="_blank">TWPS Facebook Page</a>
 </p>
 </li>
-<li>
-<p><a href="https://www.facebook.com/TWPS-Infocomm-Club-765610263451978/" rel="noopener noreferrer nofollow" target="_blank">TWPS Infocomm Club Page</a>
-</p>
-</li>
 </ul>
 <hr>
 <h4>MOE Websites</h4>
@@ -44,7 +40,6 @@ variant: tiptap
 </li>
 </ul>
 <hr>
-<p></p>
 <h4>Student Insurance Claim*</h4>
 <ul>
 <li>

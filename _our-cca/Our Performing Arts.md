@@ -2,51 +2,119 @@
 title: Our Performing Arts
 permalink: /our-cca/our-performing-arts/
 description: ""
+variant: tiptap
 ---
-<p>Our CCA are designed to cater to our pupils’ holistic well-being. We believe that we need to help pupils develop the skills, values and attitudes to manage their learning, emotional development, social interactions and physical well-being. Equipping them with the appropriate skills and nurturing the right attitudes and dispositions will help them to lead wholesome lives well into their teenage years and adulthood.</p>
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-uuj7{background-color:#fe996b;border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-uuj7">Performing Arts</th>
-    <th class="tg-uuj7">Day / Time</th>
-    <th class="tg-uuj7">Teachers-in-charge</th>
-    <th class="tg-uuj7">Email Addresses</th>
-    <th class="tg-uuj7">Description</th>
-  </tr>
-</thead>
+<p>Our CCA are designed to cater to our pupils’ holistic well-being. We believe
+that we need to help pupils develop the skills, values and attitudes to
+manage their learning, emotional development, social interactions and physical
+well-being. Equipping them with the appropriate skills and nurturing the
+right attitudes and dispositions will help them to lead wholesome lives
+well into their teenage years and adulthood.</p>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-0pky">Choir</td>
-    <td class="tg-0pky">Thursdays / 2.15-4.15pm</td>
-    <td class="tg-0pky">Mdm Abigail Teng (OIC)<br>Mrs June Chin (AIC)<br>Ms Joanne Deng</td>
-    <td class="tg-0pky">teng_yen-jin_abigail@moe.edu.sg<br>tan_ching_yin@moe.edu.sg</td>
-    <td class="tg-0pky">Members will learn and apply the fundamentals of proper vocal techniques through songs of different genres and cultures. They develop listening, sight-reading, and performing skills when they sing as an ensemble. Through singing, they will develop their confidence, learn to collaborate, and perform at various platforms within school and beyond.</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Speech &amp; Drama</td>
-    <td class="tg-0lax">Thursdays / 2.15-4.15pm</td>
-    <td class="tg-0lax">Mdm Suhaizat Md Ismail (OIC)<br>Mrs Juliana Loke (AIC)<br>Mr Jeraem River Ho<br>Ms Ang Yu Ting</td>
-    <td class="tg-0lax">suhaizat_md_ismail@moe.edu.sg<br>liaw_mee_din_juliana@moe.edu.sg</td>
-    <td class="tg-0lax">Members will learn presentation, acting and public speaking skills through fun and engaging activities. They will be equipped with tools and techniques to capture the audience’s attention and project their voices effectively. They will be given opportunities to perform to a live audience hosting events.</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">International Dance Club</td>
-    <td class="tg-0lax">Thursdays / 2.15-4.15pm</td>
-    <td class="tg-0lax">Mdm Faridah Abdul Aziz (OIC)<br>Mdm Yeo Yet Tie (AIC)<br>Ms Siti Amirah Zailani</td>
-    <td class="tg-0lax">faridah_abdul_aziz@moe.edu.sg<br>yeo_yet_tie@moe.edu.sg</td>
-    <td class="tg-0lax">International Dance CCA provides platforms for our students an opportunity to learn and experience different forms of dance steps such as the traditional and contemporary dance and display their artistic abilities.</td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Performing Arts</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Day / Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Teachers-in-charge</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email Addresses</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Description</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Choir</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thu (2pm-4pm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs June Chin (OIC)
+<br>Mr Jeraem River Ho (AIC)
+<br>Ms Loo Hwee Boon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_ching_yin@moe.edu.sg
+<br>ho_jeraem_river@moe.edu.sg
+<br>loo_hwee_boon@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Members will learn and apply the fundamentals of proper vocal techniques
+through songs of different genres and cultures. They develop listening,
+sight-reading, and performing skills when they sing as an ensemble. Through
+singing, they will develop their confidence, learn to collaborate, and
+perform at various platforms within school and beyond.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thu (2pm-4pm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Yeo Yet Tie (OIC)
+<br>Ms Siti Amirah (AIC)
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>yeo_yet_tie@moe.edu.sg
+<br>siti_amirah_zailaini@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dance provides members with the opportunity to learn a broad spectrum
+of dance gernes such as modern, ethnic and hip-hop dance. Students will
+learn to appreciate various types of music and how body movements can be
+used to enhance and express in the performing arts. Through dance, members
+will have the opportunity to build their discipline and responsibility
+through the various roles they may take up.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Speech &amp; Drama</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thu (2pm-4pm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Juliana Loke (OIC)
+<br>Ms Ang Yu Ting (AIC)
+<br>Ms. Afiqah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>liaw_mee_din_juliana@moe.edu.sg
+<br>ang_yu_ting_1@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Members will learn to be fluent and confident speakers, be imaginative
+and creative, reflective and resilient. They will have a strong sense of
+right and wrong and be able to deliver a message to the audience. They
+will apply good values in their daily lives and participate in at least
+one performance. Through this, the pupils should be able to achieve recognition
+and awards for outstanding achievement in external performance or competitions.</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-![](/images/kids.png)
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/kids.png">
+</div>
+<p></p>
