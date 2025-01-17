@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - Useful Information.md
-      - Student Administrations/P1 Orientation Slides.md
       - Student Administrations/.keep
       - Student Administrations/Forms & Booklists.md
+      - Student Administrations/P1 Orientation Slides.md
       - Student Administrations/Parents Gateway App.md
       - Student Administrations/POSB Smart Buddy.md
       - Student Resources/.keep
