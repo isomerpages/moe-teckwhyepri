@@ -69,8 +69,7 @@ perform at various platforms within school and beyond.</p>
 <p>Thu (2pm-4pm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>Mdm Yeo Yet Tie (OIC)
+<p>Mdm Yeo Yet Tie (OIC)
 <br>Ms Siti Amirah (AIC)
 <br>
 </p>
