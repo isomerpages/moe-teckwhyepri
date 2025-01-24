@@ -22,7 +22,12 @@ variant: tiptap
 </ul>
 <hr>
 <h4>Assessment</h4>
-<p><strong>Pending update for 2025</strong>
+<p><a href="/files/Parents Portal/Assessment/P1_Assessment_Plan_2025.pdf" rel="noopener nofollow" target="_blank">P1 Assessment Plan (2025)</a>
+<br><a href="/files/Parents Portal/Assessment/P2_Assessment_Plan_2025.pdf" rel="noopener nofollow" target="_blank">P2 Assessment Plan (2025)</a>
+<br><a href="/files/Parents Portal/Assessment/P3_Assessment_Plan_2025.pdf" rel="noopener nofollow" target="_blank">P3 Assessment Plan (2025)</a>
+<br><a href="/files/Parents Portal/Assessment/P4_Assessment_Plan_2025.pdf" rel="noopener nofollow" target="_blank">P4 Assessment Plan (2025)</a>
+<br><a href="/files/Parents Portal/Assessment/P5_Assessment_Plan_2025.pdf" rel="noopener nofollow" target="_blank">P5 Assessment Plan (2025)</a>
+<br><a href="/files/Parents Portal/Assessment/P6_Assessment_Plan_2025.pdf" rel="noopener nofollow" target="_blank">P6 Assessment Plan (2025)</a>
 </p>
 <hr>
 <h4>P6 Preliminary Exam</h4>
