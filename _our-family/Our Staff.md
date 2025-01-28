@@ -437,7 +437,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher (Special Education Needs)</p>
+<p>Senior Teacher (Special Educational Needs)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Sebastian Lim</p>
