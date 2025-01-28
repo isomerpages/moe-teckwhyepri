@@ -123,8 +123,7 @@ Schools Games.</p>
 <p>Track and Field</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thu (2pm-4pm)
-<br>Fri (2pm-4pm)</p>
+<p>Thu (2pm-4pm)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm K Mariaammal (OIC)
@@ -148,8 +147,7 @@ the National Schools Games.</p>
 <p>MultiSport</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thu (2pm-4pm)
-<br>Fri (2pm-4pm)</p>
+<p>Thu (2pm-4pm)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Zhang Xinchi (OIC)
