@@ -41,6 +41,7 @@ variant: tiptap
 <h5>Other Contents:</h5>
 <p><a href="/files/Parents Portal/Others/Students_GPA_Submission_Process__updated_Apr_2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">Student's Group Personal Accident (GPA) Submission Process</a>
 <br><a href="/files/Parents Portal/Others/2025_p1_parent_engagement.pdf" rel="noopener nofollow" target="_blank">2025 P1 Parents Engagement</a>
+<br><a href="/files/Parents Portal/Others/2025_p2_parent_engagement.pdf" rel="noopener nofollow" target="_blank">2025 P2 Parents Engagement</a>
 <br><a href="/files/Parents Portal/Others/2025_p5_parent_engagement.pdf" rel="noopener nofollow" target="_blank">2025 P5 Parents Engagement</a>
 <br><a href="/files/Parents Portal/Others/2025_p6_parent_engagement.pdf" rel="noopener nofollow" target="_blank">2025 P6 Parents Engagement</a>
 </p>
