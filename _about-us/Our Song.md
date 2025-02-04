@@ -4,9 +4,6 @@ permalink: /about-us/our-song/
 description: ""
 variant: tiptap
 ---
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/cJzeG2lXYew"></iframe>
-</div>
 <p>With heads held high
 <br>Our flag we fly
 <br>We stand with confidence and pride
