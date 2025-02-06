@@ -1479,7 +1479,7 @@ variant: tiptap
 <p>Ms Jocelyn Soh Tim Wen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:jocelyn_soh_time_wen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jocelyn_soh_time_wen@schools.gov.sg</a>
+<p><a href="mailto:jocelyn_soh_time_wen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jocelyn_soh_tim_wen@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1540,18 +1540,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tham_sok_fong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tham_sok_fong@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Flexi-Adjunct Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Christina Leong Sook Leng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:leong_sook_leng_christina@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leong_sook_leng_christina@moe.edu.sg</a>
 </p>
 </td>
 </tr>
