@@ -20,7 +20,7 @@ sections:
           url: /about-us/twps-in-the-news/
         - title: TWPS Newsletter
           description: Digital Newsletter
-          url: /e-newsletter
+          url: https://sites.google.com/twps.edu.sg/e-open-house/home/our-stories
   - infopic:
       title: TWPS e-OPEN HOUSE
       button: explore our school
