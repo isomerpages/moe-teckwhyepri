@@ -8,6 +8,12 @@ image: ""
 variant: tiptap
 ---
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcement/Schoolbag_1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcement/Schoolbag_2.png">
+</div>
 <p>Launched in 2008, Schoolbag is MOE’s signature repository of school stories
 that are useful and relevant to parents with school-going children. Over
 the years, it has grown into a viable communications channel of the Ministry,
