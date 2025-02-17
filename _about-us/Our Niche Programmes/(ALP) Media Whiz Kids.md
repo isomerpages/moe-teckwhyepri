@@ -20,7 +20,7 @@ skills from Lower Primary to Upper Primary.</p>
 <p><strong>Lower Primary: Language through the Arts &amp; Digital Storytelling</strong>
 <br>Building a Strong Foundation Through Engaging Experiences:</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="A Mother Tongue language drama experience for P2 students." src="/images/Niche Programme/ALP_1.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="A Mother Tongue language drama experience for P2 students." src="/images/Niche Programme/ALP_1.jpg">
 </div>
 <p><em><sup>A Mother Tongue language drama experience for P2 students.</sup></em>
 <br><strong>Language Arts and Performance:</strong> Students embark on their
@@ -34,7 +34,7 @@ school values of collaboration, responsibility, respect and resilience.
 These experiences give them the tools to become expressive storytellers
 who understand the power of media in creative expression.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="A P1 English language speech choir performance." src="/images/Niche Programme/ALP_2.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="A P1 English language speech choir performance." src="/images/Niche Programme/ALP_2.jpg">
 </div>
 <p><em><sup>A P1 English language speech choir performance.</sup></em>
 <br><strong>Digital Storytelling:</strong> Taking their storytelling skills
@@ -56,7 +56,7 @@ studio.</p>
 <p>These experiences empower students to express themselves creatively and
 develop confidence in media production.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="P2 students with their digital stories." src="/images/Niche Programme/ALP_3.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="P2 students with their digital stories." src="/images/Niche Programme/ALP_3.jpg">
 </div>
 <p><em><sup>P2 students with their digital stories.</sup></em>
 </p>
@@ -64,7 +64,7 @@ develop confidence in media production.</p>
 <p><strong>Middle and Upper Primary: Exploration, Inquiry &amp; Creative Content Production</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="P3 student engaging the audience with her research presentation." src="/images/Niche Programme/ALP_4.png">
+<img style="width: 80%;" height="auto" width="100%" alt="P3 student engaging the audience with her research presentation." src="/images/Niche Programme/ALP_4.png">
 </div>
 <p><em><sup>P3 student engaging the audience with her research presentation.</sup></em>
 <br>Taking Media Literacy to the Next Level:</p>
