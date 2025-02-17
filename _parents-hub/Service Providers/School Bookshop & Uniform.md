@@ -30,7 +30,7 @@ third_nav_title: Service Providers
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://shop.shanghai-uniforms.com/</a>
+<p><a href="https://shop.shanghai-uniforms.com/" rel="noopener nofollow" target="_blank">https://shop.shanghai-uniforms.com/</a>
 </p>
 </td>
 </tr>
