@@ -5,68 +5,19 @@ variant: tiptap
 description: ""
 third_nav_title: Service Providers
 ---
-<h4><u>School Uniform</u></h4>
-<p>Shanghai School Uniforms Pte. Ltd.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong><u>Sales Information</u></strong>
+<h4><u>School Bookshop</u></h4>
+<p><u>Overseas Associates Pte Ltd </u>
+<br>School Bookshop Operating Hours:
+<br>Monday to Friday: 8:00am to 3:00pm
+<br>
+<br>Timeslot for Parents to make purchases at the bookshop:
+<br>Monday to Friday: 1:50pm to 3:00pm</p>
+<p><a href="https://www.teckwhyepri.moe.edu.sg/parents-hub/student-administrations/app-forms/" rel="noopener nofollow" target="_blank">Booklists can be found under Student Administrations</a>
 </p>
-</td>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Date</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Details</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Jan 7th to Jan 12th</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Online Pre-order Period for sel-collection in school:</p>
-<p>https://shop.shanghai-uniforms.com/</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Jan 13th onwards</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>You may also purchase your uniforms via our Online Shop <a href="http://www.shanghai-uniforms.com" rel="noopener noreferrer nofollow" target="_blank">www.shanghai-uniforms.com</a> with
-home delivery charge of $10.00 per order.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Jan 17th
-<br>10am to 3pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Self-Collection in school for pre-order made from 7th to 12th Jan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mid Feb onwards</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Parents/guardians can purchase their school uniforms from the school bookshop
-in school.</p>
-</td>
-</tr>
-</tbody>
-</table>
 <hr>
-<p></p>
+<h4><u>School Uniform</u></h4>
+<p><u>Shanghai School Uniforms Pte. Ltd.</u>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -74,20 +25,18 @@ in school.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="2">
-<p><u>School Uniform Retail Outlet</u>
+<td rowspan="1" colspan="1">
+<p><strong>Website</strong>
 </p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Strictly by Appointment booking ONLY via <a href="http://www.shop.shanghai-uniforms.com/appointment-booking/" rel="noopener noreferrer nofollow" target="_blank">www.shop.shanghai-uniforms.com/appointment-booking/</a>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://shop.shanghai-uniforms.com/</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Address</strong>
+<p><strong>Retail Outlet Address</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -96,11 +45,20 @@ in school.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Contact No</strong>
+<p><strong>Contact No Retail</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6747 8037</p>
+<p>+65 6747 8037</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Contact No Office</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>+65 6352 2741</p>
 </td>
 </tr>
 <tr>
@@ -118,22 +76,13 @@ in school.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>10am - 1pm, 2pm - 6pm (Mon-Sat)
-<br>Not available from 1pm - 2pm (Lunch Time)
+<p>10:00am to 1:00pm, 2:00pm to 6:00pm (Mon-Sat)
+<br>Not available from 1:00pm to 2:00pm (Lunch Time)
 <br>Closed on Sunday, Public Holiday</p>
 </td>
 </tr>
 </tbody>
 </table>
-<hr>
-<h4><u>School Bookshop</u></h4>
-<p>Overseas Associates Pte Ltd
-<br>Mon – Friday : 8am – 3pm
-<br>Parents are only allowed to come in to the bookshop
-<br>From 1.50pm to 3pm</p>
-<p><a href="https://www.teckwhyepri.moe.edu.sg/parents-hub/student-administrations/app-forms/" rel="noopener nofollow" target="_blank">Booklists can be found under Student Administrations</a>
-</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/kids.png">
 </div>
