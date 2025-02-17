@@ -92,6 +92,7 @@ at home, work and society.</p>
 </div>
 <p><sup>A Senior Student Councillor mentors juniors on adaptability in Safety CHAMP duties, inspiring leadership with confidence, compassion, and responsibility.</sup>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/kids.png">
 </div>
