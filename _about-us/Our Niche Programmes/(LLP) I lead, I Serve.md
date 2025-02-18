@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Niche Programme/LLP_1.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Niche Programme/LLP_1.png">
 </div>
 <p>At Teck Whye Primary School, every CHAMP is a leader. Our Learning for
 Life Programme (LLP), inspired by Kouzes and Posner’s Leadership Model,
@@ -88,7 +88,7 @@ at home, work and society.</p>
 <p><sup>Leading with confidence! Our Head and Vice Head Student Councillors take the stage to reinforce etiquette, exemplifying respect, responsibility, and service.</sup>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Niche Programme/LLP_5.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Niche Programme/LLP_5.jpg">
 </div>
 <p><sup>A Senior Student Councillor mentors juniors on adaptability in Safety CHAMP duties, inspiring leadership with confidence, compassion, and responsibility.</sup>
 </p>
