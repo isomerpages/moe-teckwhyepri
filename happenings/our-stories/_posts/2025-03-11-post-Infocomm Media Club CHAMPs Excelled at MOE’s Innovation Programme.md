@@ -7,7 +7,6 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h1>Infocomm Media Club CHAMPs Shine with Certificate of Distinction for ‘TWPS Travel-verse’ Innovation</h1>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Stories/IMC MOE IvP 2025/infocomm.jpg">
