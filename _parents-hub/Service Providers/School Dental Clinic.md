@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Service Providers
 ---
-<h4>School Dental Clinic</h4>
 <p><a href="/files/Dental Information/Mar_2025.pdf" rel="noopener nofollow" target="_blank">Click here to view Teck Whye Primary School's Dental Clinic Schedule for March 2025</a>
 <br>Clinic contact number: 9839 6594
 <br>In case of any dental emergencies or if students require urgent dental
