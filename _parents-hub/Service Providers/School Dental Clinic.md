@@ -7,8 +7,10 @@ third_nav_title: Service Providers
 ---
 <p><a href="/files/Dental Information/Mar_2025.pdf" rel="noopener nofollow" target="_blank">Teck Whye Primary School's Dental Clinic Schedule for March 2025 (click to view)</a>
 <br>Clinic contact number: 9839 6594
-<br>In case of any dental emergencies or if students require urgent dental
-treatment, please call the following school dental clinics:</p>
+<br>
+</p>
+<p>If you require any urgent dental treatment and the clinic is closed, please
+call one of the School Dental Clinic (SDC) below for assistance:</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -62,9 +64,7 @@ treatment, please call the following school dental clinics:</p>
 </tr>
 </tbody>
 </table>
-<p>In case of clinic closure and emergency treatment is needed (tooth broken/knocked
-out), facial swelling or severe toothache, please contact School Dental
-Centre via email: <a href="mailto:contact_YPS@hpb.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>contact_YPS@hpb.gov.sg</u></a>
+<p>For general enquiry, please email: <a href="mailto:contact_YPS@hpb.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>contact_YPS@hpb.gov.sg</u></a>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
