@@ -6,9 +6,9 @@ description: ""
 third_nav_title: Service Providers
 ---
 <h4>School Dental Clinic</h4>
-<p>Teck Whye Primary's Dental Service will be reopened in <strong><u>March 2025</u></strong>
-</p>
-<p>In case of any dental emergencies or if students require urgent dental
+<p><a href="/files/Dental Information/Mar_2025.pdf" rel="noopener nofollow" target="_blank">Click here to view Teck Whye Primary School's Dental Clinic Schedule for March 2025</a>
+<br>Clinic contact number: 9839 6594
+<br>In case of any dental emergencies or if students require urgent dental
 treatment, please call the following school dental clinics:</p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -25,7 +25,7 @@ treatment, please call the following school dental clinics:</p>
 <p>Address</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Tel / Email</p>
+<p>Tel</p>
 </th>
 </tr>
 <tr>
@@ -48,6 +48,17 @@ treatment, please call the following school dental clinics:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9115 6994</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chua Chu Kang Primary School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>20 Choa Chu Kang Ave 2, Singapore 689905</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9822 8628</p>
 </td>
 </tr>
 </tbody>
