@@ -1261,7 +1261,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm&nbsp; Juanna Binte Jumari&nbsp;&nbsp;&nbsp;</p>
+<p>Mdm&nbsp;Juanna Binte Jumari&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:junna_jumari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">juanna_jumari@moe.edu.sg</a>
