@@ -240,15 +240,19 @@ with research-grade observation and best-photographed observation.</p>
 <h2>EAGLES Awards</h2>
 <p>The Edusave Award for Achievement, Good Leadership and Service (EAGLES)
 is given by the government annually to Singaporean pupils to recognize
-pupils’ leadership qualities, services rendered to the school and the community,
-and excellence in non-academic activities. Up to 10% of students from each
-school selected for the award will receive an award amount of $250 from
-MOE.</p>
+pupils’ leadership qualities, services rendered to the school and community,
+excellence in non-academic activities and demonstration of Emerging 21<sup>st</sup> Century
+Competencies (E21CC).</p>
+<p>Up to 15% of P4 to P6 students and 5% of P1 to P3 students from each school
+are selected for this award each year. P4 to P6 awardees will receive an
+award amount of $250 from MOE, while P1 to P3 awardees will receive an
+award amount of $200 from MOE.</p>
 <p>The school adopts a stringent process in the selection of the award recipients
-based on teachers’ recommendations and the pupils’ CCA records (Achievement,
-Leadership or Service). In addition, these Singaporean pupils will need
-to pass their school examinations and attain a conduct grade of ‘Good’
-or better, before they qualify for it.</p>
+based on teachers’ recommendations and the pupils’ CCA records for P3 to
+P6. P1 and P2 students are selected based on teachers’ recommendations
+during the Programme for Active Learning (PAL) lessons. Students can be
+nominated for any of these 4 criteria: Achievement, Leadership, Service
+or demonstration of Emerging 21<sup>st</sup> Century Competencies (E21CC).</p>
 <p><strong>We are pleased to announce the recipients of EAGLES Award for 2024:</strong>
 </p>
 <table style="minWidth: 100px">
