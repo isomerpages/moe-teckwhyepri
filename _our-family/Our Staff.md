@@ -989,7 +989,7 @@ variant: tiptap
 </tbody>
 </table>
 <hr>
-<h3>Form Teachers Primary 4 </h3>
+<h3>Form Teachers Primary 4</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
