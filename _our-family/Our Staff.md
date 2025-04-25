@@ -480,7 +480,7 @@ variant: tiptap
 </tbody>
 </table>
 <hr>
-<h3>Form Teachers Primary 1 (2025)</h3>
+<h3>Form Teachers Primary 1</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -651,7 +651,7 @@ variant: tiptap
 </tbody>
 </table>
 <hr>
-<h3>Form Teachers Primary 2 (2025)</h3>
+<h3>Form Teachers Primary 2</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -734,7 +734,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>P2-4</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -751,6 +751,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ong_sock_koon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Puvana_M_T_Nathan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Mohammad Affendy Bin Abdullah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ong_sock_koon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohammad_affendy_abdullah_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -820,7 +829,7 @@ variant: tiptap
 </tbody>
 </table>
 <hr>
-<h3>Form Teachers Primary 3 (2025)</h3>
+<h3>Form Teachers Primary 3</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -857,6 +866,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ong_sock_koon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chng_seet_min_charmian@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Chen Pei Lu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ong_sock_koon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chen_pei_lu_A@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -940,7 +961,7 @@ variant: tiptap
 <p>Mr Muhammad Nazri Bin Mohayadin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ong_sock_koon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">poon_tze_mei_christine@moe.edu.sg</a>
+<p><a href="mailto:muhammad_nazri_mohayadin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_nazri_mohayadin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -968,7 +989,7 @@ variant: tiptap
 </tbody>
 </table>
 <hr>
-<h3>Form Teachers Primary 4 (2025)</h3>
+<h3>Form Teachers Primary 4</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -1126,7 +1147,7 @@ variant: tiptap
 </tbody>
 </table>
 <hr>
-<h3>Form Teachers Primary 5 (2025)</h3>
+<h3>Form Teachers Primary 5</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -1283,7 +1304,7 @@ variant: tiptap
 </tbody>
 </table>
 <hr>
-<h3>Form Teachers Primary 6 (2025)</h3>
+<h3>Form Teachers Primary 6</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -1497,7 +1518,7 @@ variant: tiptap
 <p>Ms Jocelyn Soh Tim Wen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ong_sock_koon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jocelyn_soh_time_wen@schools.gov.sg</a>
+<p><a href="mailto:ong_sock_koon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Jocelyn_Soh_Tim_Wen@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1509,7 +1530,7 @@ variant: tiptap
 <p>Ms Gabrielle Wan Kexin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ong_sock_koon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gabrielle_wan_kexin@schools.gov.sg</a>
+<p><a href="mailto:ong_sock_koon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gabrielle_wan_kexin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1582,18 +1603,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ong_sock_koon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ruvathy_arumugam_a@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Flexi-Adjunct Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Khusairi Bin Suradi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ong_sock_koon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">khusairi_suradi_b@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1753,6 +1762,9 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p>
+<br>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/kids.png">
 </div>
