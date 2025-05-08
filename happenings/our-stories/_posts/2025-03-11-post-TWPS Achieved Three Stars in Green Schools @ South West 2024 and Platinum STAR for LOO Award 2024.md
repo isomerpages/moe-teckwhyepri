@@ -10,7 +10,7 @@ variant: tiptap
 ---
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="560" width="315" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6N5bVguHTwQ"></iframe>
+<iframe height="550" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6N5bVguHTwQ"></iframe>
 </div>
 <p>Congratulations to our staff and students for achieving three stars in
 Green Schools @ South West 2024 and Platinum STAR for LOO Award 2024! Well
