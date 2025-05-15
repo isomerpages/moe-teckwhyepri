@@ -40,7 +40,7 @@ the lives of the pupils.</p>
 <p>The PSG help our Primary 1 pupils settle into the school, especially during
 the recess. They are in the canteen to help pupils during recesses.</p>
 <p>The PSG are also actively involved in the school’s events. They significantly
-contribute to the organization and management of school events. Not only
+contribute to the organisation and management of school events. Not only
 that, they also design stage decorations to create the right atmosphere
 for events. They help with event booths, promoting the culture of various
 ethnic groups, National Education messages, green messages and many more.
