@@ -5,6 +5,35 @@ description: ""
 variant: tiptap
 ---
 <h2>Parents Support Group</h2>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Family/Our PSG/TTD_Group_Pic.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Family/Our PSG/PSG_group_pic.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Family/Our PSG/Group_Pic_3.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <p>Parents are crucial stakeholders to the school. We are thankful for a
 group of parents who have volunteered their services to the school to enrich
 the lives of the pupils.</p>
