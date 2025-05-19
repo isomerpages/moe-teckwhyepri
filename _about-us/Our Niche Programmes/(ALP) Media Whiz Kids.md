@@ -6,10 +6,10 @@ third_nav_title: Our Niche Programmes
 variant: tiptap
 ---
 <p>Teck Whye Primary School believes that communication is the key to success
-in the 21st century. Our signature Applied Learning Programme (ALP) in
-Languages - <strong>Media Whiz Kids - </strong>is designed to nurture students
-into confident and competent communicators capable of producing engaging
-and creative content across various presentation media.</p>
+in the 21st century. Our applied learning experiences in Languages - <strong>Media Whiz Kids - </strong>are
+designed to nurture students into confident and competent communicators
+capable of producing engaging and creative content across various presentation
+media.</p>
 <p><strong>A Holistic Approach to Media Literacy</strong>
 <br>Our carefully curated programme is a collaboration between the English
 Language (EL) and Mother Tongue Language (MTL) departments. It is integrated
