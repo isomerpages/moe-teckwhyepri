@@ -31,8 +31,7 @@ variant: tiptap
 </p>
 <hr>
 <h4>P6 Preliminary Exam</h4>
-<p><strong>Pending update for 2025</strong>
-</p>
+<p></p>
 <hr>
 <h4>End Year Exam Schedule</h4>
 <p><strong>Pending update for 2025</strong>
