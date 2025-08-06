@@ -31,7 +31,8 @@ variant: tiptap
 </p>
 <hr>
 <h4>P6 Preliminary Exam</h4>
-<p><strong>Pending update for 2025</strong>
+<p><a href="/files/Parents Portal/Assessment/P6_Prelim_Exam_2025_Schedule.pdf" rel="noopener nofollow" target="_blank">P6 Preliminary Exam Schedule (2025)</a>
+<br><a href="/files/Parents Portal/Assessment/P6_Prelim_Exam_2025_Topics.pdf" rel="noopener nofollow" target="_blank">P6 Preliminary Exam Topics (2025)</a>
 </p>
 <hr>
 <h4>End Year Exam Schedule</h4>
