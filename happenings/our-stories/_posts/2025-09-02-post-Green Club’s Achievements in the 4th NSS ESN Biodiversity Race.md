@@ -7,6 +7,10 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Stories/NSS ESN Biodiversity Race 2025/Green_club_achievement.jpg">
+</div>
 <p>The Green Club of Teck Whye Primary School participated in the 4th NSS
 ESN Biodiversity Race, organised by Nature Society (Singapore)’s Every
 Singaporean A Naturalist group. We are proud to share that our CHAMPs clinched
