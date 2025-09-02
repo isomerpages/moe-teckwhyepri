@@ -8,6 +8,9 @@ image: ""
 variant: tiptap
 ---
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Stories/Our Art CHAMPS 2025/SYF_updated_2.jpg">
+</div>
 <p>Our talented P6 CHAMPs were awarded a Certificate of Recognition at the
 Singapore Youth Festival (SYF) Art Exhibition 2025 for their captivating
 macro photography piece, “Savouring Singapore: Tiny Textures, Timeless
