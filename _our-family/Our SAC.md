@@ -28,6 +28,8 @@ variant: tiptap
 <br>Mr Clement Joshua Chua Huai Keng
 <br>Miss Yeo Hwee Pey
 <br>Ms Yan Shiyan Shane</p>
+<p>Mr Zhou Weixiang Edmund</p>
+<p>Ms Chia Wei Ji Candice</p>
 </td>
 </tr>
 </tbody>
