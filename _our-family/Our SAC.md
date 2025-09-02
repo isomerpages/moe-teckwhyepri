@@ -27,9 +27,9 @@ variant: tiptap
 <p>Mdm Zainon Bte Ibrahim
 <br>Mr Clement Joshua Chua Huai Keng
 <br>Miss Yeo Hwee Pey
-<br>Ms Yan Shiyan Shane</p>
-<p>Mr Zhou Weixiang Edmund</p>
-<p>Ms Chia Wei Ji Candice</p>
+<br>Ms Yan Shiyan Shane
+<br>Mr Zhou Weixiang Edmund
+<br>Ms Chia Wei Ji Candice</p>
 </td>
 </tr>
 </tbody>
