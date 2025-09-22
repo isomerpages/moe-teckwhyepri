@@ -242,9 +242,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Subject Head (Character and Citizenship Education)</p>
-<p>
-<br>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Grace Chong</p>
