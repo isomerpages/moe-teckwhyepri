@@ -253,6 +253,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Subject Head (Malay Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Siti Amirah Binte Zailaini</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:siti_amirah_zailaini@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_amirah_zailaini@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Level Head (Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
