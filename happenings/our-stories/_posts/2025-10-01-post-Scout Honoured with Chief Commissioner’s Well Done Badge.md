@@ -7,6 +7,11 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Stories/Scout Honoured 2025/scout_honored_2025.jpg">
+</div>
+<p></p>
 <p>Congratulations to Matthew Chua (P6-4) on receiving the Chief Commissioner’s
 Well-Done Badge from the Singapore Scouts Association. Matthew exemplifies
 the Scout Promise through responsibility, patience and care, always supporting
