@@ -40,35 +40,35 @@ variant: tiptap
 <h3>School Booklist Order Form</h3>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/files/Student Administrations/Booklist/P1_Booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 1</a>
+<p><a href="/files/Student Administrations/Booklist/P1.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 1</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Student Administrations/Booklist/P2_Booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 2</a>
+<p><a href="/files/Student Administrations/Booklist/P2.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 2</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Student Administrations/Booklist/P3_Booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 3</a>
+<p><a href="/files/Student Administrations/Booklist/P3.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 3</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Student Administrations/Booklist/P4_Booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 4</a>
+<p><a href="/files/Student Administrations/Booklist/P4.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 4</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Student Administrations/Booklist/P5__Std__Booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 5</a>
+<p><a href="/files/Student Administrations/Booklist/P5__Std_.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 5</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Student Administrations/Booklist/P5__3S1F_MA__Booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 5 with Foundation Math</a>
+<p><a href="/files/Student Administrations/Booklist/P5__3S1F_MA_.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 5 with Foundation Math</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Student Administrations/Booklist/P6__Std__Booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6</a>
+<p><a href="/files/Student Administrations/Booklist/P6__Std_.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Student Administrations/Booklist/P6__Fdn__Booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6 Foundation</a>
+<p><a href="/files/Student Administrations/Booklist/P6__Fdn_.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6 Foundation</a>
 </p>
 </li>
 </ol>
