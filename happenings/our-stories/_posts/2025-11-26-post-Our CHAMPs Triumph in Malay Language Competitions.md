@@ -9,7 +9,7 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Stories/Malay Lang Comp 2025/Malay_competition.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Our Stories/Malay Lang Comp 2025/Malay_competition.jpg">
 </div>
 <p>Our Malay Language students shone brightly this year through a range of
 competitions that celebrated their creativity, teamwork and passion for
