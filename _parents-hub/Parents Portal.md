@@ -4,7 +4,7 @@ permalink: /parents-hub/parents-portal/
 description: ""
 variant: tiptap
 ---
-<h4><a href="/files/Parents Portal/parents_portal.pdf" rel="noopener nofollow" target="_blank">Parents Portal</a></h4>
+<h4><a href="/files/Parents Portal/Parents_Portal.pdf" rel="noopener nofollow" target="_blank">Parents Portal</a></h4>
 <p>Click on the above for the following resources:</p>
 <ul data-tight="true" class="tight">
 <li>
