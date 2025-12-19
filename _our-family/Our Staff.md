@@ -40,18 +40,6 @@ variant: tiptap
 <p>Vice-Principal (Academic)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Chay Gek Noi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:twps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">twps@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Vice-Principal (Academic)</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Sathya Prasad</p>
 </td>
 <td rowspan="1" colspan="1">
