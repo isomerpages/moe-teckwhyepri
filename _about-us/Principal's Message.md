@@ -7,7 +7,6 @@ description: ""
 <h1><strong>Principal's Message</strong></h1>
 <p><strong>Growing Together in 2026 at Teck Whye Primary School</strong>
 </p>
-<p></p>
 <p>We are delighted to welcome all families to a brand-new school year at
 Teck Whye Primary School—especially our new Primary 1 parents joining us
 for the first time. We look forward to partnering with you to support every
