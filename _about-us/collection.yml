@@ -2,7 +2,7 @@ collections:
   about-us:
     output: true
     order:
-      - Principal's Message.md
+      - Principal's Message 2026.md
       - TWPS in the News.md
       - Our Achievements/2024 Achievements.md
       - Our Achievements/.keep
