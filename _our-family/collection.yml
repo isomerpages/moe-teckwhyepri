@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Our Staff.md
-      - Our Staff Main.md
       - Our SAC.md
       - Our PSG.md
