@@ -145,7 +145,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD (Information and Communications Technology)</p>
+<p>HOD (Information and Communication Technology)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dr Tay Lee Yong</p>
