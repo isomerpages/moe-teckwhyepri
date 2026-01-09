@@ -172,10 +172,10 @@ description: ""
 <p>HOD (Student Management)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dr Elizabeth Ow</p>
+<p>Dr Elizabeth Ow Yeong Wai Mang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ow_yeong_wai_mang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ow_yeong_wai_mang@moe.edu.sg</a> 
+<p><a href="mailto:ow_yeong_wai_mang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ow_yeong_wai_mang@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -537,7 +537,7 @@ description: ""
 <p>P1-2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dr Elizabeth Ow</p>
+<p>Dr Elizabeth Ow Yeong Wai Mang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:OW_YEONG_WAI_MANG@MOE.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">ow_yeong_wai_mang@moe.edu.sg</a>
