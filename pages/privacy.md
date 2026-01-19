@@ -3,49 +3,13 @@ title: Privacy Statement
 permalink: /privacy/
 variant: tiptap
 ---
-<h4><strong>CONSENT FOR THE USE OF PHOTOGRAPHS / VIDEOS OF STUDENTS IN SCHOOL COMMUNICATION PLATFORMS AND FOR TEACHING AND LEARNING PURPOSES</strong></h4>
-<p>Our school may collect and use photographs/videos of students without
-explicit consent under circumstances permitted by the Instruction Manual
-on ICT &amp; Smart Systems Management (IM8) and Personal Data Protection
-Act 2012 (PDPA), including when:</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>The collection or use is necessary for any purpose that is clearly in
-the interests of the individual, if consent cannot be obtained in a timely
-way or the individual would not reasonably be expected to withhold consent</p>
-</li>
-<li>
-<p>The collection or use is necessary to respond to an emergency that threatens
-life, health or safety</p>
-</li>
-<li>
-<p>The personal data is publicly available</p>
-</li>
-<li>
-<p>The collection or use is necessary for investigation or proceedings</p>
-</li>
-<li>
-<p>The collection or use is necessary for evaluative purposes</p>
-</li>
-</ol>
-<h4><strong>School Communication and Publicity</strong></h4>
-<p>Photographs or video images of students or their parents/legal guardians
-may be taken during school activities and events such as classroom lessons,
-CCA, school camps, or school concerts. The school may use and publish such
-photographs or video recordings in school publications, the school’s website,
-social media channels, or other communication channels.</p>
-<h4><strong>Teaching and Learning Purposes</strong></h4>
-<p>Photographs or video recordings may also be taken during various educational
-activities including classroom lessons, assessments, presentations, and
-learning activities. The school may use these recordings for educational
-purposes including assessment, instruction, professional development, and
-improving teaching and learning practices. Recordings will be stored securely
-and used only by authorized school personnel for legitimate educational
-purposes.</p>
-<p>If you do not wish for your child/yourself to be featured in these materials,
-please inform the school via <a href="https://go.gov.sg/twps-media-nonconsent" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/twps-media-nonconsent</a>
-</p>
-<p></p>
+<h3><strong>TECK WHYE PRIMARY SCHOOL PRIVACY STATEMENT</strong></h3>
+<h4>1.&nbsp; This is a Fuhua Primary School website. Thank you for examining our privacy statement.</h4>
+<h4>2&nbsp;&nbsp; If you are only browsing this website, we do not capture data that allows us to identify you individually.</h4>
+<h4>3.&nbsp; If you choose to make an application or send us an e-mail for which you provide us with personally identifiable data, we may share necessary data with other Government agencies, so as to serve you in a most efficient and effective way, unless such sharing is prohibited by legislation. We will NOT share your personal data with non-Government entities, except where such entities have been authorised to carry out specific Government services.</h4>
+<h4>4.&nbsp; For your convenience, we may also display to you data you had previously supplied us or other Government agencies. This will speed up the transaction and save you the trouble of repeating previous submissions. Should the data be out-of-date, please supply us the latest data. We will retain your personal data only as necessary for the effective delivery of public services to you.</h4>
+<h4>5.&nbsp; To safeguard your personal data, all electronic storage and transmission of personal data are secured with appropriate security technologies.</h4>
+<h4>6.&nbsp; This site may contain links to non-Government sites whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other websites and encourage you to consult the privacy notices of those sites.</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/kids.png">
 </div>
