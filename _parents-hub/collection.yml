@@ -2,7 +2,6 @@ collections:
   parents-hub:
     output: true
     order:
-      - Media Consent.md
       - Useful Information.md
       - Student Administrations/.keep
       - Student Administrations/Forms & Booklists.md
@@ -19,3 +18,4 @@ collections:
       - Service Providers/School Dental Clinic.md
       - Useful External Links.md
       - Parents Portal.md
+      - Media Consent.md
