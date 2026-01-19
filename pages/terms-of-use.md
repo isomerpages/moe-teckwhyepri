@@ -22,7 +22,7 @@ and other forms of proprietary rights. All rights, title and interest in
 the Contents are owned by, licensed to or controlled by Teck Whye Primary
 School.</p>
 <h3><strong>Privacy Policy</strong></h3>
-<p>5. Click <a href="https://fuhuapri.moe.edu.sg/privacy/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to
+<p>5. Click <a href="https://teckwhyepri.edu.sg/privacy/" rel="noopener nofollow" target="_blank">here</a> to
 review this Web Site Privacy Statement.</p>
 <h3><strong>Restrictions on Use of Materials</strong></h3>
 <p>6. Except as otherwise provided, the Contents of this Web Site shall not
