@@ -22,29 +22,19 @@ variant: tiptap
 </ul>
 <hr>
 <h4>Assessment</h4>
-<p><a href="/files/Parents Portal/Assessment/P1_Assessment_Plan_2025.pdf" rel="noopener nofollow" target="_blank">P1 Assessment Plan (2025)</a>
-<br><a href="/files/Parents Portal/Assessment/P2_Assessment_Plan_2025.pdf" rel="noopener nofollow" target="_blank">P2 Assessment Plan (2025)</a>
-<br><a href="/files/Parents Portal/Assessment/P3_Assessment_Plan_2025.pdf" rel="noopener nofollow" target="_blank">P3 Assessment Plan (2025)</a>
-<br><a href="/files/Parents Portal/Assessment/P4_Assessment_Plan_2025.pdf" rel="noopener nofollow" target="_blank">P4 Assessment Plan (2025)</a>
-<br><a href="/files/Parents Portal/Assessment/P5_Assessment_Plan_2025.pdf" rel="noopener nofollow" target="_blank">P5 Assessment Plan (2025)</a>
-<br><a href="/files/Parents Portal/Assessment/P6_Assessment_Plan_2025.pdf" rel="noopener nofollow" target="_blank">P6 Assessment Plan (2025)</a>
+<p><strong>Pending update for 2026</strong>
 </p>
 <hr>
 <h4>P6 Preliminary Exam</h4>
-<p><a href="/files/Parents Portal/Assessment/P6_Prelim_Exam_2025_Schedule.pdf" rel="noopener nofollow" target="_blank">P6 Preliminary Exam Schedule (2025)</a>
-<br><a href="/files/Parents Portal/Assessment/P6_Prelim_Exam_2025_Topics.pdf" rel="noopener nofollow" target="_blank">P6 Preliminary Exam Topics (2025)</a>
+<p><strong>Pending update for 2026</strong>
 </p>
 <hr>
 <h4>End Year Exam Schedule</h4>
-<p><strong>Pending update for 2025</strong>
+<p><strong>Pending update for 2026</strong>
 </p>
 <hr>
 <h5>Other Contents:</h5>
-<p><a href="/files/Parents Portal/Others/Students_GPA_Submission_Process__updated_Apr_2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">Student's Group Personal Accident (GPA) Submission Process</a>
-<br><a href="/files/Parents Portal/Others/2025_p1_parent_engagement.pdf" rel="noopener nofollow" target="_blank">2025 P1 Parents Engagement</a>
-<br><a href="/files/Parents Portal/Others/2025_p2_parent_engagement.pdf" rel="noopener nofollow" target="_blank">2025 P2 Parents Engagement</a>
-<br><a href="/files/Parents Portal/Others/2025_p5_parent_engagement.pdf" rel="noopener nofollow" target="_blank">2025 P5 Parents Engagement</a>
-<br><a href="/files/Parents Portal/Others/2025_p6_parent_engagement.pdf" rel="noopener nofollow" target="_blank">2025 P6 Parents Engagement</a>
+<p><strong>Pending update for 2026</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
