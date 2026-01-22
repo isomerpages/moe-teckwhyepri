@@ -33,7 +33,7 @@ variant: tiptap
 <p><strong>Pending update for 2026</strong>
 </p>
 <hr>
-<h5>Other Contents:</h5>
+<h4>Other Contents:</h4>
 <p><strong>Pending update for 2026</strong>
 </p>
 <p></p>
