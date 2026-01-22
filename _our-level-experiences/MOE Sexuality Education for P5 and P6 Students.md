@@ -20,7 +20,7 @@ on sexuality issues.</p>
 <p></p>
 </li>
 <li>
-<p>The Goals of Sexuality Education are:</p>
+<p>The <strong>Goals</strong> of Sexuality Education are:</p>
 <p>(a) Support students in managing their physiological, social and emotional
 changes as they grow up and develop safe and healthy relationships.</p>
 <p>(b) Guide students to make wise, informed and responsible decisions on
@@ -29,9 +29,10 @@ sexuality matters.</p>
 others by having positive mainstream values and attitudes about sexuality
 that are premised on the family as the basic unit of society.</p>
 <p></p>
+<p></p>
 </li>
 <li>
-<p>The Key Messages of Sexuality Education are:</p>
+<p>The<strong> Key Messages</strong> of Sexuality Education are:</p>
 <p>(a) Love and respect yourself as you love and respect others;</p>
 <p>(b) Build positive relationships based on love and respect (which are
 the foundation for strong families);</p>
@@ -44,7 +45,7 @@ ones.</p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
 <hr>
-<h4><strong>Overview of TECK WHYE PRIMARY SCHOOL’S Sexuality Education Programme for 2025</strong></h4>
+<h4><strong>Overview of Teck Whye Primary School’s Sexuality Education Programme for 2026</strong></h4>
 <p></p>
 </li>
 <li>
@@ -89,14 +90,14 @@ to make wise, informed and responsible decisions to keep themselves safe
 from sexuality-related risks.</p>
 </li>
 </ol>
-<p><strong>At Teck Whye Primary School, the following Sexuality Education lessons will be taught in 2025:</strong>
+<p><strong>At Teck Whye Primary School, the following Sexuality Education lessons will be taught in 2026:</strong>
 </p>
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 35%;" height="150" width="150" src="/images/moe%20img.jpg">
 </div>
-<h4>2025 Sexuality Education Lessons in CCE</h4>
+<h4>2026 Sexuality Education Lessons in CCE</h4>
 <h3>Primary 5</h3>
 <table style="minWidth: 100px">
 <colgroup>
@@ -138,7 +139,7 @@ affected, even when one’s body is experiencing changes due to puberty.</p>
 <p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
 </p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Term 3</p>
 </td>
 </tr>
@@ -157,9 +158,6 @@ own responses when they encounter pornography by applying the strategy <strong>�
 <p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Term 3</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -173,9 +171,6 @@ victims. They also learn how to take precautionary measures to be safe
 and how to seek help for themselves and their friends.</p>
 <p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 3</p>
 </td>
 </tr>
 </tbody>
@@ -222,8 +217,9 @@ infatuated with someone does not mean that they should be involved in a
 romantic relationship. Instead, they should focus on building strong and
 healthy friendships with their circles of friends.</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Term 2</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -239,9 +235,6 @@ boundaries of any relationship. They will also recognise the negative impact
 of teasing their peers who may be experiencing the feelings of infatuation
 and learn to behave maturely towards each other.</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Term 2</p>
-</td>
 </tr>
 </tbody>
 </table>
@@ -254,12 +247,13 @@ supplementary Sexuality Education programmes by MOE-approved external providers.
 </li>
 <li>
 <p>Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong>&nbsp;need
-to complete an opt-out form. Please click <a href="https://go.gov.sg/twpssedform" rel="noopener noreferrer nofollow" target="_blank">here</a> to fill out and submit the
-opt-out form by Friday, 7 February 2025.</p>
+to complete an opt-out form. Please click <a href="https://go.gov.sg/twpssedu2026" rel="noopener nofollow" target="_blank">here</a> to fill out and submit the
+opt-out form by Friday, 30th January 2025.</p>
 </li>
 <li>
-<p>Parents can contact the school at 6769 1025 for discussion or to seek
-clarification about the school’s Sexuality Education programme.</p>
+<p>Parents can contact the school at 6769 1025 (General Office) or <a href="mailto:twps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">twps@moe.edu.sg</a> for
+discussion or to seek clarification about the school’s Sexuality Education
+programme.</p>
 </li>
 </ol>
 <div class="isomer-image-wrapper">
