@@ -337,6 +337,18 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Administration Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Jerald Leong Poh Sheng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:leong_poh_sheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leong_poh_sheng@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>ICT Manager</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -467,7 +479,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher (Lower Primary)</p>
+<p>Senior Teacher (Lower Primary Learners)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Ong Huizhen (Mrs Poh)</p>
