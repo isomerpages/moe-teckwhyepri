@@ -479,7 +479,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher (Lower Primary)</p>
+<p>Senior Teacher (Lower Primary Learners)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Ong Huizhen (Mrs Poh)</p>
