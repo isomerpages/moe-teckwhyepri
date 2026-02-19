@@ -45,12 +45,14 @@ well into their teenage years and adulthood.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lim Mingli (OIC)
-<br>Ms. Eileen Tan (AIC)
-<br>Ms. Maria</p>
+<br>Ms. Maria Liyana (AIC)
+<br>Ms Haslinda
+<br>Mohamad Hafiz Bin Mohamad Helmi
+<br>Ms. Eileen Tan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>lim_mingli@moe.edu.sg
-<br>tan_xiu_ying_eileen@moe.edu.sg maria_liyana_mohd_mokhti@moe.edu.sg</p>
+<br>maria_liyana_mohd_mokhti@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Members will go through a programme in an environment that is intellectually
