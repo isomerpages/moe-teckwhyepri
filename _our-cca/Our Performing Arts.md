@@ -44,14 +44,13 @@ well into their teenage years and adulthood.</p>
 <p>Thu (2pm-4pm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs June Chin (OIC)
-<br>Mr Jeraem River Ho (AIC)
-<br>Ms Loo Hwee Boon</p>
+<p>Mr Jeraem River Ho (OIC)
+<br>Mrs June Chin (AIC)
+<br>Mdm Rachelle Ke</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_ching_yin@moe.edu.sg
-<br>ho_jeraem_river@moe.edu.sg
-<br>loo_hwee_boon@moe.edu.sg</p>
+<p>ho_jeraem_river@moe.edu.sg
+<br>tan_ching_yin@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Members will learn and apply the fundamentals of proper vocal techniques
@@ -63,28 +62,26 @@ perform at various platforms within school and beyond.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Dance</p>
+<p>Modern Dance</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Thu (2pm-4pm)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Yeo Yet Tie (OIC)
-<br>Ms Siti Amirah (AIC)
-<br>
-</p>
+<br>Mdm Siti Amirah (AIC)
+<br>Mdm Suhaizat</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>yeo_yet_tie@moe.edu.sg
 <br>siti_amirah_zailaini@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dance provides members with the opportunity to learn a broad spectrum
-of dance gernes such as modern, ethnic and hip-hop dance. Students will
-learn to appreciate various types of music and how body movements can be
-used to enhance and express in the performing arts. Through dance, members
-will have the opportunity to build their discipline and responsibility
-through the various roles they may take up.</p>
+<p>Members will have the opportunity to learn a broad spectrum of dance genres
+such as modern, ethnic and hip-hop dance. They will develop an appreciation
+for various types of music and learn how body movements can enhance expression
+in the performing arts. Through dance, members will develop discipline
+and a sense of responsibility as they take on various roles.</p>
 </td>
 </tr>
 <tr>
@@ -97,7 +94,7 @@ through the various roles they may take up.</p>
 <td rowspan="1" colspan="1">
 <p>Mdm Juliana Loke (OIC)
 <br>Ms Ang Yu Ting (AIC)
-<br>Ms. Afiqah</p>
+<br>Nur Anamaria</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>liaw_mee_din_juliana@moe.edu.sg
