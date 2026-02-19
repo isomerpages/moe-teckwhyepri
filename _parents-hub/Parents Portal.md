@@ -34,7 +34,7 @@ variant: tiptap
 </p>
 <hr>
 <h4>Other Contents:</h4>
-<p><strong>Pending update for 2026</strong>
+<p><a href="/files/Parents Portal/Others/2026_p3_p4_parent_engagement.pdf" rel="noopener nofollow" target="_blank">P3 &amp; P4 Parents' Engagement Slides 2026</a>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
