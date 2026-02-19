@@ -44,14 +44,14 @@ well into their teenage years and adulthood.</p>
 <p>Thu (2pm-4pm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Yip Lai Kheng (OIC)
-<br>Ms Grace Chong (AIC)
-<br>Ms Estherelda Chin
-<br>Ms. Chen Lili</p>
+<p>Ms Grace Chong (advisor)
+<br>Ms Yip Lai Kheng (OIC)
+<br>Poh You Ting (AIC)
+<br>Ms Estherelda Chin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>yip_lai_kheng@moe.edu.sg
-<br>grace_chong@moe.edu.sg</p>
+<br>poh_you_ting@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Members will cultivate strong character based on core values, global awareness,
@@ -71,15 +71,17 @@ and in the broader community.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Sri Ganesh Yuwen Raman (OIC)
+<br>Mdm Juanna (AIC)
 <br>Ms Gan Yeh Li (AIC)
-<br>Mdm Arockiamary
-<br>Mdm Juanna Johari
+<br>Mdm Tuo Xiane
+<br>Mr Ahmad Salikin
 <br>Mdm Masnah Masod
-<br>Ms Florence Loo
-<br>Ms Ong Su Ting</p>
+<br>Mdm Arockiamary
+<br>Ms Florence Loo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>sri_ganesh_yuwen_raman@moe.edu.sg
+<br>juanna_jumari@moe.edu.sg
 <br>gan_yeh_li@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -90,32 +92,6 @@ apply useful knowledge and skills through a variety of programmes such
 as Game &amp; Prototype Development and Photography. We aim to guide our
 IMC members to become Confident Communicators and Critical Thinkers who
 are Future Ready.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Student Council</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Student Council
-<br>(Selected Fridays)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs. Patricia Lee (OIC)
-<br>Ms. Prema (AIC)
-<br>Ms Samantha Ting
-<br>Mdm. Shirah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lee_soo_chuen@moe.edu.sg
-<br>prema_suresh@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Student Councilors are nominated and selected by teachers based on their
-enactment of the CHAMPs values and their ability to be role models to their
-peers. During the weekly sessions, they will learn basic leadership and
-communication skills in order to contribute effectively in maintaining
-a caring and nurturing environment in the school.</p>
 </td>
 </tr>
 </tbody>
