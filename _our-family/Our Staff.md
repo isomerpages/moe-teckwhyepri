@@ -175,7 +175,7 @@ description: ""
 <p>Dr Elizabeth Ow Yeong Wai Mang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ow_yeong_wai_mang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ow_yeong_wai_mang@moe.edu.sg</a>
+<p><a href="mailto:elizabeth_ow_yeong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">elizabeth_ow_yeong@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -552,7 +552,7 @@ description: ""
 <p>Dr Elizabeth Ow Yeong Wai Mang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:OW_YEONG_WAI_MANG@MOE.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">ow_yeong_wai_mang@moe.edu.sg</a>
+<p><a href="mailto:elizabeth_ow_yeong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">elizabeth_ow_yeong@moe.edu.sg</a>
 </p>
 </td>
 </tr>
