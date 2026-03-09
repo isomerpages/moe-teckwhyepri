@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Service Providers
 ---
-<p><a href="/files/Dental Information/Feb_2026.pdf" rel="noopener nofollow" target="_blank">Teck Whye Primary School's Dental Clinic Schedule for February 2026 (click to view)</a>
+<p><a href="/files/Dental Information/Mar_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Teck Whye Primary School's Dental Clinic Schedule for March 2026 (click to view)</a>
 <br>Clinic contact number: 9839 6594
 <br>
 </p>
