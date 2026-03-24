@@ -29,7 +29,7 @@ sections:
       button: Click here to Join!
       url: https://teams.microsoft.com/meet/45520406448697?p=90GIbJaMnqS1qWXZf7
       alt: TWPS NEWSPAPER
-      image: /images/TWPS_NEWSPAPER.jpg
+      image: /images/Announcement/TWPS_VIRTUAL_OPEN_HOUSE.jpg
   - infopic:
       title: TWPS e-OPEN HOUSE
       button: explore our school
