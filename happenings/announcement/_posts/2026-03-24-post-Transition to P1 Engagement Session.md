@@ -14,3 +14,7 @@ variant: tiptap
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Announcement/https___go_gov_sg_twps_engagement_transition_to_p1.png">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/kids.png">
+</div>
+<p></p>
