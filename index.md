@@ -25,11 +25,11 @@ sections:
       title: TWPS Virtual Open House
       id: infopic
       description: Teck Whye Primary School invites you to our annual Transition to P1
-        Engagement Session
-      button: Click here to know more!
-      url: /transition-to-p1-engagement-session/
+        Engagement Session on 22nd May 2026
+      button: Click here to Join!
+      url: https://teams.microsoft.com/meet/45520406448697?p=90GIbJaMnqS1qWXZf7
       alt: TWPS NEWSPAPER
-      image: /images/You_are_Invited_3.jpg
+      image: /images/TWPS_NEWSPAPER.jpg
   - infopic:
       title: TWPS e-OPEN HOUSE
       button: explore our school
