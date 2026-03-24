@@ -27,7 +27,7 @@ sections:
       description: Teck Whye Primary School invites you to our annual Transition to P1
         Engagement Session
       button: Click here to know more!
-      url: https://teams.microsoft.com/meet/45520406448697?P=90GIBJAMNQS1QWXZF7
+      url: /transition-to-p1-engagement-session/
       alt: TWPS NEWSPAPER
       image: /images/You_are_Invited_3.jpg
   - infopic:
