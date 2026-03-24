@@ -22,6 +22,14 @@ sections:
           description: Digital Newsletter
           url: https://sites.google.com/twps.edu.sg/e-open-house/home/our-stories
   - infopic:
+      title: TITLE
+      subtitle: Subtitle
+      id: infopic
+      description: DESCRIPTION
+      button: Button Text
+      url: https://teams.microsoft.com/meet/45520406448697?P=90GIBJAMNQS1QWXZF7
+      alt: Image alt text
+  - infopic:
       title: TWPS e-OPEN HOUSE
       button: explore our school
       url: https://sites.google.com/twps.edu.sg/e-open-house/home
