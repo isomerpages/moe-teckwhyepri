@@ -22,7 +22,7 @@ sections:
           description: Digital Newsletter
           url: https://sites.google.com/twps.edu.sg/e-open-house/home/our-stories
   - infopic:
-      title: TWPS NEWSPAPER
+      title: TWPS Virtual Open House
       id: infopic
       description: Teck Whye Primary School invites you to our annual Transition to P1
         Engagement Session
