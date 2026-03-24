@@ -29,6 +29,7 @@ sections:
       button: Button Text
       url: https://teams.microsoft.com/meet/45520406448697?P=90GIBJAMNQS1QWXZF7
       alt: Image alt text
+      image: /images/TWPS_NEWSPAPER.jpg
   - infopic:
       title: TWPS e-OPEN HOUSE
       button: explore our school
