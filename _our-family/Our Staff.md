@@ -969,7 +969,7 @@ description: ""
 <p>Mdm Patricia Lee (Mrs Toh)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_choon_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_choon_lee@moe.edu.sg</a>
+<p><a href="mailto:lee_soo_chuen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_soo_chuen@moe.edu.sg</a>
 </p>
 </td>
 </tr>
