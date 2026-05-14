@@ -22,8 +22,32 @@ variant: tiptap
 </ul>
 <hr>
 <h4>Assessment</h4>
-<p><strong>Pending update for 2026</strong>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="/files/Parents Portal/Assessment/Letter_Assessment_Plan_P1.pdf" rel="noopener nofollow" target="_blank">Assessment Plan - P1 (2026)</a>
 </p>
+</li>
+<li>
+<p><a href="/files/Parents Portal/Assessment/Letter_Assessment_Plan_P2.pdf" rel="noopener nofollow" target="_blank">Assessment Plan - P2 (2026)</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Parents Portal/Assessment/Letter_Assessment_Plan_P3.pdf" rel="noopener nofollow" target="_blank">Assessment Plan - P3 (2026)</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Parents Portal/Assessment/Letter_Assessment_Plan_P4.pdf" rel="noopener nofollow" target="_blank">Assessment Plan - P4 (2026)</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Parents Portal/Assessment/Letter_Assessment_Plan_P5.pdf" rel="noopener nofollow" target="_blank">Assessment Plan - P5 (2026)</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Parents Portal/Assessment/Letter_Assessment_Plan_P6.pdf" rel="noopener nofollow" target="_blank">Assessment Plan - P6 (2026)</a>
+</p>
+</li>
+</ol>
 <hr>
 <h4>P6 Preliminary Exam</h4>
 <p><strong>Pending update for 2026</strong>
