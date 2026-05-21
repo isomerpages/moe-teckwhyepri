@@ -5,8 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: Service Providers
 ---
-<p><a href="/files/Dental Information/Apr_2026.pdf" rel="noopener nofollow" target="_blank">Teck Whye Primary School's Dental Clinic Schedule for April 2026 (click to view)</a>
-<br>Clinic contact number: 9839 6594
+<p><a href="/files/Dental Information/May_2026.pdf" rel="noopener nofollow" target="_blank">Teck Whye Primary School's Dental Clinic Schedule for May 2026 (click to view)</a>
+<br>Clinic contact number: 9730 1309
 <br>
 </p>
 <p>If you require any urgent dental treatment and the clinic is closed, please
