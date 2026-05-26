@@ -58,8 +58,16 @@ variant: tiptap
 </p>
 <hr>
 <h4>Other Contents:</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Parents Portal/Others/2026_parent_engagement_The_Refreshed_Approach.pdf" rel="noopener nofollow" target="_blank">Parents Engagement 2026 - Refreshed Approach to Support Primary Students</a>
+</p>
+</li>
+<li>
 <p><a href="/files/Parents Portal/Others/2026_p3_p4_parent_engagement.pdf" rel="noopener nofollow" target="_blank">P3 &amp; P4 Parents' Engagement Slides 2026</a>
 </p>
+</li>
+</ul>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/kids.png">
