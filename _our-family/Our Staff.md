@@ -229,7 +229,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD (Character and Citizenship Education) - Covering</p>
+<p>HOD (Character and Citizenship Education)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Prema Suresh</p>
@@ -320,6 +320,18 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:gan_yeh_li@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>gan_yeh_li@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head Discipline</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Jagindran</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:jagindran_krishnan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jagindran_krishnan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
