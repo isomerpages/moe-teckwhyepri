@@ -49,6 +49,18 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Vice-Principal (Academic)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Sherlyn Goh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:twps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>twps@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Vice-Principal (Administration)</p>
 </td>
 <td rowspan="1" colspan="1">
