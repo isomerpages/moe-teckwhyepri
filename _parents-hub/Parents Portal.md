@@ -54,8 +54,20 @@ variant: tiptap
 </p>
 <hr>
 <h4>End Year Exam Schedule</h4>
-<p><strong>Pending update for 2026</strong>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="/files/Parents Portal/Assessment/2026_P3_End_Year_Exam_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 3 (2026)</a>
 </p>
+</li>
+<li>
+<p><a href="/files/Parents Portal/Assessment/2026_P4_End_Year_Exam_Schedule.pdf" rel="noopener nofollow" target="_blank">Primary 4 (2026)</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Parents Portal/Assessment/2026_P5_End_Year_Exam_Schedule.pdf" rel="noopener nofollow" target="_blank">Primary 5 (2026)</a>
+</p>
+</li>
+</ol>
 <hr>
 <h4>Other Contents:</h4>
 <ul data-tight="true" class="tight">
